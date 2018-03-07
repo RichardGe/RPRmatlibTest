@@ -1,0 +1,14 @@
+
+
+
+{
+	"description" : "it's the root folder",
+
+    "list": [ 
+		"group1/" , 
+		"group2/" 
+	]
+
+
+}
+

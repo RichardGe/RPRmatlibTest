@@ -1,0 +1,22 @@
+
+
+
+
+{
+
+	
+	
+	"description" : "a shiny silver metal material",
+	
+	"keywords" : [ "metal", "silver" ],
+
+    "dependencies": [  
+		{ "file" : "material02.json"          } , 
+		{ "file" : "../imagesA/image02.png"     }  
+		]
+
+
+}
+
+
+

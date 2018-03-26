@@ -1,0 +1,11 @@
+{
+	"name" : "Wood Clear Rustic" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Wood/Wood_Clear_Rustic/Wood_Clear_Rustic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "33DBAB9B689E330BA9D7C65FCF6476AE46A7EBDF"       } ,   
+		{ "file" : "Wood/Wood_Clear_Rustic/Wood_Clear_Rustic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "153E7CAF25A1AE47E3AB0DEF5950A355C4652671"       } ,   
+		{ "file" : "Wood/Wood_Clear_Rustic/Wood_Clear_Rustic.xml",      "type" : "material_xml"  ,  "sha1" : "2697E36068B0DEAB2D961C832CAA64D68DA4F6F0"       } 
+		]
+}

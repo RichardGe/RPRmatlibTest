@@ -1,0 +1,11 @@
+{
+	"name" : "Glass Solid Yellow" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Glass/Glass_Solid_Yellow/Glass_Solid_Yellow.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "A2C292698BADF52AFB6D6170D16148E7ABE86CCA"       } ,   
+		{ "file" : "Glass/Glass_Solid_Yellow/Glass_Solid_Yellow_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D59CC77BF16ACF0AC387CFCCE2137CB326841367"       } ,   
+		{ "file" : "Glass/Glass_Solid_Yellow/Glass_Solid_Yellow.xml",      "type" : "material_xml"  ,  "sha1" : "00D59718236D9CB5BD6222295DC005329C5DB18E"       } 
+		]
+}

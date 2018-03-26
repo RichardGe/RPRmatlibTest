@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Flat Laser Lemon" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Flat_LaserLemon/Paint_Flat_LaserLemon.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "7072B8B520E2916D4872902B880C672D92503C7B"       } ,   
+		{ "file" : "Paint/Paint_Flat_LaserLemon/Paint_Flat_LaserLemon_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "A23D10675F93854EDE1760417A29DCFBB8FCDF04"       } ,   
+		{ "file" : "Paint/Paint_Flat_LaserLemon/Paint_Flat_LaserLemon.xml",      "type" : "material_xml"  ,  "sha1" : "63D93A6078315D56A388648D51FF433CF6CD8717"       } 
+		]
+}

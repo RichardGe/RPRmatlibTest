@@ -1,0 +1,13 @@
+{
+	"name" : "Rubber Diamonds" ,
+	"description" : "  " ,
+	"category" : "Rubber" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/rubber_Diamond_Normal.jpg",      "type" : "texture"  ,  "sha1" : "70920EC4AADFDAB6D95E800E181C27460DA277EB"       } ,   
+		{ "file" : "RadeonProRMaps/rubber_Diamond_specular.jpg",      "type" : "texture"  ,  "sha1" : "4D0E58A9E0B7823ABB6212901B266357A53894E8"       } ,   
+		{ "file" : "Rubber/Rubber_Diamonds/Rubber_Diamonds.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "88535B89C9B2833801C3BF2DCCA4463CDE64CA7C"       } ,   
+		{ "file" : "Rubber/Rubber_Diamonds/Rubber_Diamonds_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "AE07F481A4C6AFE01BC917C88339F46AACDBC1F6"       } ,   
+		{ "file" : "Rubber/Rubber_Diamonds/Rubber_Diamonds.xml",      "type" : "material_xml"  ,  "sha1" : "1E51B1CBA21157E00F52C79522C9CD54CFFB3C94"       } 
+		]
+}

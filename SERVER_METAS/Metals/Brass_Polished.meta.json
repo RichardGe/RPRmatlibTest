@@ -1,0 +1,12 @@
+{
+	"name" : "Brass Polished" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/BigNoise.jpg",      "type" : "texture"  ,  "sha1" : "988495FE144055814D705D5FB7EEC4C9B7C2D3C0"       } ,   
+		{ "file" : "Metals/Brass_Polished/Brass_Polished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "85E79BC5A53D867CE618DF35E76EDB048885E59A"       } ,   
+		{ "file" : "Metals/Brass_Polished/Brass_Polished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "6542763C823230AD45DA051CC43B2FAF4A36E770"       } ,   
+		{ "file" : "Metals/Brass_Polished/Brass_Polished.xml",      "type" : "material_xml"  ,  "sha1" : "FD4EDB867DA2701B473FB05CC4D2F4C995D7887B"       } 
+		]
+}

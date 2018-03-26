@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Wilderness Green" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Wilderness_Green/Car_Paint_Wilderness_Green.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "F786ACBE44658E9399CB47A1AECD52FCE72B8FA8"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Wilderness_Green/Car_Paint_Wilderness_Green_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "810691605A4B02B4C30142B4F94315090F108AE0"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Wilderness_Green/Car_Paint_Wilderness_Green.xml",      "type" : "material_xml"  ,  "sha1" : "506D01A62FEDB4445CD545BF497D020A44D8D699"       } 
+		]
+}

@@ -1,0 +1,13 @@
+{
+	"name" : "Aluminium Oxidized" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/metal_scratched0001.png",      "type" : "texture"  ,  "sha1" : "49608C709884DA7C6EE57E9F32CC8CC97BF1EA2E"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Oxidized/tex_0.png",      "type" : "texture"  ,  "sha1" : "FBF1DE0BB6BBFE50DC8B3B40C392F8D14443CEC7"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Oxidized/Aluminium_Oxidized.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "3D1B62DA289BC6B118E03C8963B7EAA4D5522229"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Oxidized/Aluminium_Oxidized_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "23A292A98FCB022B10EC1C110E48E4427099EE11"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Oxidized/Aluminium_Oxidized.xml",      "type" : "material_xml"  ,  "sha1" : "24E1CBE5317A3F1E6F518945EE57750EC267AFE4"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "USA Bright White Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/USABrightWhite_Solid/USABrightWhite_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "238DD6F95683603580F6EF2B525A3AACFA262715"       } ,   
+		{ "file" : "Car_Paints/USABrightWhite_Solid/USABrightWhite_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "F1A24EED937DADFC75D2DD98B39F7780B813EE2B"       } ,   
+		{ "file" : "Car_Paints/USABrightWhite_Solid/USABrightWhite_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "B69BFD0833C8BC494EE0A3FCB811C2AE8175EBAA"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Acrylic Refractive Glossy Red" ,
+	"description" : "  " ,
+	"category" : "Transparent_Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Glossy_Red/Acrylic_Refractive_Glossy_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "6A8302C9EBEF6D054B8B8E6322B93ECC1D0DEB9F"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Glossy_Red/Acrylic_Refractive_Glossy_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "821F8A7EC54BBBCB696C6C03115F37713D7A6271"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Glossy_Red/Acrylic_Refractive_Glossy_Red.xml",      "type" : "material_xml"  ,  "sha1" : "6236987BF37C5863BFB7143555CEFB0D32B775B7"       } 
+		]
+}

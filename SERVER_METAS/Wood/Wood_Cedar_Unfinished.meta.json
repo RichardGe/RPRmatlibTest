@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Cedar Unfinished" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Cedar_Tile.jpg",      "type" : "texture"  ,  "sha1" : "0A3FB95E25BD03CA5BB444FDD260915CE89408F9"       } ,   
+		{ "file" : "RadeonProRMaps/Cedar_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "CD0803C04A3A4B8A789BE05977F15B1AC4BCBC88"       } ,   
+		{ "file" : "Wood/Wood_Cedar_Unfinished/Wood_Cedar_Unfinished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "D0AAAD671138D6F77F20B9C2C7E66C038D0C3C5E"       } ,   
+		{ "file" : "Wood/Wood_Cedar_Unfinished/Wood_Cedar_Unfinished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "95B0C32D31B7417C16D5C78768339B2EFC222691"       } ,   
+		{ "file" : "Wood/Wood_Cedar_Unfinished/Wood_Cedar_Unfinished.xml",      "type" : "material_xml"  ,  "sha1" : "B3B91E66AA981EC5FDD32F329A9A1F52BD579BF0"       } 
+		]
+}

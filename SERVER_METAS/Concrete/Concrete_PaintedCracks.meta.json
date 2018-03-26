@@ -1,0 +1,13 @@
+{
+	"name" : "Concrete Painted Cracks" ,
+	"description" : "  " ,
+	"category" : "Concrete" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/cement_PaintedCracks.jpg",      "type" : "texture"  ,  "sha1" : "41C5AC7143BB84F8790348E0E04114353F81907F"       } ,   
+		{ "file" : "RadeonProRMaps/cement_PaintedCracks_normal.jpg",      "type" : "texture"  ,  "sha1" : "371CF7980FB506C634EDFE83EFE5098E5FE72B19"       } ,   
+		{ "file" : "Concrete/Concrete_PaintedCracks/Concrete_PaintedCracks.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "7A769B30A194420620563B9A678A655E8E105470"       } ,   
+		{ "file" : "Concrete/Concrete_PaintedCracks/Concrete_PaintedCracks_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D1B4AB3C0C1DF3992CEDBA1877D60F66834E0787"       } ,   
+		{ "file" : "Concrete/Concrete_PaintedCracks/Concrete_PaintedCracks.xml",      "type" : "material_xml"  ,  "sha1" : "5E8968242CFDD3CADEFF758EDFB6570C0A194F00"       } 
+		]
+}

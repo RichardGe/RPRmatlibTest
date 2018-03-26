@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Glossy Tropical Sea" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Glossy_TropicalSea/Paint_Glossy_TropicalSea.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "6F3A8A44678FE54D0FA5913E3EAB9575B7C23FA6"       } ,   
+		{ "file" : "Paint/Paint_Glossy_TropicalSea/Paint_Glossy_TropicalSea_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "727ADA4507793CA519F737DF3A81B1CB77139D15"       } ,   
+		{ "file" : "Paint/Paint_Glossy_TropicalSea/Paint_Glossy_TropicalSea.xml",      "type" : "material_xml"  ,  "sha1" : "FC7026EC814849EDBC75B07266D9B64AB41490F2"       } 
+		]
+}

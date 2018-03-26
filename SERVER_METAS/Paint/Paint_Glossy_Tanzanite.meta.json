@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Glossy Tanzanite" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Glossy_Tanzanite/Paint_Glossy_Tanzanite.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "46E9CE7F3E6A55DBC727052AFD9B70505B009DF9"       } ,   
+		{ "file" : "Paint/Paint_Glossy_Tanzanite/Paint_Glossy_Tanzanite_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "772B8127EA39F59D26E2CCA05D9F61CFC7B4933A"       } ,   
+		{ "file" : "Paint/Paint_Glossy_Tanzanite/Paint_Glossy_Tanzanite.xml",      "type" : "material_xml"  ,  "sha1" : "86C732C062A1E3DB1D61F0CE8BFD47D1B533C8E2"       } 
+		]
+}

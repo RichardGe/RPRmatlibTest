@@ -1,0 +1,11 @@
+{
+	"name" : "Emissive Fluorescent Magenta" ,
+	"description" : "  " ,
+	"category" : "Emissive" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Emissive/Emissive_Fluorescent_Magenta/Emissive_Fluorescent_Magenta.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "DB76B8E37D8F6FAB56E94D8827B1F05247E9D6F2"       } ,   
+		{ "file" : "Emissive/Emissive_Fluorescent_Magenta/Emissive_Fluorescent_Magenta_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "A7692B10439CB9CB0CCE64B01019C42ACE910751"       } ,   
+		{ "file" : "Emissive/Emissive_Fluorescent_Magenta/Emissive_Fluorescent_Magenta.xml",      "type" : "material_xml"  ,  "sha1" : "08F50447D48BD52A19AF08FFB28C487E7BB82D89"       } 
+		]
+}

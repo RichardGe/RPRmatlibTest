@@ -1,0 +1,12 @@
+{
+	"name" : "Copper Dented" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Copper_Dented/tex_0.png",      "type" : "texture"  ,  "sha1" : "41DADF3E0D453B6991B33072854B4A55861EACC6"       } ,   
+		{ "file" : "Extended_Metals/Copper_Dented/Copper_Dented.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "F1B132888E3E024C0D29597E5E4F07BBCB61AAE3"       } ,   
+		{ "file" : "Extended_Metals/Copper_Dented/Copper_Dented_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "6B203C0771C4A0D288186C1B688DC5E99A1192E3"       } ,   
+		{ "file" : "Extended_Metals/Copper_Dented/Copper_Dented.xml",      "type" : "material_xml"  ,  "sha1" : "553F09B5D333E31ECBC895F1636E9D65F4E908A7"       } 
+		]
+}

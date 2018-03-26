@@ -1,0 +1,12 @@
+{
+	"name" : "Gold Paint" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/metal_scratches0002.png",      "type" : "texture"  ,  "sha1" : "1C29E82418817B847DE7315EA7A2759C09C2C713"       } ,   
+		{ "file" : "Extended_Metals/Gold_Paint/Gold_Paint.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "156935A0F920876089B1AE2BFCB040975B32F748"       } ,   
+		{ "file" : "Extended_Metals/Gold_Paint/Gold_Paint_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "C3517744C5714B3E3FFB6286CD1C3A883E58BFEC"       } ,   
+		{ "file" : "Extended_Metals/Gold_Paint/Gold_Paint.xml",      "type" : "material_xml"  ,  "sha1" : "68C9B9E01FDBC51050B4FB08216E85AEDF029EFA"       } 
+		]
+}

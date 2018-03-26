@@ -1,0 +1,13 @@
+{
+	"name" : "Concrete Stone" ,
+	"description" : "  " ,
+	"category" : "Concrete" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/cement_stone.jpg",      "type" : "texture"  ,  "sha1" : "6477A6E794FB9D6F3E91783FE18953B72D1AE703"       } ,   
+		{ "file" : "RadeonProRMaps/cement_stone_normal.jpg",      "type" : "texture"  ,  "sha1" : "D78631A538CF9759A2A4768F19490B256BA94CB0"       } ,   
+		{ "file" : "Concrete/Concrete_Stone/Concrete_Stone.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "892BD0C471EEFB97919886BEEE02BF1F32A6F08E"       } ,   
+		{ "file" : "Concrete/Concrete_Stone/Concrete_Stone_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "B0FFAD253D4D273CAC994281EFEDA13337BB6A01"       } ,   
+		{ "file" : "Concrete/Concrete_Stone/Concrete_Stone.xml",      "type" : "material_xml"  ,  "sha1" : "EE6EBADB7717CD2A29BB50989CF9BA0597B836D3"       } 
+		]
+}

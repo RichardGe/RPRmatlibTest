@@ -1,0 +1,12 @@
+{
+	"name" : "Glass Car Indicator Light" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Glass_Brakelights_normal.jpg",      "type" : "texture"  ,  "sha1" : "BB10C49F0B7C88164DC58DA6E6B024D18F4F5924"       } ,   
+		{ "file" : "Glass/Glass_CarIndicatorLight/Glass_CarIndicatorLight.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B18374E0D110E0022F7A8E53935B8A3F9200BED9"       } ,   
+		{ "file" : "Glass/Glass_CarIndicatorLight/Glass_CarIndicatorLight_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "16733E263528B05D5D2867045A2CDE50EE4B8C1C"       } ,   
+		{ "file" : "Glass/Glass_CarIndicatorLight/Glass_CarIndicatorLight.xml",      "type" : "material_xml"  ,  "sha1" : "EC15E86B8218A8B8E322569E6B81C47038521D68"       } 
+		]
+}

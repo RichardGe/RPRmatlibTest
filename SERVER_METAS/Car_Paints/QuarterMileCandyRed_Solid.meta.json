@@ -1,0 +1,11 @@
+{
+	"name" : "Quarter Mile Candy Red Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/QuarterMileCandyRed_Solid/QuarterMileCandyRed_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "62D1A292A9906D5D46FFF966FB8E0EE83FF4B5C7"       } ,   
+		{ "file" : "Car_Paints/QuarterMileCandyRed_Solid/QuarterMileCandyRed_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "195D99080FE20F3B174E793F6C306658982AECFC"       } ,   
+		{ "file" : "Car_Paints/QuarterMileCandyRed_Solid/QuarterMileCandyRed_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "30920A9955EC81F3F06C6516DC14A797CE9EB8C9"       } 
+		]
+}

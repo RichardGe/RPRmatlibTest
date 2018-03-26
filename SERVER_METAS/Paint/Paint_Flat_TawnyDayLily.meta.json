@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Flat Tawny Day Lily" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Flat_TawnyDayLily/Paint_Flat_TawnyDayLily.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "CCEBB1B51B02FCDDB4FD3FBD81A12B4DE16AE664"       } ,   
+		{ "file" : "Paint/Paint_Flat_TawnyDayLily/Paint_Flat_TawnyDayLily_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D4C104F28D9F0595698F752241F611E59EF6C2D3"       } ,   
+		{ "file" : "Paint/Paint_Flat_TawnyDayLily/Paint_Flat_TawnyDayLily.xml",      "type" : "material_xml"  ,  "sha1" : "8959774C3A41F8C02CCA546F3FFC4B093D0355F7"       } 
+		]
+}

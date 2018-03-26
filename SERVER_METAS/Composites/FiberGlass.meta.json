@@ -1,0 +1,13 @@
+{
+	"name" : "Fiberglass" ,
+	"description" : "  " ,
+	"category" : "Composites" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Composite_fibreGlass.jpg",      "type" : "texture"  ,  "sha1" : "F996AC3234A5BA6CD8FFCB464BED3CE43C73C8F1"       } ,   
+		{ "file" : "RadeonProRMaps/Composite_fibreGlass_normal.jpg",      "type" : "texture"  ,  "sha1" : "C54E97CCBAB3528C9E3F5FBB7157C5A72FC36998"       } ,   
+		{ "file" : "Composites/FiberGlass/FiberGlass.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "0C600A16EA472E82BE4B16D747B3499275FF223F"       } ,   
+		{ "file" : "Composites/FiberGlass/FiberGlass_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "A616C91E49C03870AA94EEBE2DE3BB0D6EBA5C1D"       } ,   
+		{ "file" : "Composites/FiberGlass/FiberGlass.xml",      "type" : "material_xml"  ,  "sha1" : "1056974A70F2D351A883F931183748FE0408FC79"       } 
+		]
+}

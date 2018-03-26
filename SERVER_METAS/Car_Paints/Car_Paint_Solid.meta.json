@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/Car_Paint_Solid/Car_Paint_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "5D4768D388062E2FBDFB471D4F367D41F9000C58"       } ,   
+		{ "file" : "Car_Paints/Car_Paint_Solid/Car_Paint_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "5AE52DE84BF5B51711E8FA1479D082D5F3515326"       } ,   
+		{ "file" : "Car_Paints/Car_Paint_Solid/Car_Paint_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "D6C5E98CB0B3AB1CE75519B1D88C0A89842E4796"       } 
+		]
+}

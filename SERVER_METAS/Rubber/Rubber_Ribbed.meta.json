@@ -1,0 +1,13 @@
+{
+	"name" : "Rubber Ribbed" ,
+	"description" : "  " ,
+	"category" : "Rubber" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/rubber_Ribbed_Normal.jpg",      "type" : "texture"  ,  "sha1" : "BC8DE5C2709661BB4B7283D5306CB345A31197B2"       } ,   
+		{ "file" : "RadeonProRMaps/rubber_Ribbed_specular.jpg",      "type" : "texture"  ,  "sha1" : "12BBA9FCA69B933F0FB9D933CF6CCF8FA64F9E7A"       } ,   
+		{ "file" : "Rubber/Rubber_Ribbed/Rubber_Ribbed.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "AA88A5406566882136CF30EC2D7348D0ADBE37F1"       } ,   
+		{ "file" : "Rubber/Rubber_Ribbed/Rubber_Ribbed_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "E3B0DD01204C672614C504F467A5347B4458B5D7"       } ,   
+		{ "file" : "Rubber/Rubber_Ribbed/Rubber_Ribbed.xml",      "type" : "material_xml"  ,  "sha1" : "C237FDE549EA034D177F4A885E4C730228C185CA"       } 
+		]
+}

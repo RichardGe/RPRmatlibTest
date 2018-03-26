@@ -1,0 +1,11 @@
+{
+	"name" : "Gun Metal" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metals/Gun_Metal/Gun_Metal.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "AF8E0C6CB94353B20C2CF06DD5A6B37773314950"       } ,   
+		{ "file" : "Metals/Gun_Metal/Gun_Metal_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "E837713295E12434749B9C3420692EBAA37E1CA4"       } ,   
+		{ "file" : "Metals/Gun_Metal/Gun_Metal.xml",      "type" : "material_xml"  ,  "sha1" : "5EA7C6FBDF3A126EB4B479C45DAB9A96963ACFCA"       } 
+		]
+}

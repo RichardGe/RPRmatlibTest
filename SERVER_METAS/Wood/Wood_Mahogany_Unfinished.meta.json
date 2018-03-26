@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Mahogany Unfinished" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Mahogany_Tile.jpg",      "type" : "texture"  ,  "sha1" : "0B2C213E67B5C08A29ADC899891BB686601B6C1A"       } ,   
+		{ "file" : "RadeonProRMaps/Mahogany_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "07A7D61C9D4207A9DFF95D1A4CDD4A4E9F0503BB"       } ,   
+		{ "file" : "Wood/Wood_Mahogany_Unfinished/Wood_Mahogany_Unfinished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "4D05060F60889AD4605780915C2F731DD55B001A"       } ,   
+		{ "file" : "Wood/Wood_Mahogany_Unfinished/Wood_Mahogany_Unfinished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "29467AFE9C70DF73F4792951870BB248F0A93A7D"       } ,   
+		{ "file" : "Wood/Wood_Mahogany_Unfinished/Wood_Mahogany_Unfinished.xml",      "type" : "material_xml"  ,  "sha1" : "B03AC84ECCB8F6ECDED0907252E5E6C7F8091022"       } 
+		]
+}

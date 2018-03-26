@@ -1,0 +1,13 @@
+{
+	"name" : "Concrete Brick Cracks Grey" ,
+	"description" : "  " ,
+	"category" : "Concrete" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/cement_brickCracks.jpg",      "type" : "texture"  ,  "sha1" : "7EFADA370891C4CD3CA7128BF9F69CFD8789DBF4"       } ,   
+		{ "file" : "RadeonProRMaps/cement_brickCracks_normal.jpg",      "type" : "texture"  ,  "sha1" : "DFA2DEA182819730159A4867F8584DE7DAEAC07A"       } ,   
+		{ "file" : "Concrete/Concrete_BrickCracks_Grey/Concrete_BrickCracks_Grey.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "721A149E40D2AB92A4B9A05A0627B5687D956B11"       } ,   
+		{ "file" : "Concrete/Concrete_BrickCracks_Grey/Concrete_BrickCracks_Grey_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "7D6BCD1C85F789D2BA237B7C088E1D0700B1FA2F"       } ,   
+		{ "file" : "Concrete/Concrete_BrickCracks_Grey/Concrete_BrickCracks_Grey.xml",      "type" : "material_xml"  ,  "sha1" : "984FC1C75A02FFA88BA3755F6F6EAAC852657E0A"       } 
+		]
+}

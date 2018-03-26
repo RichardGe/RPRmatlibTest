@@ -1,0 +1,11 @@
+{
+	"name" : "Rubber Smooth Matte Red" ,
+	"description" : "  " ,
+	"category" : "Rubber" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Rubber/Rubber_SmoothMatte_Red/Rubber_SmoothMatte_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "DC0C5C692BF4A321F42D613C86585046D466F732"       } ,   
+		{ "file" : "Rubber/Rubber_SmoothMatte_Red/Rubber_SmoothMatte_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "58308F9752B4F9588E8E7BF28DC9C2379F88C166"       } ,   
+		{ "file" : "Rubber/Rubber_SmoothMatte_Red/Rubber_SmoothMatte_Red.xml",      "type" : "material_xml"  ,  "sha1" : "A1B84AC0FCEC26160707F153B7B4740724B7B6DF"       } 
+		]
+}

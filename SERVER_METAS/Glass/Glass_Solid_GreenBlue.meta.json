@@ -1,0 +1,11 @@
+{
+	"name" : "Glass Solid GreenBlue" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Glass/Glass_Solid_GreenBlue/Glass_Solid_GreenBlue.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "E6C7EBA0CF6743CF48E1D2AC6CFC4F1E9C60C164"       } ,   
+		{ "file" : "Glass/Glass_Solid_GreenBlue/Glass_Solid_GreenBlue_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "486D68A0F2290C330B60C734E21785680C887227"       } ,   
+		{ "file" : "Glass/Glass_Solid_GreenBlue/Glass_Solid_GreenBlue.xml",      "type" : "material_xml"  ,  "sha1" : "C20F59D658B9279B3A04229F5CE482454C087C7C"       } 
+		]
+}

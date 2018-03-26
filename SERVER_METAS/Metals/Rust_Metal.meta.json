@@ -1,0 +1,13 @@
+{
+	"name" : "Rust Metal" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Rust.jpg",      "type" : "texture"  ,  "sha1" : "473EBE014FE31809ABC69E425878922E6AB483E7"       } ,   
+		{ "file" : "RadeonProRMaps/Rust_Specular.jpg",      "type" : "texture"  ,  "sha1" : "1160A123540C63F7D2433D92E87B8AA3FDAC600E"       } ,   
+		{ "file" : "Metals/Rust_Metal/Rust_Metal.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "D41E88D7E689FCA16B779BBDB6F346130E49F22D"       } ,   
+		{ "file" : "Metals/Rust_Metal/Rust_Metal_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "3600063572CCCE212D799E99B53433F9A1A3CDE7"       } ,   
+		{ "file" : "Metals/Rust_Metal/Rust_Metal.xml",      "type" : "material_xml"  ,  "sha1" : "BB4BDD7F0E5560ECF1A80018360251D13C4809D0"       } 
+		]
+}

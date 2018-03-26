@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Flat Sun Valley" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Flat_SunValley/Paint_Flat_SunValley.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "C2A3F2374B04443E1B29F8BCB1EB23730BB52D73"       } ,   
+		{ "file" : "Paint/Paint_Flat_SunValley/Paint_Flat_SunValley_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "83C1058ECE24DDF1700122F5A5016C7633EDD4A6"       } ,   
+		{ "file" : "Paint/Paint_Flat_SunValley/Paint_Flat_SunValley.xml",      "type" : "material_xml"  ,  "sha1" : "5511F7461A342283104A3CB5728DB039E3FB6D89"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Copper Brushed" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Copper_Brushed/Copper_Brushed.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "ADC3E18E3B1BC0EC55DF4BEE3CF15C6F59411D2A"       } ,   
+		{ "file" : "Extended_Metals/Copper_Brushed/Copper_Brushed_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "A2F7E566D4B20AE34ED844F4BA27D8E9A8A5145D"       } ,   
+		{ "file" : "Extended_Metals/Copper_Brushed/Copper_Brushed.xml",      "type" : "material_xml"  ,  "sha1" : "AA6740F9C2BEAC6DBFDF47AF03323A7415B07116"       } 
+		]
+}

@@ -1,0 +1,13 @@
+{
+	"name" : "Lead Rusted" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/lead_rusty0003.png",      "type" : "texture"  ,  "sha1" : "123E0C6C9A526F2D106A52EA72F518689E68E92D"       } ,   
+		{ "file" : "Extended_Metals/Lead_Rusted/tex_0.png",      "type" : "texture"  ,  "sha1" : "A27978ED271502A21BE6EC8FCD2E4864DCDB0C7D"       } ,   
+		{ "file" : "Extended_Metals/Lead_Rusted/Lead_Rusted.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "5B5AF31A18FC0E9D3A89A56D4A2520111F79F140"       } ,   
+		{ "file" : "Extended_Metals/Lead_Rusted/Lead_Rusted_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "AC7CEBA4E2C65290E410B785DEC5774996B0CF27"       } ,   
+		{ "file" : "Extended_Metals/Lead_Rusted/Lead_Rusted.xml",      "type" : "material_xml"  ,  "sha1" : "8B39F74BD0236A590633A3AE31F575D9B920DC0A"       } 
+		]
+}

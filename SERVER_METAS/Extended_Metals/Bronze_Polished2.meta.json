@@ -1,0 +1,12 @@
+{
+	"name" : "Bronze Polished2" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Bronze_Polished2/tex_0.png",      "type" : "texture"  ,  "sha1" : "CBCC0EB41B023BB7F3FFB031F0DD01543962FC1A"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Polished2/Bronze_Polished2.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "2A7FC9C31BDDE3057F4C9C226A5BF76186480265"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Polished2/Bronze_Polished2_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "3D72A66FDBBDB573CF238060F6E7D84775E0573D"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Polished2/Bronze_Polished2.xml",      "type" : "material_xml"  ,  "sha1" : "265A54DFF6501DE8580D3B64593D5234B0EF4F7D"       } 
+		]
+}

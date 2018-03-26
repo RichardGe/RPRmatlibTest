@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Dark Grey" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Dark_Grey/Car_Paint_Dark_Grey.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "43B63B08949349C5FDCEA86FCE94F55279658434"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Dark_Grey/Car_Paint_Dark_Grey_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "5CBEE80BE13FD080301116F68F821FC5C86D96CE"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Dark_Grey/Car_Paint_Dark_Grey.xml",      "type" : "material_xml"  ,  "sha1" : "5EA63E178DE181637D02E853C36B588907184DF6"       } 
+		]
+}

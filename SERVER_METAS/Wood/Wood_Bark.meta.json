@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Bark" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Bark.jpg",      "type" : "texture"  ,  "sha1" : "0AA25729AF2B841544DCDE2D539355A0B04D965A"       } ,   
+		{ "file" : "RadeonProRMaps/Bark_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "C14D05032EE95E940C6975924B1C44970EC64166"       } ,   
+		{ "file" : "Wood/Wood_Bark/Wood_Bark.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "6233928B1D14B52AEDC1F3CBED93B55D3EE792EB"       } ,   
+		{ "file" : "Wood/Wood_Bark/Wood_Bark_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D185926D0F179BF7544A1EDC75395447E8D76D22"       } ,   
+		{ "file" : "Wood/Wood_Bark/Wood_Bark.xml",      "type" : "material_xml"  ,  "sha1" : "7CDBA8C4C4603B7EBC6AA13E98EB365114651DAB"       } 
+		]
+}

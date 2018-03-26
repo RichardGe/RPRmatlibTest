@@ -1,0 +1,13 @@
+{
+	"name" : "Generic" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/grunge0001.png",      "type" : "texture"  ,  "sha1" : "65DCE6B4170869BD7F8D44724DAD92BFB5580FC3"       } ,   
+		{ "file" : "Extended_Metals/Generic/tex_0.png",      "type" : "texture"  ,  "sha1" : "F76FAEB08DCC00913C0E55D6E8155C92D12A4FD1"       } ,   
+		{ "file" : "Extended_Metals/Generic/Generic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B267B2C21AA233F3021BA82D6A0A4A8738DCCEFC"       } ,   
+		{ "file" : "Extended_Metals/Generic/Generic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "6B09C86606C599B36BF18819C9415CF61F8D5D35"       } ,   
+		{ "file" : "Extended_Metals/Generic/Generic.xml",      "type" : "material_xml"  ,  "sha1" : "63684979D4672C358D65D0C525C7EA693AAE005C"       } 
+		]
+}

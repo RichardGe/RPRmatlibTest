@@ -1,0 +1,12 @@
+{
+	"name" : "Copper Old" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metals/Copper_Old/tex_1.png",      "type" : "texture"  ,  "sha1" : "1D79F4A3AD71E95E45209B4C2E78F3431880E8EA"       } ,   
+		{ "file" : "Metals/Copper_Old/Copper_Old.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "DAEC2CEE658C80CE931A529AEDF0858820795ECE"       } ,   
+		{ "file" : "Metals/Copper_Old/Copper_Old_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "003B90C0D588331CC9149DE7A4D9ABBBCB248D57"       } ,   
+		{ "file" : "Metals/Copper_Old/Copper_Old.xml",      "type" : "material_xml"  ,  "sha1" : "86874E3DAB3179C9900C550E8969538DAD7E45E7"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Acrylic Refractive Glossy Green" ,
+	"description" : "  " ,
+	"category" : "Transparent_Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Glossy_Green/Acrylic_Refractive_Glossy_Green.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "63010FBC0369A2C61741E8D64B69F0D0A30763B1"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Glossy_Green/Acrylic_Refractive_Glossy_Green_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "CD3B06AF81C18BF73B0F9D747E2977E382E40D33"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Glossy_Green/Acrylic_Refractive_Glossy_Green.xml",      "type" : "material_xml"  ,  "sha1" : "3AC4AB9F0A728B75623044CDFB078F5F065AD6E1"       } 
+		]
+}

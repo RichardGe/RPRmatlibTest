@@ -1,0 +1,11 @@
+{
+	"name" : "Porcelain White" ,
+	"description" : "  " ,
+	"category" : "Porcelain" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Porcelain/Porcelain_White/Porcelain_White.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "F1E3787D638896DF44B3D5460B0C6CB1C4ED80FF"       } ,   
+		{ "file" : "Porcelain/Porcelain_White/Porcelain_White_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "733B40A409B811476576EA4AD1F6E241B26121F0"       } ,   
+		{ "file" : "Porcelain/Porcelain_White/Porcelain_White.xml",      "type" : "material_xml"  ,  "sha1" : "7844C9B4B77F3B0FCFC6D47C911BEF46F548B50C"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Gold Satin" ,
+	"description" : "  " ,
+	"category" : "Precious_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Precious_Metals/Gold_Satin/Gold_Satin.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "099B20E4DB964B9794500C0761AD2D9DAF970713"       } ,   
+		{ "file" : "Precious_Metals/Gold_Satin/Gold_Satin_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "FA9E26CAD296547698865F2041FFE0A407363348"       } ,   
+		{ "file" : "Precious_Metals/Gold_Satin/Gold_Satin.xml",      "type" : "material_xml"  ,  "sha1" : "28571C09665A03495C03018BEC5016E91EB9C9A3"       } 
+		]
+}

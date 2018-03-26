@@ -1,0 +1,12 @@
+{
+	"name" : "Salt Water Taffy Teal Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/SaltWaterTaffyTeal_Metallic/SaltWaterTaffyTeal_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "5FC113DEA6B86AD2797AAF7479A1306AD7A9D5FE"       } ,   
+		{ "file" : "Car_Paints/SaltWaterTaffyTeal_Metallic/SaltWaterTaffyTeal_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "31F076CFD61D855D420D629DDB60F3B968D730AD"       } ,   
+		{ "file" : "Car_Paints/SaltWaterTaffyTeal_Metallic/SaltWaterTaffyTeal_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "D80B148374A10FAF4C9E521EB25993DD9EE89F01"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Glossy Sleek White" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Glossy_SleekWhite/Paint_Glossy_SleekWhite.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "545978F1EC927C6E6E1490C33A5E19471AFCF00C"       } ,   
+		{ "file" : "Paint/Paint_Glossy_SleekWhite/Paint_Glossy_SleekWhite_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "10129707D9B3B5ED73F22BA3F907EFC874066E82"       } ,   
+		{ "file" : "Paint/Paint_Glossy_SleekWhite/Paint_Glossy_SleekWhite.xml",      "type" : "material_xml"  ,  "sha1" : "53F458C33607037452B3D647365823D101F19139"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Rubber Smooth Matte Black" ,
+	"description" : "  " ,
+	"category" : "Rubber" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Rubber/Rubber_SmoothMatte_Black/Rubber_SmoothMatte_Black.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B4E2324011CC074F4D3B4F639A2A14122F65D78E"       } ,   
+		{ "file" : "Rubber/Rubber_SmoothMatte_Black/Rubber_SmoothMatte_Black_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "8B751552BF9A64C7733A0B2F4B547374F0112A14"       } ,   
+		{ "file" : "Rubber/Rubber_SmoothMatte_Black/Rubber_SmoothMatte_Black.xml",      "type" : "material_xml"  ,  "sha1" : "BDAA5D59BD70C27CB5106ED4B14583902BA180DB"       } 
+		]
+}

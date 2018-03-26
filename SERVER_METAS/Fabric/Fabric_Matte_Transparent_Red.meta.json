@@ -1,0 +1,13 @@
+{
+	"name" : "Fabric Matte Transparent Red" ,
+	"description" : "  " ,
+	"category" : "Fabric" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/pattern.jpg",      "type" : "texture"  ,  "sha1" : "0635F12727E9E3376D6FA1A1F43BD05710941AA5"       } ,   
+		{ "file" : "RadeonProRMaps/pattern_normal.jpg",      "type" : "texture"  ,  "sha1" : "1AEC19921B24C59BE9AB9F7C887E1EEF5BE1902B"       } ,   
+		{ "file" : "Fabric/Fabric_Matte_Transparent_Red/Fabric_Matte_Transparent_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "82E7F22718B2EC273ADBE748FA0CC2130B39657D"       } ,   
+		{ "file" : "Fabric/Fabric_Matte_Transparent_Red/Fabric_Matte_Transparent_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "E0028A4CD78E8E41B1869CA99E86692035F972EA"       } ,   
+		{ "file" : "Fabric/Fabric_Matte_Transparent_Red/Fabric_Matte_Transparent_Red.xml",      "type" : "material_xml"  ,  "sha1" : "6B1AA1266AB1DF80318A22FC3922481185BCA8F5"       } 
+		]
+}

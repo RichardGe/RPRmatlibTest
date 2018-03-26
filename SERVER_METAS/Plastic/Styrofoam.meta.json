@@ -1,0 +1,12 @@
+{
+	"name" : "Styrofoam" ,
+	"description" : "  " ,
+	"category" : "Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Polystyrene_Tile.jpg",      "type" : "texture"  ,  "sha1" : "7034A32D93FC6D61910F943A8E94CB542D197E34"       } ,   
+		{ "file" : "Plastic/Styrofoam/Styrofoam.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "D88ACC59462AA665DFD7834CA0249F7061220DA1"       } ,   
+		{ "file" : "Plastic/Styrofoam/Styrofoam_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "6657D797666B0CC95F36C7AAC332503AF8006342"       } ,   
+		{ "file" : "Plastic/Styrofoam/Styrofoam.xml",      "type" : "material_xml"  ,  "sha1" : "2B557B2DED20302CFFB8D2415DE16C6230B83AF3"       } 
+		]
+}

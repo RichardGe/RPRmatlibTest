@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Beech Unfinished" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Beech_Tile.jpg",      "type" : "texture"  ,  "sha1" : "3B3D1E3059AE063AA9C0B6F36B6C7A1BE3BFB43B"       } ,   
+		{ "file" : "RadeonProRMaps/Beech_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "ABBAE1C75EB650B9A80135CC7D1214A71F312A59"       } ,   
+		{ "file" : "Wood/Wood_Beech_Unfinished/Wood_Beech_Unfinished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "7ADA8EBFE4ECB46A9E6525E82F92D50B451D8F71"       } ,   
+		{ "file" : "Wood/Wood_Beech_Unfinished/Wood_Beech_Unfinished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "7EACDD5303EC506416043701523746A7971AAC23"       } ,   
+		{ "file" : "Wood/Wood_Beech_Unfinished/Wood_Beech_Unfinished.xml",      "type" : "material_xml"  ,  "sha1" : "0D451E81207E7B15AA39710DB4890D9D213CE317"       } 
+		]
+}

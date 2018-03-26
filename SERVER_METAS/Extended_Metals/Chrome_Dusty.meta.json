@@ -1,0 +1,12 @@
+{
+	"name" : "Chrome Dusty" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Chrome_Dusty/tex_0.png",      "type" : "texture"  ,  "sha1" : "FF8A0BDFA00A5B2DF92706C6FD44518E7F9D7C41"       } ,   
+		{ "file" : "Extended_Metals/Chrome_Dusty/Chrome_Dusty.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "FE1E53023EA4F89256AB43C4F04710D7A2EC2368"       } ,   
+		{ "file" : "Extended_Metals/Chrome_Dusty/Chrome_Dusty_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "C6F868DD069F6167A256ED5720CE7D7A7445C377"       } ,   
+		{ "file" : "Extended_Metals/Chrome_Dusty/Chrome_Dusty.xml",      "type" : "material_xml"  ,  "sha1" : "8587D434ACC164E36C57BFC00F726F0D55295DB8"       } 
+		]
+}

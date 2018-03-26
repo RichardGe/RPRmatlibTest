@@ -1,0 +1,13 @@
+{
+	"name" : "Iron Hammered" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/metal_hammered0001.png",      "type" : "texture"  ,  "sha1" : "95A01A6E47A661E5B54DE7B91DAA84D7E38F494E"       } ,   
+		{ "file" : "Extended_Metals/Iron_Hammered/tex_0.png",      "type" : "texture"  ,  "sha1" : "EB853250175F5E122B08892A555B07A6276249BE"       } ,   
+		{ "file" : "Extended_Metals/Iron_Hammered/Iron_Hammered.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "E3E7B85D933E8C681115C40C7A55FD57E20AB31E"       } ,   
+		{ "file" : "Extended_Metals/Iron_Hammered/Iron_Hammered_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "AB77DDC52CF1081399CCA4743C70B5070ACE3FF3"       } ,   
+		{ "file" : "Extended_Metals/Iron_Hammered/Iron_Hammered.xml",      "type" : "material_xml"  ,  "sha1" : "616601FC3430CD20581E250F8DC0492DC925DD84"       } 
+		]
+}

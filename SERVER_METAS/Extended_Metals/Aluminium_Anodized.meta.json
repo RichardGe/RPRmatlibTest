@@ -1,0 +1,13 @@
+{
+	"name" : "Aluminium Anodized" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/brass_matte0002.png",      "type" : "texture"  ,  "sha1" : "9242840E6B70655DBB0408BD9E3175418E290B6B"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Anodized/tex_0.png",      "type" : "texture"  ,  "sha1" : "7C9DA19FDB35D8D7D8F725C50EE937DBBD159906"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Anodized/Aluminium_Anodized.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "54A3A7E811DB73EC73A9873BBB333AF67DA9C966"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Anodized/Aluminium_Anodized_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "7B14460596463A72821C9806934D07879F4FFA84"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Anodized/Aluminium_Anodized.xml",      "type" : "material_xml"  ,  "sha1" : "06ECD185ED1AB6501B35965FBBABEE448097AFE6"       } 
+		]
+}

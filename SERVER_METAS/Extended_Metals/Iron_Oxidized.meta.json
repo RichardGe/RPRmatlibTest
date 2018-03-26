@@ -1,0 +1,13 @@
+{
+	"name" : "Iron Oxidized" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/iron_oxidized0001.png",      "type" : "texture"  ,  "sha1" : "F3D831995B082CD1BA725B74B6C091829D7D7A0C"       } ,   
+		{ "file" : "Extended_Metals/Iron_Oxidized/tex_0.png",      "type" : "texture"  ,  "sha1" : "D619BF518FECD61D4CC4FE52FEBC251DEE390A85"       } ,   
+		{ "file" : "Extended_Metals/Iron_Oxidized/Iron_Oxidized.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "5525A3A45CB0ABEAB71AFF600EEE0D00D2C35E4E"       } ,   
+		{ "file" : "Extended_Metals/Iron_Oxidized/Iron_Oxidized_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "48450E8CE818724DE7940634D98237ABB909BE08"       } ,   
+		{ "file" : "Extended_Metals/Iron_Oxidized/Iron_Oxidized.xml",      "type" : "material_xml"  ,  "sha1" : "73A6172BD159E7F18C5E768E9D5B9A7C1714C938"       } 
+		]
+}

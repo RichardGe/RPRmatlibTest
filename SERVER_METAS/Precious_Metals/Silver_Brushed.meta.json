@@ -1,0 +1,11 @@
+{
+	"name" : "Silver Brushed" ,
+	"description" : "  " ,
+	"category" : "Precious_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Precious_Metals/Silver_Brushed/Silver_Brushed.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "18F09B70CFDC58C9AB3E23E1A9F2833CAC739EFF"       } ,   
+		{ "file" : "Precious_Metals/Silver_Brushed/Silver_Brushed_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "4DEF33F81458D8DBECBBE95AA13E38BE2409D562"       } ,   
+		{ "file" : "Precious_Metals/Silver_Brushed/Silver_Brushed.xml",      "type" : "material_xml"  ,  "sha1" : "9252F7200E31645C1020CE049D92A2FCDDE91182"       } 
+		]
+}

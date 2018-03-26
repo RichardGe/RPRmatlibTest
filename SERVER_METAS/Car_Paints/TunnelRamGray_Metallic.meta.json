@@ -1,0 +1,12 @@
+{
+	"name" : "Tunnel Ram Gray Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/TunnelRamGray_Metallic/TunnelRamGray_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "73051038763F2B4EEF9B203D7FA5864CB9C0FD4E"       } ,   
+		{ "file" : "Car_Paints/TunnelRamGray_Metallic/TunnelRamGray_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "298F58C87AFDA0F1DD0F700E61B5399A0235D6D0"       } ,   
+		{ "file" : "Car_Paints/TunnelRamGray_Metallic/TunnelRamGray_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "6ED60F15E97E8968E45D30F61CEEFD84D5D111B7"       } 
+		]
+}

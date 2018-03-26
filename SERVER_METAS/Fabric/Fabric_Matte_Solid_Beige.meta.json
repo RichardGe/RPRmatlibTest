@@ -1,0 +1,12 @@
+{
+	"name" : "Fabric Matte Solid Beige" ,
+	"description" : "  " ,
+	"category" : "Fabric" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/pattern_normal.jpg",      "type" : "texture"  ,  "sha1" : "1AEC19921B24C59BE9AB9F7C887E1EEF5BE1902B"       } ,   
+		{ "file" : "Fabric/Fabric_Matte_Solid_Beige/Fabric_Matte_Solid_Beige.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "F0BDDAC03A78BE0EE52F9275C25B397729F51C59"       } ,   
+		{ "file" : "Fabric/Fabric_Matte_Solid_Beige/Fabric_Matte_Solid_Beige_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "508EBAE694FBBEDC8955091BC659A1735613C285"       } ,   
+		{ "file" : "Fabric/Fabric_Matte_Solid_Beige/Fabric_Matte_Solid_Beige.xml",      "type" : "material_xml"  ,  "sha1" : "AE14D7D2F47C9B2D3B1E1DD70E99E5813D262317"       } 
+		]
+}

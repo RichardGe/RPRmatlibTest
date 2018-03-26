@@ -1,0 +1,12 @@
+{
+	"name" : "Brass Patinated" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Brass_Patinated/tex_0.png",      "type" : "texture"  ,  "sha1" : "B68A4D4E9505D3C406CB16F4893F793FF8F69573"       } ,   
+		{ "file" : "Extended_Metals/Brass_Patinated/Brass_Patinated.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "1C30D3A2911985FF754F2328B3B51E2208921020"       } ,   
+		{ "file" : "Extended_Metals/Brass_Patinated/Brass_Patinated_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D3E2877889B54786BFB584874257451510B30EB5"       } ,   
+		{ "file" : "Extended_Metals/Brass_Patinated/Brass_Patinated.xml",      "type" : "material_xml"  ,  "sha1" : "DC0C872DA9F545C91FD80FF45BF75CAC582BD143"       } 
+		]
+}

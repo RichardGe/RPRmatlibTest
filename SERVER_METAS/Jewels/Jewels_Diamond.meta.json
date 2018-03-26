@@ -1,0 +1,11 @@
+{
+	"name" : "Jewels Diamond" ,
+	"description" : "  " ,
+	"category" : "Jewels" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Jewels/Jewels_Diamond/Jewels_Diamond.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "8DA503BFFB6B99625958044929ABA2E04CBBEA04"       } ,   
+		{ "file" : "Jewels/Jewels_Diamond/Jewels_Diamond_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "A195FEFCFC3C5DBC3A49E9A8A5CC8802B323929C"       } ,   
+		{ "file" : "Jewels/Jewels_Diamond/Jewels_Diamond.xml",      "type" : "material_xml"  ,  "sha1" : "72E472CF19A7F528254492A66367866DFE513696"       } 
+		]
+}

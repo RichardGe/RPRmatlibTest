@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Wenge Unfinished" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Wenge_Tile.jpg",      "type" : "texture"  ,  "sha1" : "FC249D3A07234D49293591FDA8BBD94840369D33"       } ,   
+		{ "file" : "RadeonProRMaps/Wenge_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "83D08334CF2B7D55EFED3AF18341439B38B11D04"       } ,   
+		{ "file" : "Wood/Wood_Wenge_Unfinished/Wood_Wenge_Unfinished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "9CA333DBDC683CCFCCA66F18FB3D29BB385A2F72"       } ,   
+		{ "file" : "Wood/Wood_Wenge_Unfinished/Wood_Wenge_Unfinished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "1E69368CE064F726D673704F9107E2DFB84BB33C"       } ,   
+		{ "file" : "Wood/Wood_Wenge_Unfinished/Wood_Wenge_Unfinished.xml",      "type" : "material_xml"  ,  "sha1" : "50E5C35CC34628BC0D68F07F9EBD1315452CAC5C"       } 
+		]
+}

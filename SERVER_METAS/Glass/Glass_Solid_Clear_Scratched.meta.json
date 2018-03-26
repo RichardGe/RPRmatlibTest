@@ -1,0 +1,12 @@
+{
+	"name" : "Glass Solid Clear Scratched" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Glass_scratches.jpg",      "type" : "texture"  ,  "sha1" : "001D453ADF5813CD501518F0B172514A168454EA"       } ,   
+		{ "file" : "Glass/Glass_Solid_Clear_Scratched/Glass_Solid_Clear_Scratched.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "3F7C2C7DB225D5C6AB0B913FE8D501B1917FC132"       } ,   
+		{ "file" : "Glass/Glass_Solid_Clear_Scratched/Glass_Solid_Clear_Scratched_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D202373C5E75814E8D2AA6CCB4341AFACA54009A"       } ,   
+		{ "file" : "Glass/Glass_Solid_Clear_Scratched/Glass_Solid_Clear_Scratched.xml",      "type" : "material_xml"  ,  "sha1" : "B3AC6321CD1B75B016C4C5F14042034203C46838"       } 
+		]
+}

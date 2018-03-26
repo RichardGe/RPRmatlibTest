@@ -1,0 +1,12 @@
+{
+	"name" : "Chrome Matte" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Chrome_Matte/tex_0.png",      "type" : "texture"  ,  "sha1" : "B5D6C6E240B9FCFBF4811C8F9B3C5B99C7830A3F"       } ,   
+		{ "file" : "Extended_Metals/Chrome_Matte/Chrome_Matte.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "1E1D02DBE3E9BF87B09F82B5272F2C93DAC98839"       } ,   
+		{ "file" : "Extended_Metals/Chrome_Matte/Chrome_Matte_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "696565560C3287C47A2C16E1A041F65A5E0392D2"       } ,   
+		{ "file" : "Extended_Metals/Chrome_Matte/Chrome_Matte.xml",      "type" : "material_xml"  ,  "sha1" : "B80FB4122572D5F32059762C399B11AC80284849"       } 
+		]
+}

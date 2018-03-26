@@ -1,0 +1,11 @@
+{
+	"name" : "Jewels Emerald" ,
+	"description" : "  " ,
+	"category" : "Jewels" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Jewels/Jewels_Emerald/Jewels_Emerald.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B20441568A044D216D96B26E8722FEC06D7243DB"       } ,   
+		{ "file" : "Jewels/Jewels_Emerald/Jewels_Emerald_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "C2B489C4CA162578DE768BDE76EED5AB25617E2A"       } ,   
+		{ "file" : "Jewels/Jewels_Emerald/Jewels_Emerald.xml",      "type" : "material_xml"  ,  "sha1" : "5DB3852C4D33CCFE57DB4FDC40A8432A5843844A"       } 
+		]
+}

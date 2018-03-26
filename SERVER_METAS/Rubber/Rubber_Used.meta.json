@@ -1,0 +1,12 @@
+{
+	"name" : "Rubber Used" ,
+	"description" : "  " ,
+	"category" : "Rubber" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/rubber_Used_spec.jpg",      "type" : "texture"  ,  "sha1" : "6829405831815D6D0C7C1CB7130F5CC548E86831"       } ,   
+		{ "file" : "Rubber/Rubber_Used/Rubber_Used.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "1E7E43FAD6FC8ACE9896B423D19B28FF65671448"       } ,   
+		{ "file" : "Rubber/Rubber_Used/Rubber_Used_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "67C6886D49C96B13E9DF1E0348177EB257340B02"       } ,   
+		{ "file" : "Rubber/Rubber_Used/Rubber_Used.xml",      "type" : "material_xml"  ,  "sha1" : "DB952594E0188497245486747AE00B87D33B697B"       } 
+		]
+}

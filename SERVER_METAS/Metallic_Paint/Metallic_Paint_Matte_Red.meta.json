@@ -1,0 +1,11 @@
+{
+	"name" : "Metallic Paint Matte Red" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Metallic_Paint_Matte_Red/Metallic_Paint_Matte_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "82A36FFE2B2BEEB1F5EBAFDF29A6209BFE538C0E"       } ,   
+		{ "file" : "Metallic_Paint/Metallic_Paint_Matte_Red/Metallic_Paint_Matte_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "EABDFBF86933907A06842AEEC979B1B846BAAE15"       } ,   
+		{ "file" : "Metallic_Paint/Metallic_Paint_Matte_Red/Metallic_Paint_Matte_Red.xml",      "type" : "material_xml"  ,  "sha1" : "FF3FDC1D6CF5E65EE426ED5A4E6FA73E25669925"       } 
+		]
+}

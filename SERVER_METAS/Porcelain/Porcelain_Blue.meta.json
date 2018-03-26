@@ -1,0 +1,12 @@
+{
+	"name" : "Porcelain Blue" ,
+	"description" : "  " ,
+	"category" : "Porcelain" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Porcelain/Porcelain_Blue/tex_0.png",      "type" : "texture"  ,  "sha1" : "410FD73F731981A89EA74D018DA9F109AB01A705"       } ,   
+		{ "file" : "Porcelain/Porcelain_Blue/Porcelain_Blue.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "8D69688D4D277494AD62E34DD8B737F0F3026CBB"       } ,   
+		{ "file" : "Porcelain/Porcelain_Blue/Porcelain_Blue_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "E57972746F42D85F12E69D13B28264707A309BEC"       } ,   
+		{ "file" : "Porcelain/Porcelain_Blue/Porcelain_Blue.xml",      "type" : "material_xml"  ,  "sha1" : "AA6D9150C7882FE3884C575503D75E146774EEFA"       } 
+		]
+}

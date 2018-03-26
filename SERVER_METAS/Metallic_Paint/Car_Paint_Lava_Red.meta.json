@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Lava Red" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Lava_Red/Car_Paint_Lava_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "00AC380C7C9186DC6C4EA692299FC3BD02CB1BF7"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Lava_Red/Car_Paint_Lava_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "C5C68D5844B547CBA92B3988E9B21F1E799FB6A8"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Lava_Red/Car_Paint_Lava_Red.xml",      "type" : "material_xml"  ,  "sha1" : "535823D64251D760023B8ACD0D3A83DCC1AF6D81"       } 
+		]
+}

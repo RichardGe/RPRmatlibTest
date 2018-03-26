@@ -1,0 +1,12 @@
+{
+	"name" : "Water Transparent Bump" ,
+	"description" : "  " ,
+	"category" : "Liquid" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Water_Disp.png",      "type" : "texture"  ,  "sha1" : "B9FA822E2A50474875C3E9749A94EE8C6A9AE10D"       } ,   
+		{ "file" : "Liquid/Water_Transparent_Bump/Water_Transparent_Bump.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "41DBCD2EADEAEE2C3271014185534D557077D1BD"       } ,   
+		{ "file" : "Liquid/Water_Transparent_Bump/Water_Transparent_Bump_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "C4AA7F8455EE147BEF2B77DDF8E1E707E1809BA6"       } ,   
+		{ "file" : "Liquid/Water_Transparent_Bump/Water_Transparent_Bump.xml",      "type" : "material_xml"  ,  "sha1" : "D37FCBC46C3192C6AD37745E1C833B06AE6ACDFC"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Reptile Red Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/ReptileRed_Solid/ReptileRed_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "E23C23A6CACCF1225D46DE0998568A901BF2870B"       } ,   
+		{ "file" : "Car_Paints/ReptileRed_Solid/ReptileRed_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "BD93521601B2AD03BF50E4BCC1F007614687E960"       } ,   
+		{ "file" : "Car_Paints/ReptileRed_Solid/ReptileRed_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "4C035C5C1985777CFB4399A4DC9B0F5480A4CF07"       } 
+		]
+}

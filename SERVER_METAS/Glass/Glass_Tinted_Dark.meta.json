@@ -1,0 +1,11 @@
+{
+	"name" : "Glass Tinted Dark" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Glass/Glass_Tinted_Dark/Glass_Tinted_Dark.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "71137C1DDDCB865E842670C54CBE0F355EBCF81D"       } ,   
+		{ "file" : "Glass/Glass_Tinted_Dark/Glass_Tinted_Dark_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "A380491E9279E5CDEBAAA2E2EA3834091998AD47"       } ,   
+		{ "file" : "Glass/Glass_Tinted_Dark/Glass_Tinted_Dark.xml",      "type" : "material_xml"  ,  "sha1" : "C5D049EF0C1C5ABA8B6595E0CDE63672DCCD44F1"       } 
+		]
+}

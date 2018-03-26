@@ -1,0 +1,12 @@
+{
+	"name" : "Porcelain New White" ,
+	"description" : "  " ,
+	"category" : "Porcelain" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Porcelain/Porcelain_New_White/tex_0.png",      "type" : "texture"  ,  "sha1" : "34A82762DD58981680F0E5193289EAA0D122A0BF"       } ,   
+		{ "file" : "Porcelain/Porcelain_New_White/Porcelain_New_White.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "86F316CB5B10FA6900FAC92E01F707580A25A56E"       } ,   
+		{ "file" : "Porcelain/Porcelain_New_White/Porcelain_New_White_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "E09E77B92828B0CA438C148AC869121CF00F959E"       } ,   
+		{ "file" : "Porcelain/Porcelain_New_White/Porcelain_New_White.xml",      "type" : "material_xml"  ,  "sha1" : "38A85BF3DDED3E4BB6C93AF18286D07F6297B1D1"       } 
+		]
+}

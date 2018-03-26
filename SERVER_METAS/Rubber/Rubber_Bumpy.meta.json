@@ -1,0 +1,13 @@
+{
+	"name" : "Rubber Bumpy" ,
+	"description" : "  " ,
+	"category" : "Rubber" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/rubber_Bumpy.jpg",      "type" : "texture"  ,  "sha1" : "DF87B9D4D8F6405DDB6C0577AF57D3AFC6D99DDD"       } ,   
+		{ "file" : "RadeonProRMaps/rubber_Diamond_specular.jpg",      "type" : "texture"  ,  "sha1" : "4D0E58A9E0B7823ABB6212901B266357A53894E8"       } ,   
+		{ "file" : "Rubber/Rubber_Bumpy/Rubber_Bumpy.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "886738B20B652172D51BEBD721ADAB739EC03F7C"       } ,   
+		{ "file" : "Rubber/Rubber_Bumpy/Rubber_Bumpy_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "BFA5503628DE094B28823443664D24FB033A2CF2"       } ,   
+		{ "file" : "Rubber/Rubber_Bumpy/Rubber_Bumpy.xml",      "type" : "material_xml"  ,  "sha1" : "89D5C278D556147A2E0094762ACA83079B9CCB1D"       } 
+		]
+}

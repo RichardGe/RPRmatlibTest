@@ -1,0 +1,13 @@
+{
+	"name" : "Ground Grass" ,
+	"description" : "  " ,
+	"category" : "Ground" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/ground_grass_Bump.jpg",      "type" : "texture"  ,  "sha1" : "EDCB66F07C4CB277DDC30FA6C46603D37543A665"       } ,   
+		{ "file" : "RadeonProRMaps/ground_grass_diffuse.jpg",      "type" : "texture"  ,  "sha1" : "7ACE790D7DEE7D35578CA4192F8411AF1634295A"       } ,   
+		{ "file" : "Ground/Ground_Grass/Ground_Grass.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "48DA893CFA797F193D463E921C72B397AAD581D2"       } ,   
+		{ "file" : "Ground/Ground_Grass/Ground_Grass_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "67C1027C1D1B8FBD51E34A1818D9B0005C445514"       } ,   
+		{ "file" : "Ground/Ground_Grass/Ground_Grass.xml",      "type" : "material_xml"  ,  "sha1" : "A0B3CC49EBE6BD94EB3EAD0AD582446F08CEEA22"       } 
+		]
+}

@@ -1,0 +1,12 @@
+{
+	"name" : "Brass Satin" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/BigNoise.jpg",      "type" : "texture"  ,  "sha1" : "988495FE144055814D705D5FB7EEC4C9B7C2D3C0"       } ,   
+		{ "file" : "Metals/Brass_Satin/Brass_Satin.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "4ECDC9836045F416F950A3094BA4548EDCEAFFE1"       } ,   
+		{ "file" : "Metals/Brass_Satin/Brass_Satin_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "8D78869CF35AEE3164EFDFCAAF6B2501807E42C0"       } ,   
+		{ "file" : "Metals/Brass_Satin/Brass_Satin.xml",      "type" : "material_xml"  ,  "sha1" : "2652B84E7DF77C5F1978CF2AFB269ABC16BB5612"       } 
+		]
+}

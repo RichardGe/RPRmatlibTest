@@ -1,0 +1,11 @@
+{
+	"name" : "Aluminum Matte" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metals/Aluminum_Matte/Aluminum_Matte.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "AF3A3C6ED10C2159B977C93A9053BF8CA055B88D"       } ,   
+		{ "file" : "Metals/Aluminum_Matte/Aluminum_Matte_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "898062F1EF9B55D48C66E4F8E98666AE34414C7F"       } ,   
+		{ "file" : "Metals/Aluminum_Matte/Aluminum_Matte.xml",      "type" : "material_xml"  ,  "sha1" : "EEA105E93DEDE7207441FA1C1AABFB2E5501779C"       } 
+		]
+}

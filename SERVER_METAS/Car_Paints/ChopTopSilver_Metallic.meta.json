@@ -1,0 +1,12 @@
+{
+	"name" : "Chop Top Silver Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/ChopTopSilver_Metallic/ChopTopSilver_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "5D96E25BD79469566461C9CBFE0C90229328B1F6"       } ,   
+		{ "file" : "Car_Paints/ChopTopSilver_Metallic/ChopTopSilver_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "EE1DAE6D380C1D79F252FDB3F7CE416944D449E7"       } ,   
+		{ "file" : "Car_Paints/ChopTopSilver_Metallic/ChopTopSilver_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "5AF3BB9D368130B214827BB1B2C2DC3940F63848"       } 
+		]
+}

@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Wenge Glossy" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Wenge_Tile.jpg",      "type" : "texture"  ,  "sha1" : "FC249D3A07234D49293591FDA8BBD94840369D33"       } ,   
+		{ "file" : "RadeonProRMaps/Wenge_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "83D08334CF2B7D55EFED3AF18341439B38B11D04"       } ,   
+		{ "file" : "Wood/Wood_Wenge_Glossy/Wood_Wenge_Glossy.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "5E171E061CAA2CE294D50321BD66B2BCD1E3C943"       } ,   
+		{ "file" : "Wood/Wood_Wenge_Glossy/Wood_Wenge_Glossy_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "8C57DF1271D44CD953E2236EA6DD4316729BB681"       } ,   
+		{ "file" : "Wood/Wood_Wenge_Glossy/Wood_Wenge_Glossy.xml",      "type" : "material_xml"  ,  "sha1" : "78FDF3BC920D117004FA438CFE7620F8B52D1441"       } 
+		]
+}

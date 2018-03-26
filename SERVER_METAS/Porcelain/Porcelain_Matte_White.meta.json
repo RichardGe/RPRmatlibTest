@@ -1,0 +1,12 @@
+{
+	"name" : "Porcelain Matte White" ,
+	"description" : "  " ,
+	"category" : "Porcelain" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Porcelain/Porcelain_Matte_White/tex_0.png",      "type" : "texture"  ,  "sha1" : "D6565BA360686C7FF256ED087AC550A2571CE0B4"       } ,   
+		{ "file" : "Porcelain/Porcelain_Matte_White/Porcelain_Matte_White.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "07DBFE7743AEB6EFF309D32BBAE74303DF76568F"       } ,   
+		{ "file" : "Porcelain/Porcelain_Matte_White/Porcelain_Matte_White_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "CAB242A67D5B706E32B742736B67A6C1698FBF96"       } ,   
+		{ "file" : "Porcelain/Porcelain_Matte_White/Porcelain_Matte_White.xml",      "type" : "material_xml"  ,  "sha1" : "D27A7E8CC98FE9310A02A22C8CD7A25F893F8BDB"       } 
+		]
+}

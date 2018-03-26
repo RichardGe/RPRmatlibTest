@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Inferno" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Inferno/Car_Paint_Inferno.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "62CF96356032EC0A47CD971EF289E4B5974428CB"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Inferno/Car_Paint_Inferno_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "77E070BB820EF9699C7B49CE48FCBA92996E4895"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Inferno/Car_Paint_Inferno.xml",      "type" : "material_xml"  ,  "sha1" : "B9D6C14143C6131D19DEA713AE94567575B86463"       } 
+		]
+}

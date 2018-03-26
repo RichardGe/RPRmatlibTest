@@ -1,0 +1,13 @@
+{
+	"name" : "Bronze Corrosion" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/bronze_corroded0001.png",      "type" : "texture"  ,  "sha1" : "EE793A6B882D3C17F66FD6FEF883F1980BC8CE06"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Corrosion/tex_0.png",      "type" : "texture"  ,  "sha1" : "BD432DD45C7413FC9EBFC1F1292899465A60C69F"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Corrosion/Bronze_Corrosion.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "C85967EF0D385D92000F99A52D22A77DF0B23DBC"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Corrosion/Bronze_Corrosion_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "2E27299BA228EF6AE0C13704F9E5E46AF510D1BA"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Corrosion/Bronze_Corrosion.xml",      "type" : "material_xml"  ,  "sha1" : "4E0A0FD1249A6698E0E9C62FAEA2C142144BF40E"       } 
+		]
+}

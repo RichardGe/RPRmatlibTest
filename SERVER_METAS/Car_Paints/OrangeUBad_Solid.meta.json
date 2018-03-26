@@ -1,0 +1,11 @@
+{
+	"name" : "Orange U Bad Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/OrangeUBad_Solid/OrangeUBad_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "15CB8BC9F34896EADB8B12DD29B51A8C47F23267"       } ,   
+		{ "file" : "Car_Paints/OrangeUBad_Solid/OrangeUBad_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "F8AE9909CF9222E79784A901E7F898259C995FAE"       } ,   
+		{ "file" : "Car_Paints/OrangeUBad_Solid/OrangeUBad_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "AD8C811A24E5A38E2E22FD9B81928818E14B8530"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Emissive Fluorescent Yellow" ,
+	"description" : "  " ,
+	"category" : "Emissive" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Emissive/Emissive_Fluorescent_Yellow/Emissive_Fluorescent_Yellow.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "BDBCEE91B5890BED13461BBF8C451270207AD823"       } ,   
+		{ "file" : "Emissive/Emissive_Fluorescent_Yellow/Emissive_Fluorescent_Yellow_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "DE05998A1F238CD0F5C58545A57AF1DA8939061B"       } ,   
+		{ "file" : "Emissive/Emissive_Fluorescent_Yellow/Emissive_Fluorescent_Yellow.xml",      "type" : "material_xml"  ,  "sha1" : "A3DD897AA76DCEFE367EBCE48738FE41C929EA74"       } 
+		]
+}

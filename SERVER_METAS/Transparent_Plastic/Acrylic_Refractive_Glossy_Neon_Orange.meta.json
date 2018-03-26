@@ -1,0 +1,11 @@
+{
+	"name" : "Acrylic Refractive Glossy Neon Orange" ,
+	"description" : "  " ,
+	"category" : "Transparent_Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Glossy_Neon_Orange/Acrylic_Refractive_Glossy_Neon_Orange.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "CDDEB753C4D110C009CE380DDEF3B4E3CE8919DB"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Glossy_Neon_Orange/Acrylic_Refractive_Glossy_Neon_Orange_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "1674D789498AAD1DED697464A5C9509481FBF8C4"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Glossy_Neon_Orange/Acrylic_Refractive_Glossy_Neon_Orange.xml",      "type" : "material_xml"  ,  "sha1" : "2F0C7FB57AA85619F6A445F2A87581FF82217424"       } 
+		]
+}

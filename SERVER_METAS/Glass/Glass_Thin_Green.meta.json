@@ -1,0 +1,11 @@
+{
+	"name" : "Glass Thin Green" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Glass/Glass_Thin_Green/Glass_Thin_Green.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "E5A61513A09EA7CB3062F9654A35118AD839BF58"       } ,   
+		{ "file" : "Glass/Glass_Thin_Green/Glass_Thin_Green_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D651C44B29008245EF89903B297BBE1135463407"       } ,   
+		{ "file" : "Glass/Glass_Thin_Green/Glass_Thin_Green.xml",      "type" : "material_xml"  ,  "sha1" : "FBC1313D44695AE4E4ADD18787B9087983532B77"       } 
+		]
+}

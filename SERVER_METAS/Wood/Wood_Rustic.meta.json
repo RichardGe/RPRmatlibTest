@@ -1,0 +1,12 @@
+{
+	"name" : "Wood Rustic" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Wood_NormalMap.png",      "type" : "texture"  ,  "sha1" : "9FC8A5A9548334676F259B0537B1D85D9A9BA27E"       } ,   
+		{ "file" : "Wood/Wood_Rustic/Wood_Rustic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "3E6F132E3478CD236D15E516713B84EA6B77CA95"       } ,   
+		{ "file" : "Wood/Wood_Rustic/Wood_Rustic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D55D6C27B8E7E6FFEBB156A7235F38F3B9903E64"       } ,   
+		{ "file" : "Wood/Wood_Rustic/Wood_Rustic.xml",      "type" : "material_xml"  ,  "sha1" : "794018AC546EFBDF01682D3608E979F678FE486B"       } 
+		]
+}

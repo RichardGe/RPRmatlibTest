@@ -1,0 +1,13 @@
+{
+	"name" : "Glass Used" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Glass_Used.jpg",      "type" : "texture"  ,  "sha1" : "989AFD23BD28046E008456E8E49874D96891652B"       } ,   
+		{ "file" : "RadeonProRMaps/Glass_Used_specular.jpg",      "type" : "texture"  ,  "sha1" : "08A95DBBFBBB030D026C185EBD4D49DF52E611BC"       } ,   
+		{ "file" : "Glass/Glass_Used/Glass_Used.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "8A74ABF0D723B47EC27CE7F001133A29F7DD26AB"       } ,   
+		{ "file" : "Glass/Glass_Used/Glass_Used_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "ADFEF2EAEAA454C66F49F1BF62ECED4FB8F88670"       } ,   
+		{ "file" : "Glass/Glass_Used/Glass_Used.xml",      "type" : "material_xml"  ,  "sha1" : "BBD9944C9137089EAE359199BF3BC84C1E1A1CBC"       } 
+		]
+}

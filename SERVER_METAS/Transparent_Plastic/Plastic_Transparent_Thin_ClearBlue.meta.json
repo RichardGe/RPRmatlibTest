@@ -1,0 +1,12 @@
+{
+	"name" : "Plastic Transparent Thin Clear Blue" ,
+	"description" : "  " ,
+	"category" : "Transparent_Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Transparent_Plastic/Plastic_Transparent_Thin_ClearBlue/tex_0.png",      "type" : "texture"  ,  "sha1" : "58208E8F3DB7CBC7A2F0E6A15549F45799AEA45B"       } ,   
+		{ "file" : "Transparent_Plastic/Plastic_Transparent_Thin_ClearBlue/Plastic_Transparent_Thin_ClearBlue.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "31D6F5894521058BB18D724B6A4B5B1EF17C741B"       } ,   
+		{ "file" : "Transparent_Plastic/Plastic_Transparent_Thin_ClearBlue/Plastic_Transparent_Thin_ClearBlue_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "973CA8FBA34B029C1D08D39FD877E1D4C7375D14"       } ,   
+		{ "file" : "Transparent_Plastic/Plastic_Transparent_Thin_ClearBlue/Plastic_Transparent_Thin_ClearBlue.xml",      "type" : "material_xml"  ,  "sha1" : "39A0FE19F792C6242A40E589125C380185E8BD57"       } 
+		]
+}

@@ -1,0 +1,12 @@
+{
+	"name" : "Steel Smooth" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Steel_Smooth/tex_0.png",      "type" : "texture"  ,  "sha1" : "DB683ECF18195C6076E5EEC734C733DEE1B429FF"       } ,   
+		{ "file" : "Extended_Metals/Steel_Smooth/Steel_Smooth.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "95472A5CCD549A20F352D9964309F3B20A0D2403"       } ,   
+		{ "file" : "Extended_Metals/Steel_Smooth/Steel_Smooth_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D555C32E047B641842429426C2170B1F87DBA8D1"       } ,   
+		{ "file" : "Extended_Metals/Steel_Smooth/Steel_Smooth.xml",      "type" : "material_xml"  ,  "sha1" : "E6BFBD2627AC276E557C5C684CB3E52057EE00A3"       } 
+		]
+}

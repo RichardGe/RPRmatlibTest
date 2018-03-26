@@ -1,0 +1,11 @@
+{
+	"name" : "Mirror" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Glass/Mirror/Mirror.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "0078E780E37A4491F58BA57A7B81E9F54C8EC208"       } ,   
+		{ "file" : "Glass/Mirror/Mirror_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "BB0D494E4515945C0BCE4E77E4676631A0A87D11"       } ,   
+		{ "file" : "Glass/Mirror/Mirror.xml",      "type" : "material_xml"  ,  "sha1" : "1096459B07B77BA17A530936825B44CCB9D5F60E"       } 
+		]
+}

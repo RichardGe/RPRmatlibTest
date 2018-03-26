@@ -1,0 +1,12 @@
+{
+	"name" : "Glass Car Break Light" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Glass_Brakelights_normal.jpg",      "type" : "texture"  ,  "sha1" : "BB10C49F0B7C88164DC58DA6E6B024D18F4F5924"       } ,   
+		{ "file" : "Glass/Glass_CarBreakLight/Glass_CarBreakLight.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "5BDF5FBF1D8F4475629987522F71FAD5928C53A9"       } ,   
+		{ "file" : "Glass/Glass_CarBreakLight/Glass_CarBreakLight_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "33A6E4BF154AB20F60BAEE7FFCB9A1462EDFA217"       } ,   
+		{ "file" : "Glass/Glass_CarBreakLight/Glass_CarBreakLight.xml",      "type" : "material_xml"  ,  "sha1" : "7A0FA11CF234DC42F6B5A52AD328886E82D0AF11"       } 
+		]
+}

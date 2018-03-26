@@ -1,0 +1,12 @@
+{
+	"name" : "Chrome Sandblasted" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Chrome_Sandblasted/tex_0.png",      "type" : "texture"  ,  "sha1" : "DE77D329F9F3032C57B1589E8FB46922891C8949"       } ,   
+		{ "file" : "Extended_Metals/Chrome_Sandblasted/Chrome_Sandblasted.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "709ABB299686D482F3C921CBFB2342161DDB55E1"       } ,   
+		{ "file" : "Extended_Metals/Chrome_Sandblasted/Chrome_Sandblasted_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "B0A8CDFFF02BB29B22BC8697D8453563F24E7C5C"       } ,   
+		{ "file" : "Extended_Metals/Chrome_Sandblasted/Chrome_Sandblasted.xml",      "type" : "material_xml"  ,  "sha1" : "C3E532AE5E154B8EE191F41A6774A47B167818E9"       } 
+		]
+}

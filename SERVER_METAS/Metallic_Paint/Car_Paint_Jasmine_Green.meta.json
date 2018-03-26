@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Jasmine Green" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Jasmine_Green/Car_Paint_Jasmine_Green.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "144B5357BC990A59B39785E3A28D3B9C71518EBA"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Jasmine_Green/Car_Paint_Jasmine_Green_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "4FB5A5C64FB6DC499F1815727881E51E75994D2A"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Jasmine_Green/Car_Paint_Jasmine_Green.xml",      "type" : "material_xml"  ,  "sha1" : "36DABE27D5CE185BBDF53906C5F29D65579A617D"       } 
+		]
+}

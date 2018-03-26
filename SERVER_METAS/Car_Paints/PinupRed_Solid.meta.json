@@ -1,0 +1,11 @@
+{
+	"name" : "Pinup Red Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/PinupRed_Solid/PinupRed_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "90C50B0F82885FF07C72820E384E3B1717166BDC"       } ,   
+		{ "file" : "Car_Paints/PinupRed_Solid/PinupRed_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "8F9184AE0C0560D2D2D0865E9632DD49A50BEF36"       } ,   
+		{ "file" : "Car_Paints/PinupRed_Solid/PinupRed_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "6C1DE0A7890973234F77ED275DEE502FAE1E41CC"       } 
+		]
+}

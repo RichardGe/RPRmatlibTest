@@ -1,0 +1,12 @@
+{
+	"name" : "Carbon Fiber" ,
+	"description" : "  " ,
+	"category" : "Composites" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Composites/Carbon_Fiber/tex_0.png",      "type" : "texture"  ,  "sha1" : "4EADF70E466AC7BE13881F90E64037E5AF1C5236"       } ,   
+		{ "file" : "Composites/Carbon_Fiber/Carbon_Fiber.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "45CE5B9AA39534D2CC84B31D968E4E9C767453E1"       } ,   
+		{ "file" : "Composites/Carbon_Fiber/Carbon_Fiber_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "B1627999C7820F355C515E4251FBB450F2248E2C"       } ,   
+		{ "file" : "Composites/Carbon_Fiber/Carbon_Fiber.xml",      "type" : "material_xml"  ,  "sha1" : "1054705CAC3B1BBFB1E7E226D544A6E4DA4AD2E1"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Acrylic Refractive Matte Red" ,
+	"description" : "  " ,
+	"category" : "Transparent_Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Matte_Red/Acrylic_Refractive_Matte_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "01EE2C8A68B457631A17E8E79BA67F24B665D382"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Matte_Red/Acrylic_Refractive_Matte_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "98E16C21D8A72BD7077BB1FB39C031625A0D6E9B"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Matte_Red/Acrylic_Refractive_Matte_Red.xml",      "type" : "material_xml"  ,  "sha1" : "05E17A1D80B273FF121AEA90542BC6411E2D7B38"       } 
+		]
+}

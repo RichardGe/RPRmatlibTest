@@ -1,0 +1,11 @@
+{
+	"name" : "Copper Polished" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metals/Copper_Polished/Copper_Polished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "99AAFA4CACEEFE80E5FA055EA6604DCAC56185E6"       } ,   
+		{ "file" : "Metals/Copper_Polished/Copper_Polished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "CEB44C226A70C0C0AEADC3BDAE6A5FCAD6E859D2"       } ,   
+		{ "file" : "Metals/Copper_Polished/Copper_Polished.xml",      "type" : "material_xml"  ,  "sha1" : "30EEA8EDA16E0AE5EF7CDAED66D73758A9714700"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Lapis Blue" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Lapis_Blue/Car_Paint_Lapis_Blue.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "35F3CE17DAFA00EB6C1D16D8F63B927C0EB8527B"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Lapis_Blue/Car_Paint_Lapis_Blue_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D15B17F8A5A2550DB57720F204FD6B8DA764E85D"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Lapis_Blue/Car_Paint_Lapis_Blue.xml",      "type" : "material_xml"  ,  "sha1" : "26A84ACE001411D8CFE4D74456EFE1515B3DB2DD"       } 
+		]
+}

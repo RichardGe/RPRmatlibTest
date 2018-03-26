@@ -1,0 +1,12 @@
+{
+	"name" : "Brass Cartridge" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Brass_Cartridge/tex_0.png",      "type" : "texture"  ,  "sha1" : "EFE34A269931203063470B32E122F86A23B1FA28"       } ,   
+		{ "file" : "Extended_Metals/Brass_Cartridge/Brass_Cartridge.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "8E50F1959396E5531C9973C547615747CC0AF00B"       } ,   
+		{ "file" : "Extended_Metals/Brass_Cartridge/Brass_Cartridge_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "A18AB05F73E91E5C9A3F80A904C4E82EBD49BC58"       } ,   
+		{ "file" : "Extended_Metals/Brass_Cartridge/Brass_Cartridge.xml",      "type" : "material_xml"  ,  "sha1" : "94AC8D1ECA2539C7F16CC7EAF7F32424F5AB6CB6"       } 
+		]
+}

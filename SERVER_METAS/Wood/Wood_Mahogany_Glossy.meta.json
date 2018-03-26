@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Mahogany Glossy" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Mahogany_Tile.jpg",      "type" : "texture"  ,  "sha1" : "0B2C213E67B5C08A29ADC899891BB686601B6C1A"       } ,   
+		{ "file" : "RadeonProRMaps/Mahogany_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "07A7D61C9D4207A9DFF95D1A4CDD4A4E9F0503BB"       } ,   
+		{ "file" : "Wood/Wood_Mahogany_Glossy/Wood_Mahogany_Glossy.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "F85A3F75A4F789C178ABFAA0AC2204836A0F1591"       } ,   
+		{ "file" : "Wood/Wood_Mahogany_Glossy/Wood_Mahogany_Glossy_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "DE9F5325CE5F7871A74F4D25BC740E31C8E236FA"       } ,   
+		{ "file" : "Wood/Wood_Mahogany_Glossy/Wood_Mahogany_Glossy.xml",      "type" : "material_xml"  ,  "sha1" : "B44CB203A4AE3F3F6F4B0F604245BA01A4BAFBDA"       } 
+		]
+}

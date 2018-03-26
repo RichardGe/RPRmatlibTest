@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Tungsten" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Tungsten/Car_Paint_Tungsten.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "FFBE9E499536B30A92F4E61DD360428E2287309C"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Tungsten/Car_Paint_Tungsten_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "63E8DABD622B0B9ABDB926F323F4A32B9C24A2AE"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Tungsten/Car_Paint_Tungsten.xml",      "type" : "material_xml"  ,  "sha1" : "D697CDAC286741F33FF279948498D3827752BAF0"       } 
+		]
+}

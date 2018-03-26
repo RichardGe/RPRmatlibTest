@@ -1,0 +1,11 @@
+{
+	"name" : "Plastic Glossy Red" ,
+	"description" : "  " ,
+	"category" : "Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Plastic/Plastic_Glossy_Red/Plastic_Glossy_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "E8917EE4EC04C10DC669F92FEE94A699D2C6B9F8"       } ,   
+		{ "file" : "Plastic/Plastic_Glossy_Red/Plastic_Glossy_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "2443031C7426445F4F7B20A38FA69EDD7A653B21"       } ,   
+		{ "file" : "Plastic/Plastic_Glossy_Red/Plastic_Glossy_Red.xml",      "type" : "material_xml"  ,  "sha1" : "7161D20805DC61C6D21CCF9FFF42796381ED3EE0"       } 
+		]
+}

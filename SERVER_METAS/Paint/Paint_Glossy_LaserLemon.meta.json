@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Glossy Laser Lemon" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Glossy_LaserLemon/Paint_Glossy_LaserLemon.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "D027EDA85F3807A8156A5ABF9CFAEC9B840AB54A"       } ,   
+		{ "file" : "Paint/Paint_Glossy_LaserLemon/Paint_Glossy_LaserLemon_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "9B108E5B1550DE9496B8AE700DFF72D9417A08FC"       } ,   
+		{ "file" : "Paint/Paint_Glossy_LaserLemon/Paint_Glossy_LaserLemon.xml",      "type" : "material_xml"  ,  "sha1" : "5AD448289219523F6A7B4A1D5426BF0996A29793"       } 
+		]
+}

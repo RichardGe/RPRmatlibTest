@@ -1,0 +1,11 @@
+{
+	"name" : "Acrylic Refractive Glossy Neon Green" ,
+	"description" : "  " ,
+	"category" : "Transparent_Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Glossy_Neon_Green/Acrylic_Refractive_Glossy_Neon_Green.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "905EEA50B113D14B6CBA2096249ED1AE5C0959C3"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Glossy_Neon_Green/Acrylic_Refractive_Glossy_Neon_Green_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "ADA71E533B2D5BA68CC89C2515FF135EE01D14E5"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Glossy_Neon_Green/Acrylic_Refractive_Glossy_Neon_Green.xml",      "type" : "material_xml"  ,  "sha1" : "40D295E348EA8A066690B37C84ADDCDE90BC7A55"       } 
+		]
+}

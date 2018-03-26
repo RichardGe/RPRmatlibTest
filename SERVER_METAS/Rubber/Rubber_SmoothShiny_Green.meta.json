@@ -1,0 +1,11 @@
+{
+	"name" : "Rubber Smooth Shiny Green" ,
+	"description" : "  " ,
+	"category" : "Rubber" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Rubber/Rubber_SmoothShiny_Green/Rubber_SmoothShiny_Green.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "D58DA6932805A9D302F77E85B31501D59FD24AF6"       } ,   
+		{ "file" : "Rubber/Rubber_SmoothShiny_Green/Rubber_SmoothShiny_Green_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "C181F0C829F816D3DE18C368A21C697A5C9465F6"       } ,   
+		{ "file" : "Rubber/Rubber_SmoothShiny_Green/Rubber_SmoothShiny_Green.xml",      "type" : "material_xml"  ,  "sha1" : "3C5A2E316AA37212BC21051EFA2D4FDF28974F78"       } 
+		]
+}

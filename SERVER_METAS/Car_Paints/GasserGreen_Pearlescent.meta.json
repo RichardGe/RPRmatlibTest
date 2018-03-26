@@ -1,0 +1,12 @@
+{
+	"name" : "Gasser Green Pearlescent" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/GasserGreen_Pearlescent/GasserGreen_Pearlescent.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "9320CFF535C15A156DC8CDA4DF463A61B7A68285"       } ,   
+		{ "file" : "Car_Paints/GasserGreen_Pearlescent/GasserGreen_Pearlescent_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "7566F003AB28585D4A723E5E914B11CCB99FFFE4"       } ,   
+		{ "file" : "Car_Paints/GasserGreen_Pearlescent/GasserGreen_Pearlescent.xml",      "type" : "material_xml"  ,  "sha1" : "A2F72049A518DD0749CEDAEBDE874B72AB3CEF1B"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Venetian Red" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Venetian_Red/Car_Paint_Venetian_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "DC7D4250EE531CD18038B5CCAEDB62D9A239EE74"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Venetian_Red/Car_Paint_Venetian_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "70982C86E195E45CA434AEDAC9B19E331B80144A"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Venetian_Red/Car_Paint_Venetian_Red.xml",      "type" : "material_xml"  ,  "sha1" : "37F7FC3EC3B9EB9208DEA0B07BD082BB30C7FCC5"       } 
+		]
+}

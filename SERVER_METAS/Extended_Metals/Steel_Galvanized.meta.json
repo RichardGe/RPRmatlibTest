@@ -1,0 +1,13 @@
+{
+	"name" : "Steel Galvanized" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/steel_galvanized0001.png",      "type" : "texture"  ,  "sha1" : "711A040317E532CB064EC57565FE069CF23253F1"       } ,   
+		{ "file" : "Extended_Metals/Steel_Galvanized/tex_0.png",      "type" : "texture"  ,  "sha1" : "E9132CAE959E4EEC951548496C4D0F688763CF44"       } ,   
+		{ "file" : "Extended_Metals/Steel_Galvanized/Steel_Galvanized.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "4A3A99F3003CFC163482D9CE599FFF37671C28D8"       } ,   
+		{ "file" : "Extended_Metals/Steel_Galvanized/Steel_Galvanized_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "756AAA01B9CD5E3B8F3E6397589F38B16CBCA526"       } ,   
+		{ "file" : "Extended_Metals/Steel_Galvanized/Steel_Galvanized.xml",      "type" : "material_xml"  ,  "sha1" : "C9AFA7472837D4E04E030CB5EF2DE4D0F5BDB088"       } 
+		]
+}

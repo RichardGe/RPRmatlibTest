@@ -1,0 +1,13 @@
+{
+	"name" : "Porcelain Cracked white" ,
+	"description" : "  " ,
+	"category" : "Porcelain" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/CrackedPorcelain.jpg",      "type" : "texture"  ,  "sha1" : "BF2FB0473E69003CA6ABA0449509E200CBDE024C"       } ,   
+		{ "file" : "Porcelain/Porcelain_Cracked_white/tex_0.png",      "type" : "texture"  ,  "sha1" : "B5631359F8A1F602D1322AD1F9C967A4BF770B74"       } ,   
+		{ "file" : "Porcelain/Porcelain_Cracked_white/Porcelain_Cracked_white.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "D5030A2D594B1F01B3BDD4E35E7F6FA5F3686F8C"       } ,   
+		{ "file" : "Porcelain/Porcelain_Cracked_white/Porcelain_Cracked_white_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D05BC81E52AE9C41BDF75A62F012A0FE8544F049"       } ,   
+		{ "file" : "Porcelain/Porcelain_Cracked_white/Porcelain_Cracked_white.xml",      "type" : "material_xml"  ,  "sha1" : "5D7B7B1610E2E5F5979F6BCA41DA5C562321F323"       } 
+		]
+}

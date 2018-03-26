@@ -1,0 +1,12 @@
+{
+	"name" : "Aluminium Polished" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/metal_scratches0002.png",      "type" : "texture"  ,  "sha1" : "1C29E82418817B847DE7315EA7A2759C09C2C713"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Polished/Aluminium_Polished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "371E4DA863C53A5A3C64C1CAF4FFC5F39E129A11"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Polished/Aluminium_Polished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "0F7D722043EABCE0C6AEF49D65665D207270B151"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Polished/Aluminium_Polished.xml",      "type" : "material_xml"  ,  "sha1" : "B78079863D30488E358D03E627151F9CF63EB444"       } 
+		]
+}

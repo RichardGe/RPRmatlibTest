@@ -1,0 +1,11 @@
+{
+	"name" : "Porcelain Black" ,
+	"description" : "  " ,
+	"category" : "Porcelain" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Porcelain/Porcelain_Black/Porcelain_Black.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B4A81402DE1CD3C42F76F70095FC8C7590A33EBB"       } ,   
+		{ "file" : "Porcelain/Porcelain_Black/Porcelain_Black_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "C32472DC81645B741F99881F0C9277BD74DB1578"       } ,   
+		{ "file" : "Porcelain/Porcelain_Black/Porcelain_Black.xml",      "type" : "material_xml"  ,  "sha1" : "C99826A09E094414B90F93CEA075784FFE2BB6D3"       } 
+		]
+}

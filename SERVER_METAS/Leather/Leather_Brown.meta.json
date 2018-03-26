@@ -1,0 +1,13 @@
+{
+	"name" : "Leather Brown" ,
+	"description" : "  " ,
+	"category" : "Leather" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Leather_Normal.png",      "type" : "texture"  ,  "sha1" : "A514B5EA83992ED000304DE286F4363A6D9E6420"       } ,   
+		{ "file" : "RadeonProRMaps/Leather-bump.jpg",      "type" : "texture"  ,  "sha1" : "25B1A6D94392D59048A5CF296F69CA44B7C2DCDE"       } ,   
+		{ "file" : "Leather/Leather_Brown/Leather_Brown.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "5F5D43C1B64A51BE222BBD5496DA27E838143844"       } ,   
+		{ "file" : "Leather/Leather_Brown/Leather_Brown_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "CE1F2324B8775FAEE149401598B65FBE8C54E8F5"       } ,   
+		{ "file" : "Leather/Leather_Brown/Leather_Brown.xml",      "type" : "material_xml"  ,  "sha1" : "644DC779DE3E22366DE0B53AD4DCA3BC3D47A259"       } 
+		]
+}

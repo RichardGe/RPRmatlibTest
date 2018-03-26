@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Maple Glossy" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Maple_Tile.jpg",      "type" : "texture"  ,  "sha1" : "0BF796479E5009901DCEA7938A4FF854E7CA1D36"       } ,   
+		{ "file" : "RadeonProRMaps/Maple_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "33E3BD575D8B09BC281E5DC76707283B3A76F72A"       } ,   
+		{ "file" : "Wood/Wood_Maple_Glossy/Wood_Maple_Glossy.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "40CAA73F0150061E903E9A510FBF1E756526BB47"       } ,   
+		{ "file" : "Wood/Wood_Maple_Glossy/Wood_Maple_Glossy_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "1202EAD5786B8D21F61F943194F08269DA4D2E68"       } ,   
+		{ "file" : "Wood/Wood_Maple_Glossy/Wood_Maple_Glossy.xml",      "type" : "material_xml"  ,  "sha1" : "CF46951ED7E6131F788372D7E94DC08328FDF7D5"       } 
+		]
+}

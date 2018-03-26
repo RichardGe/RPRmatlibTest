@@ -1,0 +1,11 @@
+{
+	"name" : "Rubber Smooth Shiny Blue" ,
+	"description" : "  " ,
+	"category" : "Rubber" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Rubber/Rubber_SmoothShiny_Blue/Rubber_SmoothShiny_Blue.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "6D797DBB8D486C4F6881B9C6B039A738BC32F112"       } ,   
+		{ "file" : "Rubber/Rubber_SmoothShiny_Blue/Rubber_SmoothShiny_Blue_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "ED5A68D3D1F32C0A244752E383A4034D33D55EAD"       } ,   
+		{ "file" : "Rubber/Rubber_SmoothShiny_Blue/Rubber_SmoothShiny_Blue.xml",      "type" : "material_xml"  ,  "sha1" : "564CFECCC75E29C949D8D289417848760F265822"       } 
+		]
+}

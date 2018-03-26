@@ -1,0 +1,11 @@
+{
+	"name" : "Glass Solid Clear" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Glass/Glass_Solid_Clear/Glass_Solid_Clear.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "239CAF1AC5B597D7379A4D76D0F7E5E6DE887A42"       } ,   
+		{ "file" : "Glass/Glass_Solid_Clear/Glass_Solid_Clear_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "5FE29E6992AF1A60E839C4945007AA7948FB387C"       } ,   
+		{ "file" : "Glass/Glass_Solid_Clear/Glass_Solid_Clear.xml",      "type" : "material_xml"  ,  "sha1" : "1000405FBC6C1DBD4F31A61E173D5CFF184A7F21"       } 
+		]
+}

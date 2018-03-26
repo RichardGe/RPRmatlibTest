@@ -1,0 +1,13 @@
+{
+	"name" : "Aluminum Cast" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Noise_Bw.jpg",      "type" : "texture"  ,  "sha1" : "838CBC977AB07DF0F43C964DD2DB1413005A0127"       } ,   
+		{ "file" : "Metals/Aluminum_Cast/tex_0.png",      "type" : "texture"  ,  "sha1" : "B9A47B4237D85FEF06EFCB30AEAC77359791BDC3"       } ,   
+		{ "file" : "Metals/Aluminum_Cast/Aluminum_Cast.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "7E3EDEA4081845A9C5E8531A40F34508E85714D6"       } ,   
+		{ "file" : "Metals/Aluminum_Cast/Aluminum_Cast_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "22F528D2FBBF9E7CD31A0C46891859706D685137"       } ,   
+		{ "file" : "Metals/Aluminum_Cast/Aluminum_Cast.xml",      "type" : "material_xml"  ,  "sha1" : "1237A52BF957289DAA009B5A739B9AF49B459A91"       } 
+		]
+}

@@ -1,0 +1,13 @@
+{
+	"name" : "Fabric Silk" ,
+	"description" : "  " ,
+	"category" : "Fabric" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Fabric/Fabric_Silk/tex_0.png",      "type" : "texture"  ,  "sha1" : "CCA4C4DF2772FC679FA71D7532F45CE65388903B"       } ,   
+		{ "file" : "Fabric/Fabric_Silk/tex_1.png",      "type" : "texture"  ,  "sha1" : "43F8ED44C5087DD68AAA5AE4180683C708203C10"       } ,   
+		{ "file" : "Fabric/Fabric_Silk/Fabric_Silk.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "096E9735E1BC92ED2070C34F7A743D5BE5D91221"       } ,   
+		{ "file" : "Fabric/Fabric_Silk/Fabric_Silk_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "2A5691C3EE13FAE0FB9622374B0933BB12F046C8"       } ,   
+		{ "file" : "Fabric/Fabric_Silk/Fabric_Silk.xml",      "type" : "material_xml"  ,  "sha1" : "C01A9D73314D054C69A6A274818FB9CDEB7B9B9F"       } 
+		]
+}

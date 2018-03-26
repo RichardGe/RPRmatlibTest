@@ -1,0 +1,11 @@
+{
+	"name" : "Deserted Tan Flat" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/DesertedTan_Flat/DesertedTan_Flat.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "FD2BC02E070EDC00697011973880875AB60E86B5"       } ,   
+		{ "file" : "Car_Paints/DesertedTan_Flat/DesertedTan_Flat_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "DC9EAFC7946D894955B0C82B26645D01138CD3EA"       } ,   
+		{ "file" : "Car_Paints/DesertedTan_Flat/DesertedTan_Flat.xml",      "type" : "material_xml"  ,  "sha1" : "60C3A28A448DAD6FBFEC2C2DF9D732A8A77604D0"       } 
+		]
+}

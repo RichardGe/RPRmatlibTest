@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint North Grey" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_North_Grey/Car_Paint_North_Grey.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "9896BCC031B6E750B9B4256F767957C76C057D83"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_North_Grey/Car_Paint_North_Grey_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "22298502B19544A04EF05DE251AC39C21CDE6221"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_North_Grey/Car_Paint_North_Grey.xml",      "type" : "material_xml"  ,  "sha1" : "49989735B91825AB1B0D4516E306E9FD255CD741"       } 
+		]
+}

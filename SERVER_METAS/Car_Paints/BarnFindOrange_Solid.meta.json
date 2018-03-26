@@ -1,0 +1,11 @@
+{
+	"name" : "Barn Find Orange Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/BarnFindOrange_Solid/BarnFindOrange_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "4E66C498F21C3F9C566E532450F71FADDD8982C5"       } ,   
+		{ "file" : "Car_Paints/BarnFindOrange_Solid/BarnFindOrange_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "54FBD7FD4BF2B03EDDBE0EB3EAAF15EEA4320463"       } ,   
+		{ "file" : "Car_Paints/BarnFindOrange_Solid/BarnFindOrange_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "D595EAFD88A7EB5F3F476FC35109857D64BBA3C9"       } 
+		]
+}

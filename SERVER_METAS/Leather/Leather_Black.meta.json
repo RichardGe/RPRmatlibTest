@@ -1,0 +1,13 @@
+{
+	"name" : "Leather Black" ,
+	"description" : "  " ,
+	"category" : "Leather" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Leather-bump.jpg",      "type" : "texture"  ,  "sha1" : "25B1A6D94392D59048A5CF296F69CA44B7C2DCDE"       } ,   
+		{ "file" : "RadeonProRMaps/Leather_Normal.png",      "type" : "texture"  ,  "sha1" : "A514B5EA83992ED000304DE286F4363A6D9E6420"       } ,   
+		{ "file" : "Leather/Leather_Black/Leather_Black.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B1C791F9506A8156C16AD04B91EEA335597F6327"       } ,   
+		{ "file" : "Leather/Leather_Black/Leather_Black_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "4D6A855596B94145747C5C59F4CF3751C0B833B9"       } ,   
+		{ "file" : "Leather/Leather_Black/Leather_Black.xml",      "type" : "material_xml"  ,  "sha1" : "C95623E79F04D9B5215D0903A78ADBEC002F104E"       } 
+		]
+}

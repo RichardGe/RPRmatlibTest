@@ -1,0 +1,11 @@
+{
+	"name" : "Eye Candy Green Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/EyeCandyGreen_Solid/EyeCandyGreen_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "1D3F9473663C48C4BFDF6F03961ACC41442D0DAD"       } ,   
+		{ "file" : "Car_Paints/EyeCandyGreen_Solid/EyeCandyGreen_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "ADE24B52A005443C7FFFD721BAC0E8372E695A6A"       } ,   
+		{ "file" : "Car_Paints/EyeCandyGreen_Solid/EyeCandyGreen_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "4A29DF1C419B6283310211DEA1CF3CA8CCEFB4F8"       } 
+		]
+}

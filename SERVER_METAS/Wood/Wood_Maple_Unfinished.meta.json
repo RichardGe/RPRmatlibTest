@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Maple Unfinished" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Maple_Tile.jpg",      "type" : "texture"  ,  "sha1" : "0BF796479E5009901DCEA7938A4FF854E7CA1D36"       } ,   
+		{ "file" : "RadeonProRMaps/Maple_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "33E3BD575D8B09BC281E5DC76707283B3A76F72A"       } ,   
+		{ "file" : "Wood/Wood_Maple_Unfinished/Wood_Maple_Unfinished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "C678698B87D895E8C00725C1079027337EA6F4F6"       } ,   
+		{ "file" : "Wood/Wood_Maple_Unfinished/Wood_Maple_Unfinished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "F2CF35BF30DD628AC2503A207801005BC8D2E1C3"       } ,   
+		{ "file" : "Wood/Wood_Maple_Unfinished/Wood_Maple_Unfinished.xml",      "type" : "material_xml"  ,  "sha1" : "8B188922961762F820277F3FD0B1EFF23B6F577D"       } 
+		]
+}

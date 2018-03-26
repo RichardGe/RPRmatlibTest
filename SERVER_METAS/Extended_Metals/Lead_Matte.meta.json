@@ -1,0 +1,12 @@
+{
+	"name" : "Lead Matte" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Lead_Matte/tex_0.png",      "type" : "texture"  ,  "sha1" : "DE332CC3E05226EF7BECA19C97779B4CCDD45815"       } ,   
+		{ "file" : "Extended_Metals/Lead_Matte/Lead_Matte.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "C265374F7817EF10E79BC2FBEBB8557F7BF04990"       } ,   
+		{ "file" : "Extended_Metals/Lead_Matte/Lead_Matte_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "DDD07123F09738FD383A6B2ADDBF81251CB850BB"       } ,   
+		{ "file" : "Extended_Metals/Lead_Matte/Lead_Matte.xml",      "type" : "material_xml"  ,  "sha1" : "EF07DEEEA02262341D33EFC6391C8480C7584B62"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Chrome" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metals/Chrome/Chrome.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "33C93F3141FCDEC159B3E07CCD30C26DC37C79B4"       } ,   
+		{ "file" : "Metals/Chrome/Chrome_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "CDF25E05199C9E135B8D58A61FFB1B558C894D62"       } ,   
+		{ "file" : "Metals/Chrome/Chrome.xml",      "type" : "material_xml"  ,  "sha1" : "3FA36F8E8DCA08AA28F19F7B2361468CE2837FEE"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Ice Silver" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Ice_Silver/Car_Paint_Ice_Silver.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "0B2E9900402F834C5B35A2090EBCCACA27E53275"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Ice_Silver/Car_Paint_Ice_Silver_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "DA01004362757EC0C77012112E8238120F5688FE"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Ice_Silver/Car_Paint_Ice_Silver.xml",      "type" : "material_xml"  ,  "sha1" : "BFFEB07947B8E2A95EC3DA65D24FF5BE90E11FF6"       } 
+		]
+}

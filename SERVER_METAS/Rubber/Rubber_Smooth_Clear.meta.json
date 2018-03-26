@@ -1,0 +1,11 @@
+{
+	"name" : "Rubber Smooth Clear" ,
+	"description" : "  " ,
+	"category" : "Rubber" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Rubber/Rubber_Smooth_Clear/Rubber_Smooth_Clear.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "8115730905DCACB8FCD79407207F9124B59B2A08"       } ,   
+		{ "file" : "Rubber/Rubber_Smooth_Clear/Rubber_Smooth_Clear_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "6347601664874F35A55F69D370603DE1E57EE5A5"       } ,   
+		{ "file" : "Rubber/Rubber_Smooth_Clear/Rubber_Smooth_Clear.xml",      "type" : "material_xml"  ,  "sha1" : "A21BC2F8DBB1F47EDE0A4405C35D00E1C906A4D2"       } 
+		]
+}

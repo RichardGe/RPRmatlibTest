@@ -1,0 +1,11 @@
+{
+	"name" : "Stainless Steel" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metals/Stainless_Steel/Stainless_Steel.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "645D333EE76F0F11655A95FCB44124DEC63A8A6E"       } ,   
+		{ "file" : "Metals/Stainless_Steel/Stainless_Steel_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "BDF12D05901A24126AB94B08E12A74364D8F8631"       } ,   
+		{ "file" : "Metals/Stainless_Steel/Stainless_Steel.xml",      "type" : "material_xml"  ,  "sha1" : "F33800A4C5BBB6327E2CB124EBF5030E41D87B06"       } 
+		]
+}

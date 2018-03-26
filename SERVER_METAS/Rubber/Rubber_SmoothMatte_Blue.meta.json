@@ -1,0 +1,11 @@
+{
+	"name" : "Rubber Smooth Matte Blue" ,
+	"description" : "  " ,
+	"category" : "Rubber" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Rubber/Rubber_SmoothMatte_Blue/Rubber_SmoothMatte_Blue.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B88111B822CF1331AE1C43C5387F1480A1EE8EC3"       } ,   
+		{ "file" : "Rubber/Rubber_SmoothMatte_Blue/Rubber_SmoothMatte_Blue_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "7A69329E1303AC782DC7DAFE32AA185DC169397F"       } ,   
+		{ "file" : "Rubber/Rubber_SmoothMatte_Blue/Rubber_SmoothMatte_Blue.xml",      "type" : "material_xml"  ,  "sha1" : "DD106EBCDB600F4BD328838C23279327E04CA70A"       } 
+		]
+}

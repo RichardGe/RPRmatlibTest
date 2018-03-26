@@ -1,0 +1,12 @@
+{
+	"name" : "Gold Rough" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Gold_Rough/tex_0.png",      "type" : "texture"  ,  "sha1" : "93E6638D01113679237DAA3A8F2BD658C0A53CE8"       } ,   
+		{ "file" : "Extended_Metals/Gold_Rough/Gold_Rough.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "FD3738B28A15CBB6C568E06249B48EF81C10B1B3"       } ,   
+		{ "file" : "Extended_Metals/Gold_Rough/Gold_Rough_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "1FA9039922EB898D19684F1E62BE93B751E4E7EB"       } ,   
+		{ "file" : "Extended_Metals/Gold_Rough/Gold_Rough.xml",      "type" : "material_xml"  ,  "sha1" : "92C6BCF855809000FD12A82DF8401219D37CA06B"       } 
+		]
+}

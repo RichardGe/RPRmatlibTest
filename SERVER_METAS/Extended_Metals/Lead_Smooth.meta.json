@@ -1,0 +1,12 @@
+{
+	"name" : "Lead Smooth" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Lead_Smooth/tex_0.png",      "type" : "texture"  ,  "sha1" : "39EA1B0586EDDDCF3C73A5B5143BF8B436FFF3D6"       } ,   
+		{ "file" : "Extended_Metals/Lead_Smooth/Lead_Smooth.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "C0B171E1C3D2D4ADE0BBB04C3DEA9B0091A4FE5D"       } ,   
+		{ "file" : "Extended_Metals/Lead_Smooth/Lead_Smooth_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "2CD6394A03A7347DE2188B41E11C5C904B69160E"       } ,   
+		{ "file" : "Extended_Metals/Lead_Smooth/Lead_Smooth.xml",      "type" : "material_xml"  ,  "sha1" : "BCBAF83A6F69BB8489F0E3F60FC8FFE5EDEF423B"       } 
+		]
+}

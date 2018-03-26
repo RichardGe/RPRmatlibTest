@@ -1,0 +1,11 @@
+{
+	"name" : "Metallic Paint Red" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Metallic_Paint_Red/Metallic_Paint_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "748CD8A698E4138459C1DC023BF647C49C994E8A"       } ,   
+		{ "file" : "Metallic_Paint/Metallic_Paint_Red/Metallic_Paint_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "A35458120FD0EC988FE52BD49315548B153EDF28"       } ,   
+		{ "file" : "Metallic_Paint/Metallic_Paint_Red/Metallic_Paint_Red.xml",      "type" : "material_xml"  ,  "sha1" : "82EDB45517CF3AC0E778C87FE89BDB05995E1CF4"       } 
+		]
+}

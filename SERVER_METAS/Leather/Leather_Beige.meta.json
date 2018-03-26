@@ -1,0 +1,13 @@
+{
+	"name" : "Leather Beige" ,
+	"description" : "  " ,
+	"category" : "Leather" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Leather-bump.jpg",      "type" : "texture"  ,  "sha1" : "25B1A6D94392D59048A5CF296F69CA44B7C2DCDE"       } ,   
+		{ "file" : "RadeonProRMaps/Leather_Normal.png",      "type" : "texture"  ,  "sha1" : "A514B5EA83992ED000304DE286F4363A6D9E6420"       } ,   
+		{ "file" : "Leather/Leather_Beige/Leather_Beige.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "816D6256F44224D0871AA4BEA16BD7E945DE4015"       } ,   
+		{ "file" : "Leather/Leather_Beige/Leather_Beige_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "76DE82F7CEDA25BCA31499FDC264738FBA150867"       } ,   
+		{ "file" : "Leather/Leather_Beige/Leather_Beige.xml",      "type" : "material_xml"  ,  "sha1" : "C1FCC7BACCAE8BA60823AA1C3DC6D55D2ACC2152"       } 
+		]
+}

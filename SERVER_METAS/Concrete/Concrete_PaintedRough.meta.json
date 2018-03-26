@@ -1,0 +1,13 @@
+{
+	"name" : "Concrete Painted Rough" ,
+	"description" : "  " ,
+	"category" : "Concrete" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/cement_PaintedRough.jpg",      "type" : "texture"  ,  "sha1" : "F37E69785C24DD43744BB89BDBD55C5C1F7F6D8B"       } ,   
+		{ "file" : "RadeonProRMaps/cement_PaintedRough_normal.jpg",      "type" : "texture"  ,  "sha1" : "4C15C39651AFA8A833960486EF465C07576C649C"       } ,   
+		{ "file" : "Concrete/Concrete_PaintedRough/Concrete_PaintedRough.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "2700CC7E52E51CDBF91DFA687D30AA76FB807505"       } ,   
+		{ "file" : "Concrete/Concrete_PaintedRough/Concrete_PaintedRough_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "A1D631098654BF4505897EA365F8164A20A9155C"       } ,   
+		{ "file" : "Concrete/Concrete_PaintedRough/Concrete_PaintedRough.xml",      "type" : "material_xml"  ,  "sha1" : "817EC0F6B5C0E9598419DC0A0CC12A1B5A29CF35"       } 
+		]
+}

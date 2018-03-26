@@ -1,0 +1,13 @@
+{
+	"name" : "Copper Wrought" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/metal_wrought0001.png",      "type" : "texture"  ,  "sha1" : "F6EB43AE9CB7AC72C258556AD1D2C8BE436FD82D"       } ,   
+		{ "file" : "Extended_Metals/Copper_Wrought/tex_0.png",      "type" : "texture"  ,  "sha1" : "5047B88F0211A39971383854CAF47CC66FB10930"       } ,   
+		{ "file" : "Extended_Metals/Copper_Wrought/Copper_Wrought.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "DAE38F18F0C9904B39E44F0EF88D947D50440168"       } ,   
+		{ "file" : "Extended_Metals/Copper_Wrought/Copper_Wrought_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "1A89AD63CA2E679C054E38A728735930B757591B"       } ,   
+		{ "file" : "Extended_Metals/Copper_Wrought/Copper_Wrought.xml",      "type" : "material_xml"  ,  "sha1" : "8EF947E7777BC8694BECE314C239F3F252182268"       } 
+		]
+}

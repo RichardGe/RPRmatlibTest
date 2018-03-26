@@ -1,0 +1,12 @@
+{
+	"name" : "Bronze Matte" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Bronze_Matte/tex_0.png",      "type" : "texture"  ,  "sha1" : "266F7EF0EB5C9BDDCB9D11726F65CEDD2978F2A2"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Matte/Bronze_Matte.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "AC0EBD944DE9F2C16A9B33E96E4DC593907B7580"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Matte/Bronze_Matte_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "7A179403F882DADF56DFEB31089B1A79EF18F3C0"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Matte/Bronze_Matte.xml",      "type" : "material_xml"  ,  "sha1" : "0CE806F983E67EA78DE090F30C43676756AA4454"       } 
+		]
+}

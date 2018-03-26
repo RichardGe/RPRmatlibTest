@@ -1,0 +1,12 @@
+{
+	"name" : "Eastwood Royal Blue Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/EastwoodRoyalBlue_Metallic/EastwoodRoyalBlue_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "F7C1E2CD35F75CA9710C212954A611E2D5F35C4E"       } ,   
+		{ "file" : "Car_Paints/EastwoodRoyalBlue_Metallic/EastwoodRoyalBlue_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "C7AF3CAF50D1F01D4A8EE09F7BCEAE5DCB66FDB0"       } ,   
+		{ "file" : "Car_Paints/EastwoodRoyalBlue_Metallic/EastwoodRoyalBlue_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "403D212DBC1C35A7A28DAE0E316D4E4DB8F50F04"       } 
+		]
+}

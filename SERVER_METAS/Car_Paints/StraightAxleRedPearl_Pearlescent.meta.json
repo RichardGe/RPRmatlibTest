@@ -1,0 +1,12 @@
+{
+	"name" : "Straight Axle Red Pearl Pearlescent" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/StraightAxleRedPearl_Pearlescent/StraightAxleRedPearl_Pearlescent.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B90BCE294C3EAE366D19DA71CA0E94652DF9BB62"       } ,   
+		{ "file" : "Car_Paints/StraightAxleRedPearl_Pearlescent/StraightAxleRedPearl_Pearlescent_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "8E29F62B126B935E69C499018B4B0A48DFA5E1FE"       } ,   
+		{ "file" : "Car_Paints/StraightAxleRedPearl_Pearlescent/StraightAxleRedPearl_Pearlescent.xml",      "type" : "material_xml"  ,  "sha1" : "9F65382F73BDC3F32D8E6EE69F065CFF912AFE9A"       } 
+		]
+}

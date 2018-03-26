@@ -1,0 +1,12 @@
+{
+	"name" : "Gold Foil Rough" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/foil0002.png",      "type" : "texture"  ,  "sha1" : "8FD1C5D8E3BCCA0EA468A7CEFD5B94A76BD54FEB"       } ,   
+		{ "file" : "Extended_Metals/Gold_Foil_Rough/Gold_Foil_Rough.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "00BBD423F938864DF5951E34D55D3CA0F331025D"       } ,   
+		{ "file" : "Extended_Metals/Gold_Foil_Rough/Gold_Foil_Rough_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "951D20AE9D556298A9A821E0003A22723B9EB69F"       } ,   
+		{ "file" : "Extended_Metals/Gold_Foil_Rough/Gold_Foil_Rough.xml",      "type" : "material_xml"  ,  "sha1" : "2C0A56436F5956C55A2C46D64CFD20722DCDC5F9"       } 
+		]
+}

@@ -1,0 +1,13 @@
+{
+	"name" : "Fabric Matte Transparent Beige" ,
+	"description" : "  " ,
+	"category" : "Fabric" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/pattern.jpg",      "type" : "texture"  ,  "sha1" : "0635F12727E9E3376D6FA1A1F43BD05710941AA5"       } ,   
+		{ "file" : "RadeonProRMaps/pattern_normal.jpg",      "type" : "texture"  ,  "sha1" : "1AEC19921B24C59BE9AB9F7C887E1EEF5BE1902B"       } ,   
+		{ "file" : "Fabric/Fabric_Matte_Transparent_Beige/Fabric_Matte_Transparent_Beige.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "3DBDE5A96C8EB0F1ADDE926CEF1991AE45D1308C"       } ,   
+		{ "file" : "Fabric/Fabric_Matte_Transparent_Beige/Fabric_Matte_Transparent_Beige_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "917417C98763657E2FA549FE775AF7DF7371F62A"       } ,   
+		{ "file" : "Fabric/Fabric_Matte_Transparent_Beige/Fabric_Matte_Transparent_Beige.xml",      "type" : "material_xml"  ,  "sha1" : "06DD658FE04D4BB9C797A3A4F57772D851A9AB4D"       } 
+		]
+}

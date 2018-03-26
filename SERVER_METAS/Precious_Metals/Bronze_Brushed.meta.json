@@ -1,0 +1,11 @@
+{
+	"name" : "Bronze Brushed" ,
+	"description" : "  " ,
+	"category" : "Precious_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Precious_Metals/Bronze_Brushed/Bronze_Brushed.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "852FFEBE8C80D05C58061E185BD50D053CB84772"       } ,   
+		{ "file" : "Precious_Metals/Bronze_Brushed/Bronze_Brushed_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "F3E523435A4DADA3B51C54854B9163DB2D347D80"       } ,   
+		{ "file" : "Precious_Metals/Bronze_Brushed/Bronze_Brushed.xml",      "type" : "material_xml"  ,  "sha1" : "EC5F468213EDA8500B7D7508D8AD1B709446BDAA"       } 
+		]
+}

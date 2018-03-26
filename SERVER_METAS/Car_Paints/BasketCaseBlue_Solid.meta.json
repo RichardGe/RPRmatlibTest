@@ -1,0 +1,11 @@
+{
+	"name" : "Basket Case Blue Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/BasketCaseBlue_Solid/BasketCaseBlue_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "E3B40F51A10415B8324BDF5342B5511DF46FD008"       } ,   
+		{ "file" : "Car_Paints/BasketCaseBlue_Solid/BasketCaseBlue_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "2FBF6F4BC0330CB7EED355E1AB6ABABD732F36B6"       } ,   
+		{ "file" : "Car_Paints/BasketCaseBlue_Solid/BasketCaseBlue_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "0A7FABE608822D402675848B384A830D9FBBFCF9"       } 
+		]
+}

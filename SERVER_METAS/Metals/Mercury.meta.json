@@ -1,0 +1,11 @@
+{
+	"name" : "Mercury" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metals/Mercury/Mercury.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "C4271C96F6A5626EC2C6A02064CB2C3D1E236855"       } ,   
+		{ "file" : "Metals/Mercury/Mercury_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "77F4439693CCE1EF3F053846F5F9B255771004FA"       } ,   
+		{ "file" : "Metals/Mercury/Mercury.xml",      "type" : "material_xml"  ,  "sha1" : "CAC33328E6AC7B90781A8EECCE9A43B525A57061"       } 
+		]
+}

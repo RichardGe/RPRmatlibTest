@@ -1,0 +1,11 @@
+{
+	"name" : "Water Transparent Displacement" ,
+	"description" : "  " ,
+	"category" : "Liquid" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Liquid/Water_Transparent_Displacement/Water_Transparent_Displacement.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "5D5EACEE2D7CF11EE90E88E2096BBA0971C9FBA5"       } ,   
+		{ "file" : "Liquid/Water_Transparent_Displacement/Water_Transparent_Displacement_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "06E56719CA6E6C97A206DD729411FF6960319E68"       } ,   
+		{ "file" : "Liquid/Water_Transparent_Displacement/Water_Transparent_Displacement.xml",      "type" : "material_xml"  ,  "sha1" : "2EB554DEAC789CDB36E39D3F9E518F2F6CCE50CE"       } 
+		]
+}

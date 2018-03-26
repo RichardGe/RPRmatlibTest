@@ -1,0 +1,11 @@
+{
+	"name" : "Emissive CoolLight" ,
+	"description" : "  " ,
+	"category" : "Emissive" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Emissive/Emissive_CoolLight/Emissive_CoolLight.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "FDE27D1406FE299E5A28FCD1C6EB45FB1D44A255"       } ,   
+		{ "file" : "Emissive/Emissive_CoolLight/Emissive_CoolLight_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "630F32EBFA4523E07943BB9CB651AE0F4838757E"       } ,   
+		{ "file" : "Emissive/Emissive_CoolLight/Emissive_CoolLight.xml",      "type" : "material_xml"  ,  "sha1" : "831CC5E53E070CF8F1D4115C4DC7702383720A6C"       } 
+		]
+}

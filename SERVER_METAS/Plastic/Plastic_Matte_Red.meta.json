@@ -1,0 +1,11 @@
+{
+	"name" : "Plastic Matte Red" ,
+	"description" : "  " ,
+	"category" : "Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Plastic/Plastic_Matte_Red/Plastic_Matte_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "21168F1D996638BD1BDF78803783E34DB6185DC3"       } ,   
+		{ "file" : "Plastic/Plastic_Matte_Red/Plastic_Matte_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "AE83744F94CF58D1C5EF32362A181EE60B99C472"       } ,   
+		{ "file" : "Plastic/Plastic_Matte_Red/Plastic_Matte_Red.xml",      "type" : "material_xml"  ,  "sha1" : "91F7B939939412EE9A327E38F266F6455BA0AEB5"       } 
+		]
+}

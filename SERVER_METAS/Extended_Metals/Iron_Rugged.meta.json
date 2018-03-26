@@ -1,0 +1,13 @@
+{
+	"name" : "Iron Rugged" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/metal_rugged0001.png",      "type" : "texture"  ,  "sha1" : "79807E68452FD3AD8EE67B051BB37FFD21B3B873"       } ,   
+		{ "file" : "Extended_Metals/Iron_Rugged/tex_0.png",      "type" : "texture"  ,  "sha1" : "DF1450083898D17A18B73AF85A7ABCA81EFAAD1E"       } ,   
+		{ "file" : "Extended_Metals/Iron_Rugged/Iron_Rugged.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "F5069BE0078075ED0A05A2C1BAB806F81CF28851"       } ,   
+		{ "file" : "Extended_Metals/Iron_Rugged/Iron_Rugged_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "8D7546937EF7AE6D2D2A43ED300C2E92123433D8"       } ,   
+		{ "file" : "Extended_Metals/Iron_Rugged/Iron_Rugged.xml",      "type" : "material_xml"  ,  "sha1" : "AB90995438562C59612F2C7A1A25724FA749118D"       } 
+		]
+}

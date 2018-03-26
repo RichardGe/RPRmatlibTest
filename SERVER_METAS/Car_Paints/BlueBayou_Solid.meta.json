@@ -1,0 +1,11 @@
+{
+	"name" : "Blue Bayou Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/BlueBayou_Solid/BlueBayou_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B1AF56554C996CF6EFA489821E38C9D9E307D304"       } ,   
+		{ "file" : "Car_Paints/BlueBayou_Solid/BlueBayou_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "860BABB34D8708855A629288BF9C1CC97E2C4D76"       } ,   
+		{ "file" : "Car_Paints/BlueBayou_Solid/BlueBayou_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "8D602136D2FFB3D92FCB6D14D1AB3ACB3E750379"       } 
+		]
+}

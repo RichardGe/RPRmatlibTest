@@ -1,0 +1,12 @@
+{
+	"name" : "Wood Natural Maple" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Wood.jpg",      "type" : "texture"  ,  "sha1" : "6253E4E7A36922E46C3F43595209B4965F1B2989"       } ,   
+		{ "file" : "Wood/Wood_Natural_Maple/Wood_Natural_Maple.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "D0B8EFB62136DF7BA47F4DEA38281DCBEDE2B524"       } ,   
+		{ "file" : "Wood/Wood_Natural_Maple/Wood_Natural_Maple_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "47E411B77DB21FDBC14F42B49F8DFA277CE75353"       } ,   
+		{ "file" : "Wood/Wood_Natural_Maple/Wood_Natural_Maple.xml",      "type" : "material_xml"  ,  "sha1" : "3CAEB1CF6B0A05638CAA34E1183E4C5EBC0CBEE2"       } 
+		]
+}

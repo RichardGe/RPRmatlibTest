@@ -1,0 +1,13 @@
+{
+	"name" : "Roofing Red Clay Tiles" ,
+	"description" : "  " ,
+	"category" : "Roofing" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Roofing_clayCurved_burntRed.jpg",      "type" : "texture"  ,  "sha1" : "51801D9C2230E9C9AC3EE543D30617D9BCD10171"       } ,   
+		{ "file" : "RadeonProRMaps/Roofing_clayCurved_burntRed_normal.jpg",      "type" : "texture"  ,  "sha1" : "9ABF62267C75B4F06E0EFFC989EA499B686B3F20"       } ,   
+		{ "file" : "Roofing/Roofing_RedClayTiles/Roofing_RedClayTiles.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "265D75B363CA987C5B67DD97A916BA38EAB7459C"       } ,   
+		{ "file" : "Roofing/Roofing_RedClayTiles/Roofing_RedClayTiles_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "9F3B622A6D9F6CBA107DB0A41A6EE8EFD1609B68"       } ,   
+		{ "file" : "Roofing/Roofing_RedClayTiles/Roofing_RedClayTiles.xml",      "type" : "material_xml"  ,  "sha1" : "41FC7A8B94CB5A748D8DFD20A8590D8DF632B932"       } 
+		]
+}

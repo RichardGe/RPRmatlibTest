@@ -1,0 +1,12 @@
+{
+	"name" : "Burn Out Blue Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/BurnOutBlue_Metallic/BurnOutBlue_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "56EB026EDA4D45C908C55C96A7EC17DDD2CF2395"       } ,   
+		{ "file" : "Car_Paints/BurnOutBlue_Metallic/BurnOutBlue_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "058478C9DC98230D8FFACAA764661F9E6D76FE12"       } ,   
+		{ "file" : "Car_Paints/BurnOutBlue_Metallic/BurnOutBlue_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "D5CFD0A00AD82843638B6152C6465A70E858A58E"       } 
+		]
+}

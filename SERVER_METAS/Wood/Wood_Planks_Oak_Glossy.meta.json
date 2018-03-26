@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Planks Oak Glossy" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Oak_Tile.jpg",      "type" : "texture"  ,  "sha1" : "D08915CC00194EE1A95C1849C50573767AEE870C"       } ,   
+		{ "file" : "Wood/Wood_Planks_Oak_Glossy/tex_0.png",      "type" : "texture"  ,  "sha1" : "CE376207E477A2146522988FD576646DFADF1938"       } ,   
+		{ "file" : "Wood/Wood_Planks_Oak_Glossy/Wood_Planks_Oak_Glossy.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "C9B66F11F59563AE2A7E49429283372C318AF68C"       } ,   
+		{ "file" : "Wood/Wood_Planks_Oak_Glossy/Wood_Planks_Oak_Glossy_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "0FAF502253C5B6AE8341779E586A848660F8C783"       } ,   
+		{ "file" : "Wood/Wood_Planks_Oak_Glossy/Wood_Planks_Oak_Glossy.xml",      "type" : "material_xml"  ,  "sha1" : "1DDCCFA0115FB3A548BB9158BDD9DD419D6A4EB8"       } 
+		]
+}

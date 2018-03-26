@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Oak Glossy" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Oak_Tile.jpg",      "type" : "texture"  ,  "sha1" : "D08915CC00194EE1A95C1849C50573767AEE870C"       } ,   
+		{ "file" : "RadeonProRMaps/Oak_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "14E698B8F1176AC0CD51DA3B5A5CAAF7D8FBC19D"       } ,   
+		{ "file" : "Wood/Wood_Oak_Glossy/Wood_Oak_Glossy.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "6D1E9AEE969080F92DA98597C64AB28301468933"       } ,   
+		{ "file" : "Wood/Wood_Oak_Glossy/Wood_Oak_Glossy_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "4617D035437A397BCB8D246CE348D5261E6DE997"       } ,   
+		{ "file" : "Wood/Wood_Oak_Glossy/Wood_Oak_Glossy.xml",      "type" : "material_xml"  ,  "sha1" : "04D4C41FBF771D08AB5847ABF97CAFD58D65ED71"       } 
+		]
+}

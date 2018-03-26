@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Cedar Glossy" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Cedar_Tile.jpg",      "type" : "texture"  ,  "sha1" : "0A3FB95E25BD03CA5BB444FDD260915CE89408F9"       } ,   
+		{ "file" : "RadeonProRMaps/Cedar_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "CD0803C04A3A4B8A789BE05977F15B1AC4BCBC88"       } ,   
+		{ "file" : "Wood/Wood_Cedar_Glossy/Wood_Cedar_Glossy.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "DC93FBFB5236A5E16BFE3A65252B43C1156FE02D"       } ,   
+		{ "file" : "Wood/Wood_Cedar_Glossy/Wood_Cedar_Glossy_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "E38B8F3B33BA04DE1D7182BAB54FDF3A0E186083"       } ,   
+		{ "file" : "Wood/Wood_Cedar_Glossy/Wood_Cedar_Glossy.xml",      "type" : "material_xml"  ,  "sha1" : "36DF0FECF5E5A1B51FAAD2DC87A66DF5D08876A9"       } 
+		]
+}

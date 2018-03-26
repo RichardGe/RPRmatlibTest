@@ -1,0 +1,11 @@
+{
+	"name" : "Pure White Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/PureWhite_Solid/PureWhite_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "740D02ADCE1F26C453CFBA68B93FB3F2D6467C2D"       } ,   
+		{ "file" : "Car_Paints/PureWhite_Solid/PureWhite_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "ACE0B9AE949D70126802B4AC75F07051D3340BAD"       } ,   
+		{ "file" : "Car_Paints/PureWhite_Solid/PureWhite_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "4328658EDB07185DB5DF8ABAB417507D688DE018"       } 
+		]
+}

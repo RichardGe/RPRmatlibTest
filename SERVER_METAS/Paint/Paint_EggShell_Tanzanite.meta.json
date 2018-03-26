@@ -1,0 +1,12 @@
+{
+	"name" : "Paint Eggshell Tanzanite" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Noise_Bw.jpg",      "type" : "texture"  ,  "sha1" : "838CBC977AB07DF0F43C964DD2DB1413005A0127"       } ,   
+		{ "file" : "Paint/Paint_EggShell_Tanzanite/Paint_EggShell_Tanzanite.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "4C9F205645AB1638010589C9FB7488F9F85DA90B"       } ,   
+		{ "file" : "Paint/Paint_EggShell_Tanzanite/Paint_EggShell_Tanzanite_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "F9050BBC996A5622113D757F4442E2132D166C26"       } ,   
+		{ "file" : "Paint/Paint_EggShell_Tanzanite/Paint_EggShell_Tanzanite.xml",      "type" : "material_xml"  ,  "sha1" : "5EB84BBAFD7592F1C3219C10957E761DF0559635"       } 
+		]
+}

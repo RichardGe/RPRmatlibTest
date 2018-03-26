@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Flat Voile Pink" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Flat_VoilePink/Paint_Flat_VoilePink.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "EC20F623CEC7B009396097D23E632738C7E9095F"       } ,   
+		{ "file" : "Paint/Paint_Flat_VoilePink/Paint_Flat_VoilePink_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "581C70CE24FE2D1A264BE82C7DA2160054AA3E7B"       } ,   
+		{ "file" : "Paint/Paint_Flat_VoilePink/Paint_Flat_VoilePink.xml",      "type" : "material_xml"  ,  "sha1" : "191499B257B020A29DA3083FA2D3D8A6F253052C"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Plastic Matte White" ,
+	"description" : "  " ,
+	"category" : "Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Plastic/Plastic_Matte_White/Plastic_Matte_White.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B875212B53C85E14E0F6189EDC008496E33AE22F"       } ,   
+		{ "file" : "Plastic/Plastic_Matte_White/Plastic_Matte_White_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "EA1E05B55B75705C40137254831B64CFA593986F"       } ,   
+		{ "file" : "Plastic/Plastic_Matte_White/Plastic_Matte_White.xml",      "type" : "material_xml"  ,  "sha1" : "AB77B2E94A878C3C5E8FFE434157AAAD8CED294C"       } 
+		]
+}

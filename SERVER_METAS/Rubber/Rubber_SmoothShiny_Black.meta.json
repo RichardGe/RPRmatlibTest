@@ -1,0 +1,11 @@
+{
+	"name" : "Rubber Smooth Shiny Black" ,
+	"description" : "  " ,
+	"category" : "Rubber" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Rubber/Rubber_SmoothShiny_Black/Rubber_SmoothShiny_Black.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "608BBCB300B7F8B84D5C6263FB1F1C0E4740E018"       } ,   
+		{ "file" : "Rubber/Rubber_SmoothShiny_Black/Rubber_SmoothShiny_Black_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "FC684FFD021DBA484904CF097B2E5B5513B8F8B8"       } ,   
+		{ "file" : "Rubber/Rubber_SmoothShiny_Black/Rubber_SmoothShiny_Black.xml",      "type" : "material_xml"  ,  "sha1" : "C9BE06F509AA6309ADEF10DD3011919440A627EC"       } 
+		]
+}

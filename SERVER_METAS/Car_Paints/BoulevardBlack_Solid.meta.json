@@ -1,0 +1,11 @@
+{
+	"name" : "Boulevard Black Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/BoulevardBlack_Solid/BoulevardBlack_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "8E25ECF6D0307E6C343124EDEBA06F5AF14BAB34"       } ,   
+		{ "file" : "Car_Paints/BoulevardBlack_Solid/BoulevardBlack_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D5FB98345137384861B51EB31CD8FF454D663A6F"       } ,   
+		{ "file" : "Car_Paints/BoulevardBlack_Solid/BoulevardBlack_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "37476C27DE7B8E48A179CC84F26E319ED886DC6A"       } 
+		]
+}

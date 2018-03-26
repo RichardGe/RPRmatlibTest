@@ -1,0 +1,12 @@
+{
+	"name" : "Champagne Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/Champagne_Metallic/Champagne_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "2B521F14DB5F14002DD4ACC45ECECCCF13D31BD4"       } ,   
+		{ "file" : "Car_Paints/Champagne_Metallic/Champagne_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "E7A01EC1AB11A5B053348853F6D595037F26607A"       } ,   
+		{ "file" : "Car_Paints/Champagne_Metallic/Champagne_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "7395E9791ECAC6818000DB2ECBDBE0250F3F3603"       } 
+		]
+}

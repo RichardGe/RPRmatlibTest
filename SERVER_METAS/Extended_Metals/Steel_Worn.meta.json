@@ -1,0 +1,13 @@
+{
+	"name" : "Steel Worn" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/steel_worn0001.png",      "type" : "texture"  ,  "sha1" : "8D2C950A77F1CE35B27A9A0B8574EE32740ABF9C"       } ,   
+		{ "file" : "Extended_Metals/Steel_Worn/tex_0.png",      "type" : "texture"  ,  "sha1" : "31A45C9CA163F22A87C0C32D7B06EFCFF70D2FC8"       } ,   
+		{ "file" : "Extended_Metals/Steel_Worn/Steel_Worn.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "C93B424ECB2C3B38F144897FBF578EA1A82D7BC0"       } ,   
+		{ "file" : "Extended_Metals/Steel_Worn/Steel_Worn_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "9326D423E4A12852B524BE5348A16C0E5293C4F2"       } ,   
+		{ "file" : "Extended_Metals/Steel_Worn/Steel_Worn.xml",      "type" : "material_xml"  ,  "sha1" : "82C457DA9601D78D13387087F5F4E7B911C70578"       } 
+		]
+}

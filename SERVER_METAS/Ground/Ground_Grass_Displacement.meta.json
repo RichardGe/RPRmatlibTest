@@ -1,0 +1,13 @@
+{
+	"name" : "Ground Grass Displacement" ,
+	"description" : "  " ,
+	"category" : "Ground" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Ground/Ground_Grass_Displacement/tex_0.png",      "type" : "texture"  ,  "sha1" : "8D1D6B9CCFF62117B1FC8923EFB6231A01BA4857"       } ,   
+		{ "file" : "Ground/Ground_Grass_Displacement/tex_1.png",      "type" : "texture"  ,  "sha1" : "11C5424221AA00CD9AEC21353A5E634616BF3831"       } ,   
+		{ "file" : "Ground/Ground_Grass_Displacement/Ground_Grass_Displacement.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "995D5E759137E9907D0D1CACBC9E97C3EA9424F2"       } ,   
+		{ "file" : "Ground/Ground_Grass_Displacement/Ground_Grass_Displacement_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "454114FE6620CC45C4EDCFCACC43ADF9B31D6AB8"       } ,   
+		{ "file" : "Ground/Ground_Grass_Displacement/Ground_Grass_Displacement.xml",      "type" : "material_xml"  ,  "sha1" : "12A7A11144B9F4CC91B86BCC52F768D472552C6E"       } 
+		]
+}

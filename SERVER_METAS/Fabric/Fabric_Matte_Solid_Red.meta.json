@@ -1,0 +1,12 @@
+{
+	"name" : "Fabric Matte Solid Red" ,
+	"description" : "  " ,
+	"category" : "Fabric" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/pattern_normal.jpg",      "type" : "texture"  ,  "sha1" : "1AEC19921B24C59BE9AB9F7C887E1EEF5BE1902B"       } ,   
+		{ "file" : "Fabric/Fabric_Matte_Solid_Red/Fabric_Matte_Solid_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "6F2C6B771DA79877569DDBCC0907BD8882C5A55C"       } ,   
+		{ "file" : "Fabric/Fabric_Matte_Solid_Red/Fabric_Matte_Solid_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "918A747C0CDE5992F01C28CB7A6E126EEB0DD0F2"       } ,   
+		{ "file" : "Fabric/Fabric_Matte_Solid_Red/Fabric_Matte_Solid_Red.xml",      "type" : "material_xml"  ,  "sha1" : "E8740434CA07644D7D437D03AB72CEFCE5D58053"       } 
+		]
+}

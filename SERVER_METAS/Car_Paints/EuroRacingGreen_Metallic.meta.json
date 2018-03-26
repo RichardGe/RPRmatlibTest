@@ -1,0 +1,12 @@
+{
+	"name" : "Euro Racing Green Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/EuroRacingGreen_Metallic/EuroRacingGreen_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "10B1BABE58D7B0233B6050352C211272B85916B7"       } ,   
+		{ "file" : "Car_Paints/EuroRacingGreen_Metallic/EuroRacingGreen_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "4AA0A09BD7E565686C412F4314A5170360DD6963"       } ,   
+		{ "file" : "Car_Paints/EuroRacingGreen_Metallic/EuroRacingGreen_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "4F78C6D7B30E01B0094D8335E8D8785E30302D57"       } 
+		]
+}

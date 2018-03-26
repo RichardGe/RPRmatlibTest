@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Flat Tanzanite" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Flat_Tanzanite/Paint_Flat_Tanzanite.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "0C12F0D78EA8885FB13C261171D4E8711DBDE66E"       } ,   
+		{ "file" : "Paint/Paint_Flat_Tanzanite/Paint_Flat_Tanzanite_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "C9C83CAD66204A1BC8144D1C7779C559B5BC35EA"       } ,   
+		{ "file" : "Paint/Paint_Flat_Tanzanite/Paint_Flat_Tanzanite.xml",      "type" : "material_xml"  ,  "sha1" : "5A99D3EB88196C60000864E4BED0254439DD2BB0"       } 
+		]
+}

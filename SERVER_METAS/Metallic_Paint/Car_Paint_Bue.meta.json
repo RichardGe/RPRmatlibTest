@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Bue" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Bue/Car_Paint_Bue.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "6CF8251FB234C3DCB4017E86F2F6766110CD84AA"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Bue/Car_Paint_Bue_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "2D495610DD7AE7CFFB80A80D317626F17766F1D0"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Bue/Car_Paint_Bue.xml",      "type" : "material_xml"  ,  "sha1" : "9B152AB5E3F925C47D14A6BBBE2AF0135F7A529C"       } 
+		]
+}

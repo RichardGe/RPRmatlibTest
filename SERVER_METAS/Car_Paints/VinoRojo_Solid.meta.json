@@ -1,0 +1,11 @@
+{
+	"name" : "Vino Rojo Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/VinoRojo_Solid/VinoRojo_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "559180EE7CC9F7C1267395C3026C459239162442"       } ,   
+		{ "file" : "Car_Paints/VinoRojo_Solid/VinoRojo_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "602D9401A9E931F445562B30D64A0F2CBA621645"       } ,   
+		{ "file" : "Car_Paints/VinoRojo_Solid/VinoRojo_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "40366DE59E1EAF4038AB179B5D41B0DB86F095DB"       } 
+		]
+}

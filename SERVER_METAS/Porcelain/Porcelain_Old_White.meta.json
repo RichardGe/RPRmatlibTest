@@ -1,0 +1,12 @@
+{
+	"name" : "Porcelain Old White" ,
+	"description" : "  " ,
+	"category" : "Porcelain" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Porcelain/Porcelain_Old_White/tex_0.png",      "type" : "texture"  ,  "sha1" : "59641F9076F89BB9F8CD4A1115ACA0D371C94A48"       } ,   
+		{ "file" : "Porcelain/Porcelain_Old_White/Porcelain_Old_White.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "0A94D6A46483A2D495939051AA1D8E371F42AF27"       } ,   
+		{ "file" : "Porcelain/Porcelain_Old_White/Porcelain_Old_White_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "239D91D26F46C8EB30FB86795ED7069AB6DBF257"       } ,   
+		{ "file" : "Porcelain/Porcelain_Old_White/Porcelain_Old_White.xml",      "type" : "material_xml"  ,  "sha1" : "1B7A22E31F08F6B43A242EEEE4591641950CEB92"       } 
+		]
+}

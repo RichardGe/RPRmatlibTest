@@ -1,0 +1,12 @@
+{
+	"name" : "Rodz Berry Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/RodzBerry_Metallic/RodzBerry_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "F28F632ADA6FB52CEAEDFE8E674216F9078ADF93"       } ,   
+		{ "file" : "Car_Paints/RodzBerry_Metallic/RodzBerry_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "CA9694092874CDE4CB21335ABC535C5779871A51"       } ,   
+		{ "file" : "Car_Paints/RodzBerry_Metallic/RodzBerry_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "13A2C5B393E0A2C43AF4F8D1596F9FAB7A1E2DCA"       } 
+		]
+}

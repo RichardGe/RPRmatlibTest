@@ -1,0 +1,11 @@
+{
+	"name" : "Bronze Satin" ,
+	"description" : "  " ,
+	"category" : "Precious_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Precious_Metals/Bronze_Satin/Bronze_Satin.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "9EC2003B56EA418D8E28ACFA562889B1D04B75D4"       } ,   
+		{ "file" : "Precious_Metals/Bronze_Satin/Bronze_Satin_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "4F6CFB7149D9F9C57A03FFD09A91474441FCBB22"       } ,   
+		{ "file" : "Precious_Metals/Bronze_Satin/Bronze_Satin.xml",      "type" : "material_xml"  ,  "sha1" : "6B7AF13682CEE31B27DAD6CC7DF377B4D9E6D95F"       } 
+		]
+}

@@ -1,0 +1,13 @@
+{
+	"name" : "Iron Worn" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/metal_worn0001.png",      "type" : "texture"  ,  "sha1" : "AC4E7B6C0031752CD91A5A38341EE19893FEF8A4"       } ,   
+		{ "file" : "Extended_Metals/Iron_Worn/tex_0.png",      "type" : "texture"  ,  "sha1" : "9C4AF8B5210949C3974BD95E5F8A64D449D63683"       } ,   
+		{ "file" : "Extended_Metals/Iron_Worn/Iron_Worn.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "4F508CB717A7A3F3470FF3EE6152F707668F1A5C"       } ,   
+		{ "file" : "Extended_Metals/Iron_Worn/Iron_Worn_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "2F0753D592BC0A19F25D45295D8001678367E147"       } ,   
+		{ "file" : "Extended_Metals/Iron_Worn/Iron_Worn.xml",      "type" : "material_xml"  ,  "sha1" : "CB8E807DC9BEBDC8465C1C85C5FBF6273DDF9AD1"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Glossy Tart Orange" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Glossy_TartOrange/Paint_Glossy_TartOrange.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "41346D99B82FA53414B76C2AF0DB06328C6787AF"       } ,   
+		{ "file" : "Paint/Paint_Glossy_TartOrange/Paint_Glossy_TartOrange_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "F3F9FE7D33208EC14B2989D9CA54E434732748AA"       } ,   
+		{ "file" : "Paint/Paint_Glossy_TartOrange/Paint_Glossy_TartOrange.xml",      "type" : "material_xml"  ,  "sha1" : "9A10AF47D67B9B472129488B5A874D54582440A9"       } 
+		]
+}

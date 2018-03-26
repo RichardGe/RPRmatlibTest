@@ -1,0 +1,13 @@
+{
+	"name" : "Roofing Clay Shingles Beige" ,
+	"description" : "  " ,
+	"category" : "Roofing" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Roofing_clayShingle_beige.jpg",      "type" : "texture"  ,  "sha1" : "5B43464486721F5F26FA50ADF376C3C3778E755D"       } ,   
+		{ "file" : "RadeonProRMaps/Roofing_clayShingle_beige_normal.jpg",      "type" : "texture"  ,  "sha1" : "5C498A721A3722509B106F66B0A58535E76BFAA8"       } ,   
+		{ "file" : "Roofing/Roofing_ClayShingles_Beige/Roofing_ClayShingles_Beige.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "ECB1E9EA666C883269A755BA561DE17953B4CD29"       } ,   
+		{ "file" : "Roofing/Roofing_ClayShingles_Beige/Roofing_ClayShingles_Beige_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "E0F81DD8C5F02B3440300AA143F03C803955E47D"       } ,   
+		{ "file" : "Roofing/Roofing_ClayShingles_Beige/Roofing_ClayShingles_Beige.xml",      "type" : "material_xml"  ,  "sha1" : "6F9CE771687A7405C26E3A97662605003CDBD016"       } 
+		]
+}

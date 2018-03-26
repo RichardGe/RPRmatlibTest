@@ -1,0 +1,12 @@
+{
+	"name" : "Paint Eggshell Tart Orange" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Noise_Bw.jpg",      "type" : "texture"  ,  "sha1" : "838CBC977AB07DF0F43C964DD2DB1413005A0127"       } ,   
+		{ "file" : "Paint/Paint_EggShell_TartOrange/Paint_EggShell_TartOrange.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B8510C7382E27D87D01162673C70AF221C99A9F7"       } ,   
+		{ "file" : "Paint/Paint_EggShell_TartOrange/Paint_EggShell_TartOrange_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "5F8A7D477009E453C7807F26225A876462CF0366"       } ,   
+		{ "file" : "Paint/Paint_EggShell_TartOrange/Paint_EggShell_TartOrange.xml",      "type" : "material_xml"  ,  "sha1" : "AA545B0C4638D89ABED1CAA49B140B6A62B62A05"       } 
+		]
+}

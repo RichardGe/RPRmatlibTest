@@ -1,0 +1,12 @@
+{
+	"name" : "Brass Matte" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Brass_Matte/tex_0.png",      "type" : "texture"  ,  "sha1" : "E4ACF0901D528D21B1B236DAD7A0F4DD496D10F0"       } ,   
+		{ "file" : "Extended_Metals/Brass_Matte/Brass_Matte.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "E74B330561D30B8F90F32B7F584D870FFCB243A7"       } ,   
+		{ "file" : "Extended_Metals/Brass_Matte/Brass_Matte_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "8121B98A4C6F8E8B0B7AEC1AAD5FF15F0E0740CF"       } ,   
+		{ "file" : "Extended_Metals/Brass_Matte/Brass_Matte.xml",      "type" : "material_xml"  ,  "sha1" : "79D1A898D429E2EC2BAAE923C67BE444EF6BBEA5"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Glossy Sun Valley" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Glossy_SunValley/Paint_Glossy_SunValley.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "A144A3D9B1EE5A1D602A73DE5035CE8946360444"       } ,   
+		{ "file" : "Paint/Paint_Glossy_SunValley/Paint_Glossy_SunValley_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "CF5B1568A03A5B432D96DFAC98D66ED60E6A96ED"       } ,   
+		{ "file" : "Paint/Paint_Glossy_SunValley/Paint_Glossy_SunValley.xml",      "type" : "material_xml"  ,  "sha1" : "867F3C226CFB4FAE686FCF107ABC9F650997DA88"       } 
+		]
+}

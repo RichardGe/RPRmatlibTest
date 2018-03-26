@@ -1,0 +1,12 @@
+{
+	"name" : "Car Paint Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/Car_Paint_Metallic/Car_Paint_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "0482405B0152D4F6CFF328823FD99B5C0055D123"       } ,   
+		{ "file" : "Car_Paints/Car_Paint_Metallic/Car_Paint_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "7E36EF84AC8DCA543E4B9A75EB932AD482E18575"       } ,   
+		{ "file" : "Car_Paints/Car_Paint_Metallic/Car_Paint_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "8FEED659413422B4E330C71A2CDDFD3CD47E946D"       } 
+		]
+}

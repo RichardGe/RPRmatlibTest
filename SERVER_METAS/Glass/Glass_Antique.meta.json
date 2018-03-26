@@ -1,0 +1,12 @@
+{
+	"name" : "Glass Antique" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Glass_Used_specular.jpg",      "type" : "texture"  ,  "sha1" : "08A95DBBFBBB030D026C185EBD4D49DF52E611BC"       } ,   
+		{ "file" : "Glass/Glass_Antique/Glass_Antique.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "93D210F73086A6DEDFB67EE09C812151E7ACD7CC"       } ,   
+		{ "file" : "Glass/Glass_Antique/Glass_Antique_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "C99B119B7723FA285B3F67D891DA46B00058B538"       } ,   
+		{ "file" : "Glass/Glass_Antique/Glass_Antique.xml",      "type" : "material_xml"  ,  "sha1" : "EA2643CC7EA0A4063C1435E7C8712A6D4A354F01"       } 
+		]
+}

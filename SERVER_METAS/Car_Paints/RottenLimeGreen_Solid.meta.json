@@ -1,0 +1,11 @@
+{
+	"name" : "Rotten Lime Green Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/RottenLimeGreen_Solid/RottenLimeGreen_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "E6F1C8AA50A57863E09DD7509B1B9ADB08618181"       } ,   
+		{ "file" : "Car_Paints/RottenLimeGreen_Solid/RottenLimeGreen_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "1ACF8038CB9B8F0E61A6B2B950648447E0445DE0"       } ,   
+		{ "file" : "Car_Paints/RottenLimeGreen_Solid/RottenLimeGreen_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "23A6DEC57D1C287082EDE84B3D24C72EA81D0438"       } 
+		]
+}

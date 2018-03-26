@@ -1,0 +1,12 @@
+{
+	"name" : "Glass Car Head Light" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Glass_Headlights_normal.jpg",      "type" : "texture"  ,  "sha1" : "80EC770A8B46368FAB8C0F6DA648F7FE40705AD2"       } ,   
+		{ "file" : "Glass/Glass_CarHeadLight/Glass_CarHeadLight.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "7E4051262E1DAC6BE494E306C1867B3066119288"       } ,   
+		{ "file" : "Glass/Glass_CarHeadLight/Glass_CarHeadLight_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "E1371100C4591FB56A84B279B81237B8DC56CD6B"       } ,   
+		{ "file" : "Glass/Glass_CarHeadLight/Glass_CarHeadLight.xml",      "type" : "material_xml"  ,  "sha1" : "7073BBE477708CD6EE44F2BC665EAB47D61B4D64"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Emissive Fluorescent Cyan" ,
+	"description" : "  " ,
+	"category" : "Emissive" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Emissive/Emissive_Fluorescent_Cyan/Emissive_Fluorescent_Cyan.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "57EA0DB4349F61B7122E93F173C9154F9FFFE866"       } ,   
+		{ "file" : "Emissive/Emissive_Fluorescent_Cyan/Emissive_Fluorescent_Cyan_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "1A5C541EA125AE7C36B7DF5CDFA40B7822FC7B9A"       } ,   
+		{ "file" : "Emissive/Emissive_Fluorescent_Cyan/Emissive_Fluorescent_Cyan.xml",      "type" : "material_xml"  ,  "sha1" : "A85726AE5CC77057071F0D4B7076B5229F0B07E6"       } 
+		]
+}

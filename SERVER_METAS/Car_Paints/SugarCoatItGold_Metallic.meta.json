@@ -1,0 +1,12 @@
+{
+	"name" : "Sugar Coat It Gold Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/SugarCoatItGold_Metallic/SugarCoatItGold_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "3C5488975BF64739D79BCA4B451115D63AE5C8B3"       } ,   
+		{ "file" : "Car_Paints/SugarCoatItGold_Metallic/SugarCoatItGold_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "1C68F5DC4FEC3D749A5ADEA0016F5386021FB79A"       } ,   
+		{ "file" : "Car_Paints/SugarCoatItGold_Metallic/SugarCoatItGold_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "63330784ED007EE4173C676C4C7527153D1732C6"       } 
+		]
+}

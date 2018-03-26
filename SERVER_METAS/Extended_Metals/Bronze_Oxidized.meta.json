@@ -1,0 +1,13 @@
+{
+	"name" : "Bronze Oxidized" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/bronze_oxidized0003.png",      "type" : "texture"  ,  "sha1" : "8B2CC66D003539B25618F0291D0DA0780C89DAC5"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Oxidized/tex_0.png",      "type" : "texture"  ,  "sha1" : "82CD7905ACC8DAB4203DB15ECE73A68E210CF35A"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Oxidized/Bronze_Oxidized.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "0CF94C95482C5BC65AB75148B896D316901D8A81"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Oxidized/Bronze_Oxidized_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "256C9B67A782970EC9B77F7C4D9CF230E6DA5DA6"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Oxidized/Bronze_Oxidized.xml",      "type" : "material_xml"  ,  "sha1" : "CAF3759715C65EF53BB511D3E894A18097AD63AD"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Aluminum Brushed" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metals/Aluminum_Brushed/Aluminum_Brushed.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "A22DCD7B3828C7002E6EC3D414B1E59B229F8F8F"       } ,   
+		{ "file" : "Metals/Aluminum_Brushed/Aluminum_Brushed_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "4AB50D2FEE4040179D583995674BF0D95D91A146"       } ,   
+		{ "file" : "Metals/Aluminum_Brushed/Aluminum_Brushed.xml",      "type" : "material_xml"  ,  "sha1" : "3EDDAC413A5A4197FDF5093E0EE8EDEB18E25026"       } 
+		]
+}

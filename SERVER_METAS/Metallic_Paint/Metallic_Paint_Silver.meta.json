@@ -1,0 +1,11 @@
+{
+	"name" : "Metallic Paint Silver" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Metallic_Paint_Silver/Metallic_Paint_Silver.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "D9153758B3C7D79F8C7A044DD2D02393DEEEA2DE"       } ,   
+		{ "file" : "Metallic_Paint/Metallic_Paint_Silver/Metallic_Paint_Silver_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "08CB38B66F66EDB764F124DBCA32935ECF2B1435"       } ,   
+		{ "file" : "Metallic_Paint/Metallic_Paint_Silver/Metallic_Paint_Silver.xml",      "type" : "material_xml"  ,  "sha1" : "6A9050CBF4B492C34B721823A03A721D5309FDD7"       } 
+		]
+}

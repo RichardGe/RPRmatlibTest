@@ -1,0 +1,13 @@
+{
+	"name" : "Lead Rough" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/metal_rough0001.png",      "type" : "texture"  ,  "sha1" : "53C2246335E182CBCD2AF879E2327C0FB8CF86B3"       } ,   
+		{ "file" : "Extended_Metals/Lead_Rough/tex_0.png",      "type" : "texture"  ,  "sha1" : "599C2C03FE05B0EEA5A838545D1D08BF86A05838"       } ,   
+		{ "file" : "Extended_Metals/Lead_Rough/Lead_Rough.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "14B5D04DB02741A969BE7A7A460D30918209B9F8"       } ,   
+		{ "file" : "Extended_Metals/Lead_Rough/Lead_Rough_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "A98DA5410475CCD80F71C74214760CFDD5123C1D"       } ,   
+		{ "file" : "Extended_Metals/Lead_Rough/Lead_Rough.xml",      "type" : "material_xml"  ,  "sha1" : "6F95146857D81DD44084917F6E160F7C9087AD98"       } 
+		]
+}

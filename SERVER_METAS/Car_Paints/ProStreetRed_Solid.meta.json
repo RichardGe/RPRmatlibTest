@@ -1,0 +1,11 @@
+{
+	"name" : "Pro Street Red Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/ProStreetRed_Solid/ProStreetRed_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "9EE8007F7F9DE993CF0F3CAA22818E13E416D83D"       } ,   
+		{ "file" : "Car_Paints/ProStreetRed_Solid/ProStreetRed_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "BDE1D2BAA1D06DB306C3E4F80A2415C51B41BE1B"       } ,   
+		{ "file" : "Car_Paints/ProStreetRed_Solid/ProStreetRed_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "95A046046B6539F7C2FBD666B91ECFEA0D3286FD"       } 
+		]
+}

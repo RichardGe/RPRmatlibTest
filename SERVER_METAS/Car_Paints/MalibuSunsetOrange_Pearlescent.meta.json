@@ -1,0 +1,12 @@
+{
+	"name" : "Malibu Sunset Orange Pearlescent" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/MalibuSunsetOrange_Pearlescent/MalibuSunsetOrange_Pearlescent.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B65304B486ADFD69773FE29D27CFEB8A1A7AF792"       } ,   
+		{ "file" : "Car_Paints/MalibuSunsetOrange_Pearlescent/MalibuSunsetOrange_Pearlescent_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "A9E41E0820573C0B945AE17F1B1F9C06AB18B2A6"       } ,   
+		{ "file" : "Car_Paints/MalibuSunsetOrange_Pearlescent/MalibuSunsetOrange_Pearlescent.xml",      "type" : "material_xml"  ,  "sha1" : "C8A654270D910196E8B36E4FE0F88C516C981E1E"       } 
+		]
+}

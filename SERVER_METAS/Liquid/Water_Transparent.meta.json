@@ -1,0 +1,11 @@
+{
+	"name" : "Water Transparent" ,
+	"description" : "  " ,
+	"category" : "Liquid" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Liquid/Water_Transparent/Water_Transparent.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "DAE64D3A0CF2223F21174DC140907BE234F218EC"       } ,   
+		{ "file" : "Liquid/Water_Transparent/Water_Transparent_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "1961A6223D92345466ADF07D1182DA090F34B5AC"       } ,   
+		{ "file" : "Liquid/Water_Transparent/Water_Transparent.xml",      "type" : "material_xml"  ,  "sha1" : "A37855906DF4125F7EB81C686C5FEC5F83FBFAF0"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Acrylic Transparent Matte Red" ,
+	"description" : "  " ,
+	"category" : "Transparent_Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Transparent_Plastic/Acrylic_Transparent_Matte_Red/Acrylic_Transparent_Matte_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "31FB1D1A3195FE3A43B67080123B9349AA3EAEF0"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Transparent_Matte_Red/Acrylic_Transparent_Matte_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "42AB209D5BBA61CB1F55A78A889D63144F9603EB"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Transparent_Matte_Red/Acrylic_Transparent_Matte_Red.xml",      "type" : "material_xml"  ,  "sha1" : "10970841B00514F46F407EDFADF695D44D5CFAE7"       } 
+		]
+}

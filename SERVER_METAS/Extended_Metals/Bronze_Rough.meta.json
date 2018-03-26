@@ -1,0 +1,12 @@
+{
+	"name" : "Bronze Rough" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Bronze_Rough/tex_0.png",      "type" : "texture"  ,  "sha1" : "762011D303D8350688F85F95A3BB523F6BAB9706"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Rough/Bronze_Rough.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "D52A7153A3E0CD11E755CA962248BA7C6DD0D066"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Rough/Bronze_Rough_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "DB774ADC36E780A21CC8DCD2B85453DA06906EBA"       } ,   
+		{ "file" : "Extended_Metals/Bronze_Rough/Bronze_Rough.xml",      "type" : "material_xml"  ,  "sha1" : "870888CA94937C3702D25C44ACACE93C0D27ABFB"       } 
+		]
+}

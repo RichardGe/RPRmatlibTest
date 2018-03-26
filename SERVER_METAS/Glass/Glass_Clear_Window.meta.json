@@ -1,0 +1,12 @@
+{
+	"name" : "Glass Clear Window" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Glass_window.jpg",      "type" : "texture"  ,  "sha1" : "D40540FA5DC72D3FA9990727B1B86D1097E9BBCD"       } ,   
+		{ "file" : "Glass/Glass_Clear_Window/Glass_Clear_Window.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "C6DC7C90A9E06808B35C2934DB464633DED9C6B5"       } ,   
+		{ "file" : "Glass/Glass_Clear_Window/Glass_Clear_Window_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "35E0619B47BCAC935A4FDBAF45CA84575B8E37A0"       } ,   
+		{ "file" : "Glass/Glass_Clear_Window/Glass_Clear_Window.xml",      "type" : "material_xml"  ,  "sha1" : "934F1EB907183015BFBA09D2737E5CF4A50141B1"       } 
+		]
+}

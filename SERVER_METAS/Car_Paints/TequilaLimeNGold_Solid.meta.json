@@ -1,0 +1,11 @@
+{
+	"name" : "Tequila Lime n Gold Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/TequilaLimeNGold_Solid/TequilaLimeNGold_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "656DABD0AE324CD6D1D41BE2AF08420FC998A40B"       } ,   
+		{ "file" : "Car_Paints/TequilaLimeNGold_Solid/TequilaLimeNGold_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "4E22ED2A7F4E8C5D0517835FA77BE9F0A1CF6F94"       } ,   
+		{ "file" : "Car_Paints/TequilaLimeNGold_Solid/TequilaLimeNGold_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "4C73DC58765F592EB9C1ACF577EF5EC1DBAC539E"       } 
+		]
+}

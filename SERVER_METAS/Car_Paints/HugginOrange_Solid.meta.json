@@ -1,0 +1,11 @@
+{
+	"name" : "Huggin Orange Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/HugginOrange_Solid/HugginOrange_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "1B2E54A4B8631585CC705845E86DB04AAAC9A861"       } ,   
+		{ "file" : "Car_Paints/HugginOrange_Solid/HugginOrange_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "EA7C35C7E45A42C59E5C87AD7B5E7A5A1288C706"       } ,   
+		{ "file" : "Car_Paints/HugginOrange_Solid/HugginOrange_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "267A6D78F772DD0C125D1BDF6D283237AB500DC6"       } 
+		]
+}

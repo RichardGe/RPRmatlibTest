@@ -1,0 +1,12 @@
+{
+	"name" : "Glass Solid GreenBlue Scratched" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Glass_scratches.jpg",      "type" : "texture"  ,  "sha1" : "001D453ADF5813CD501518F0B172514A168454EA"       } ,   
+		{ "file" : "Glass/Glass_Solid_GreenBlue_Scratched/Glass_Solid_GreenBlue_Scratched.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "A36B15FF932CEA51BE79C61D5E6F2B9238E85AD9"       } ,   
+		{ "file" : "Glass/Glass_Solid_GreenBlue_Scratched/Glass_Solid_GreenBlue_Scratched_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "86D16A248881B1257A06B08470A123829A531EA1"       } ,   
+		{ "file" : "Glass/Glass_Solid_GreenBlue_Scratched/Glass_Solid_GreenBlue_Scratched.xml",      "type" : "material_xml"  ,  "sha1" : "EDFFE818CACA64EF543F8B623DBAC0AD1FC18824"       } 
+		]
+}

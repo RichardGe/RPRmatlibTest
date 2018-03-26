@@ -1,0 +1,12 @@
+{
+	"name" : "Paint Eggshell Tropical Sea" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Noise_Bw.jpg",      "type" : "texture"  ,  "sha1" : "838CBC977AB07DF0F43C964DD2DB1413005A0127"       } ,   
+		{ "file" : "Paint/Paint_EggShell_TropicalSea/Paint_EggShell_TropicalSea.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "7DC5755706281A92E8F8E597DD7A054F26EDBCD6"       } ,   
+		{ "file" : "Paint/Paint_EggShell_TropicalSea/Paint_EggShell_TropicalSea_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "84BA9CA1B9E52D18980C7110D90B89AEDF940734"       } ,   
+		{ "file" : "Paint/Paint_EggShell_TropicalSea/Paint_EggShell_TropicalSea.xml",      "type" : "material_xml"  ,  "sha1" : "4493424612337CB68C6B72E8A66CBBFEE39B9422"       } 
+		]
+}

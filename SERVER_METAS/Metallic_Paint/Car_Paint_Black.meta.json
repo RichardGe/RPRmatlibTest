@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Black" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Black/Car_Paint_Black.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "E7F0A0413256F6220CD832824C40BB75D79A91BA"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Black/Car_Paint_Black_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "4E01965480B3EDCC07BA4B08C5E432DBA01AFBEC"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Black/Car_Paint_Black.xml",      "type" : "material_xml"  ,  "sha1" : "AA04CE343F065C8892A104A4E8BF3DC70992F0CE"       } 
+		]
+}

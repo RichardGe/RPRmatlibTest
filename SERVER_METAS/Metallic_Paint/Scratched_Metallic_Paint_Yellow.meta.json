@@ -1,0 +1,12 @@
+{
+	"name" : "Scratched Metallic Paint Yellow" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Scratchs.jpg",      "type" : "texture"  ,  "sha1" : "D003B5B1325068F33533036C4BB91DBBE411BBAE"       } ,   
+		{ "file" : "Metallic_Paint/Scratched_Metallic_Paint_Yellow/Scratched_Metallic_Paint_Yellow.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "DB3C15D32DFCDF1541A9817E94AA2A14761DE26F"       } ,   
+		{ "file" : "Metallic_Paint/Scratched_Metallic_Paint_Yellow/Scratched_Metallic_Paint_Yellow_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "99CD8C2727212C8C48E6F07B636A3516B67A14E1"       } ,   
+		{ "file" : "Metallic_Paint/Scratched_Metallic_Paint_Yellow/Scratched_Metallic_Paint_Yellow.xml",      "type" : "material_xml"  ,  "sha1" : "DAA826AF9A1411E2D7EFA19132B43FE63C63A2D8"       } 
+		]
+}

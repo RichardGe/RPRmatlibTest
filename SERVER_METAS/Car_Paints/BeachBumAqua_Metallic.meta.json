@@ -1,0 +1,12 @@
+{
+	"name" : "Beach Bum Aqua Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/BeachBumAqua_Metallic/BeachBumAqua_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "9A5EA4F33D713D44FEBCCF37A799A2D709540F11"       } ,   
+		{ "file" : "Car_Paints/BeachBumAqua_Metallic/BeachBumAqua_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "605649CF32864F9E724F618A154E1F332BF9DA8B"       } ,   
+		{ "file" : "Car_Paints/BeachBumAqua_Metallic/BeachBumAqua_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "42DB6BC57038049193B3A387EADE8B191A7C4B20"       } 
+		]
+}

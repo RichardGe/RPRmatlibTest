@@ -1,0 +1,11 @@
+{
+	"name" : "Plastic Matte Black" ,
+	"description" : "  " ,
+	"category" : "Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Plastic/Plastic_Matte_Black/Plastic_Matte_Black.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "082A939C3A263C25E18220A50B2B8BCCEA2E29BC"       } ,   
+		{ "file" : "Plastic/Plastic_Matte_Black/Plastic_Matte_Black_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "B143E8C4BA8B1A4F2EED7FA15B7433696AAE70FB"       } ,   
+		{ "file" : "Plastic/Plastic_Matte_Black/Plastic_Matte_Black.xml",      "type" : "material_xml"  ,  "sha1" : "2F4C2F9ABEE7A81DFD717C8552655349DF02B173"       } 
+		]
+}

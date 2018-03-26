@@ -1,0 +1,12 @@
+{
+	"name" : "Lead Sandblasted" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Lead_Sandblasted/tex_0.png",      "type" : "texture"  ,  "sha1" : "D15B79C152862F149D0439C080FB158C9BE98771"       } ,   
+		{ "file" : "Extended_Metals/Lead_Sandblasted/Lead_Sandblasted.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "7C4FE305DC1E4ACD5817B2892EB7F76753C87C2C"       } ,   
+		{ "file" : "Extended_Metals/Lead_Sandblasted/Lead_Sandblasted_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "823A0D929C1972FDAFF5B37B7D3FD51A0332EE59"       } ,   
+		{ "file" : "Extended_Metals/Lead_Sandblasted/Lead_Sandblasted.xml",      "type" : "material_xml"  ,  "sha1" : "D7F7DAD5CD77E7343F689E015C1F8879A4F780AE"       } 
+		]
+}

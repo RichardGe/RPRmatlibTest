@@ -1,0 +1,14 @@
+{
+	"name" : "Ground Dark" ,
+	"description" : "  " ,
+	"category" : "Ground" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Ground_Tile.jpg",      "type" : "texture"  ,  "sha1" : "13AB17EF204A8E90C8C82A26F4C253CF15D8E499"       } ,   
+		{ "file" : "RadeonProRMaps/Ground_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "4E46D6F3467B01C08F8B665E1CB5E1597E1616EA"       } ,   
+		{ "file" : "RadeonProRMaps/ground_base.jpg",      "type" : "texture"  ,  "sha1" : "18BC61743E485C79B7C4AB70DF175218BF461FA7"       } ,   
+		{ "file" : "Ground/Ground_Dark/Ground_Dark.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "CF6B4F1C9D08106E4F5D4649449E8E38C43CD984"       } ,   
+		{ "file" : "Ground/Ground_Dark/Ground_Dark_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "91CB59F8F8F848744DD9B0F82742F5064A283EBF"       } ,   
+		{ "file" : "Ground/Ground_Dark/Ground_Dark.xml",      "type" : "material_xml"  ,  "sha1" : "36C6261110490F8DBDB23C4A72C9EA932DEE0A9B"       } 
+		]
+}

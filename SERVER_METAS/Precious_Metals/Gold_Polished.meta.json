@@ -1,0 +1,11 @@
+{
+	"name" : "Gold Polished" ,
+	"description" : "  " ,
+	"category" : "Precious_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Precious_Metals/Gold_Polished/Gold_Polished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "EE0010C2C17F118E46481330D6075C61C7AC9169"       } ,   
+		{ "file" : "Precious_Metals/Gold_Polished/Gold_Polished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "CC1B3BCAF363A2EEEC1DD5CB0570D14A45409102"       } ,   
+		{ "file" : "Precious_Metals/Gold_Polished/Gold_Polished.xml",      "type" : "material_xml"  ,  "sha1" : "4CBFDD358C340C2FC41E740BD0E7784EA7156101"       } 
+		]
+}

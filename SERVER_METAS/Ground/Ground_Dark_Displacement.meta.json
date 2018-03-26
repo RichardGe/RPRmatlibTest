@@ -1,0 +1,14 @@
+{
+	"name" : "Ground Dark Displacement" ,
+	"description" : "  " ,
+	"category" : "Ground" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Ground_Tile.jpg",      "type" : "texture"  ,  "sha1" : "13AB17EF204A8E90C8C82A26F4C253CF15D8E499"       } ,   
+		{ "file" : "RadeonProRMaps/Ground_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "4E46D6F3467B01C08F8B665E1CB5E1597E1616EA"       } ,   
+		{ "file" : "RadeonProRMaps/ground_base.jpg",      "type" : "texture"  ,  "sha1" : "18BC61743E485C79B7C4AB70DF175218BF461FA7"       } ,   
+		{ "file" : "Ground/Ground_Dark_Displacement/Ground_Dark_Displacement.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "7599363B9F635B483F7BF0150FC88E2B71BDC146"       } ,   
+		{ "file" : "Ground/Ground_Dark_Displacement/Ground_Dark_Displacement_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "06F0292B99E5A5EA4DBD18140506C057E166D6F7"       } ,   
+		{ "file" : "Ground/Ground_Dark_Displacement/Ground_Dark_Displacement.xml",      "type" : "material_xml"  ,  "sha1" : "C295888FA33ACC0D5A9602FCC0E7CA692647010A"       } 
+		]
+}

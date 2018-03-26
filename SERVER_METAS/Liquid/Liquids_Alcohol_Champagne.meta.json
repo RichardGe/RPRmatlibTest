@@ -1,0 +1,11 @@
+{
+	"name" : "Liquids Alcohol Champagne" ,
+	"description" : "  " ,
+	"category" : "Liquid" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Liquid/Liquids_Alcohol_Champagne/Liquids_Alcohol_Champagne.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "7FF68457B543E442F5ED50E83E83A450287A5E43"       } ,   
+		{ "file" : "Liquid/Liquids_Alcohol_Champagne/Liquids_Alcohol_Champagne_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "895E4B251D59841DDBED56865DDF6982E381AFA5"       } ,   
+		{ "file" : "Liquid/Liquids_Alcohol_Champagne/Liquids_Alcohol_Champagne.xml",      "type" : "material_xml"  ,  "sha1" : "E1882153C470D51EED39667569F5F71FC09F1590"       } 
+		]
+}

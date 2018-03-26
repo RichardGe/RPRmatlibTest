@@ -1,0 +1,12 @@
+{
+	"name" : "Steel Blue" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Steel_Blue/tex_0.png",      "type" : "texture"  ,  "sha1" : "7716F0A2CE7C77D5AD73A1FC68A9C9E8706EB01A"       } ,   
+		{ "file" : "Extended_Metals/Steel_Blue/Steel_Blue.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "80DE4887B81CD110BBDDB2841BED928549F0BC17"       } ,   
+		{ "file" : "Extended_Metals/Steel_Blue/Steel_Blue_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "FFC2A68F9A5B2DC2E4500639171A6CA598A2B686"       } ,   
+		{ "file" : "Extended_Metals/Steel_Blue/Steel_Blue.xml",      "type" : "material_xml"  ,  "sha1" : "6FBA17CB66442E9F190099173577C015CB2D3EFD"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Glass Solid Frosted" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Glass/Glass_Solid_Frosted/Glass_Solid_Frosted.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "950B92F200B4CF842FCF7910E056217F8247BFE7"       } ,   
+		{ "file" : "Glass/Glass_Solid_Frosted/Glass_Solid_Frosted_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "8A72755AFC1E7C80C61445984801EA5D962A2EC8"       } ,   
+		{ "file" : "Glass/Glass_Solid_Frosted/Glass_Solid_Frosted.xml",      "type" : "material_xml"  ,  "sha1" : "B35F6C479810D13D2AC9475FA8BEB9135631C202"       } 
+		]
+}

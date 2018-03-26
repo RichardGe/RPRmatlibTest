@@ -1,0 +1,11 @@
+{
+	"name" : "Glass Solid Brown" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Glass/Glass_Solid_Brown/Glass_Solid_Brown.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "ACFE0D8A2C4E639B86BD93518A029D0F39EE2930"       } ,   
+		{ "file" : "Glass/Glass_Solid_Brown/Glass_Solid_Brown_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "6D13937E7BEDB9FE712FAE3C7633B6CBC4C1ADDA"       } ,   
+		{ "file" : "Glass/Glass_Solid_Brown/Glass_Solid_Brown.xml",      "type" : "material_xml"  ,  "sha1" : "5A29236FAE4F97523C9B300BCC9F0CF9160C8F1C"       } 
+		]
+}

@@ -1,0 +1,12 @@
+{
+	"name" : "Car Paint Pearlescent" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/Car_Paint_Pearlescent/Car_Paint_Pearlescent.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "85D09CF0FCFB4289B167DDE6E9D1049F1F8FF810"       } ,   
+		{ "file" : "Car_Paints/Car_Paint_Pearlescent/Car_Paint_Pearlescent_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "4CF5C6B707F8A865467F117B65072E03303FE287"       } ,   
+		{ "file" : "Car_Paints/Car_Paint_Pearlescent/Car_Paint_Pearlescent.xml",      "type" : "material_xml"  ,  "sha1" : "69DB8D3994FB51BDC4AA8068B26EDC728937C09B"       } 
+		]
+}

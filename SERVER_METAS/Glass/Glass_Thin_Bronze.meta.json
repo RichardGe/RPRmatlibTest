@@ -1,0 +1,11 @@
+{
+	"name" : "Glass Thin Bronze" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Glass/Glass_Thin_Bronze/Glass_Thin_Bronze.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "732501E761F8125BBCD7A0ECDF9DCC1E72502731"       } ,   
+		{ "file" : "Glass/Glass_Thin_Bronze/Glass_Thin_Bronze_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "DFFAE48FC68F5469F309EC36403F89AA36F0E74C"       } ,   
+		{ "file" : "Glass/Glass_Thin_Bronze/Glass_Thin_Bronze.xml",      "type" : "material_xml"  ,  "sha1" : "5F41FD935535BA7C891C505040171FA0DE96B02F"       } 
+		]
+}

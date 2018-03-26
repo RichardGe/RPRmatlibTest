@@ -1,0 +1,11 @@
+{
+	"name" : "Plastic Glossy Black" ,
+	"description" : "  " ,
+	"category" : "Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Plastic/Plastic_Glossy_Black/Plastic_Glossy_Black.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "52FF0566FC237C296E1CC5609C2DECBF86667CE9"       } ,   
+		{ "file" : "Plastic/Plastic_Glossy_Black/Plastic_Glossy_Black_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "8AE27CF1DF8B803BD8B72A7CE205DB753849D16F"       } ,   
+		{ "file" : "Plastic/Plastic_Glossy_Black/Plastic_Glossy_Black.xml",      "type" : "material_xml"  ,  "sha1" : "CC3852EFBE777B188A036D9C0BA1F65E2E3EE517"       } 
+		]
+}

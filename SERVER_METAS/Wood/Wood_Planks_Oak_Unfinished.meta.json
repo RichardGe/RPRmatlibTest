@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Planks Oak Unfinished" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Oak_Tile.jpg",      "type" : "texture"  ,  "sha1" : "D08915CC00194EE1A95C1849C50573767AEE870C"       } ,   
+		{ "file" : "Wood/Wood_Planks_Oak_Unfinished/tex_0.png",      "type" : "texture"  ,  "sha1" : "26BD098BDEC641ED4B126B0B5F935BBDE46717C2"       } ,   
+		{ "file" : "Wood/Wood_Planks_Oak_Unfinished/Wood_Planks_Oak_Unfinished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "EF7E069DEABE9A6501B6603D281010BD6AF750C9"       } ,   
+		{ "file" : "Wood/Wood_Planks_Oak_Unfinished/Wood_Planks_Oak_Unfinished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "EBC2386C4FF2BB3E71721BDF6BCBD96F29D82960"       } ,   
+		{ "file" : "Wood/Wood_Planks_Oak_Unfinished/Wood_Planks_Oak_Unfinished.xml",      "type" : "material_xml"  ,  "sha1" : "F260232CB6D53ACEF3652648D441F6B288A3372B"       } 
+		]
+}

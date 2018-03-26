@@ -1,0 +1,12 @@
+{
+	"name" : "Eastwood Blue Pearl Pearlescent" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/EastwoodBluePearl_Pearlescent/EastwoodBluePearl_Pearlescent.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "BDDCBC4F6CD83CAEE5A165C0973B1BAAA87D33AC"       } ,   
+		{ "file" : "Car_Paints/EastwoodBluePearl_Pearlescent/EastwoodBluePearl_Pearlescent_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "3E3CDBB91EE951AAB14B57911F02AF12DF082D43"       } ,   
+		{ "file" : "Car_Paints/EastwoodBluePearl_Pearlescent/EastwoodBluePearl_Pearlescent.xml",      "type" : "material_xml"  ,  "sha1" : "5AF71997590217FA28953DCF979F86F946EF54D1"       } 
+		]
+}

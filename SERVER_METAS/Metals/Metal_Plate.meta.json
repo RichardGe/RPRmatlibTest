@@ -1,0 +1,12 @@
+{
+	"name" : "Metal Plate" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Metal_Plate.png",      "type" : "texture"  ,  "sha1" : "36E6C28406DA25CCF9A4188E292A998A5597319C"       } ,   
+		{ "file" : "Metals/Metal_Plate/Metal_Plate.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "4F7D7DFF11751EE828E8B3E17FED46081D34DB86"       } ,   
+		{ "file" : "Metals/Metal_Plate/Metal_Plate_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "642D5CF29BAB7B20372F7BA87AB210AD5343FADF"       } ,   
+		{ "file" : "Metals/Metal_Plate/Metal_Plate.xml",      "type" : "material_xml"  ,  "sha1" : "22EB286938E010EF3B1751127B5A7DFF75B62D01"       } 
+		]
+}

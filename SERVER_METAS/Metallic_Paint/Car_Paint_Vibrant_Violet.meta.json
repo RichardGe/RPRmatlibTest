@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Vibrant Violet" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Vibrant_Violet/Car_Paint_Vibrant_Violet.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "CA5B653266D8A473D494FEB902B0F1FF6870107D"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Vibrant_Violet/Car_Paint_Vibrant_Violet_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "61375E1A38EEDDFB48D9A99DEBEE42259C0E202C"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Vibrant_Violet/Car_Paint_Vibrant_Violet.xml",      "type" : "material_xml"  ,  "sha1" : "0D1BA630D26CFEF8ECD702115A2945DCA62493DD"       } 
+		]
+}

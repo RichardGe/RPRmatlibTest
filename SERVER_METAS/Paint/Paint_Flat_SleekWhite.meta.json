@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Flat Sleek White" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Flat_SleekWhite/Paint_Flat_SleekWhite.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "72CF5BEA8613B891DDE5306B462EFFF4E92BE752"       } ,   
+		{ "file" : "Paint/Paint_Flat_SleekWhite/Paint_Flat_SleekWhite_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "7B890A09CE41188D0061159EC17A51F3DCE3F570"       } ,   
+		{ "file" : "Paint/Paint_Flat_SleekWhite/Paint_Flat_SleekWhite.xml",      "type" : "material_xml"  ,  "sha1" : "962D637006652DB4C5CC5293BF56EE60ECEB82A6"       } 
+		]
+}

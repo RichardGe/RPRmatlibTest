@@ -1,0 +1,11 @@
+{
+	"name" : "Cherry Gumball Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/CherryGumball_Solid/CherryGumball_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "ECF92A3278796E0BDCE6A9034DA43C2F9DABD6C5"       } ,   
+		{ "file" : "Car_Paints/CherryGumball_Solid/CherryGumball_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "AA96735C5691761292E3347FD2902C679532DB07"       } ,   
+		{ "file" : "Car_Paints/CherryGumball_Solid/CherryGumball_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "24DF4B901AE228C4E00279FD7380687D9221A15A"       } 
+		]
+}

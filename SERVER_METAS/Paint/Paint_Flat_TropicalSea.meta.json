@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Flat Tropical Sea" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Flat_TropicalSea/Paint_Flat_TropicalSea.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B482FF44246C528286C6AB47CD1BB609FB9DEB1D"       } ,   
+		{ "file" : "Paint/Paint_Flat_TropicalSea/Paint_Flat_TropicalSea_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "5AA9F3B74D6647540186E71369C7FEF99E952A8B"       } ,   
+		{ "file" : "Paint/Paint_Flat_TropicalSea/Paint_Flat_TropicalSea.xml",      "type" : "material_xml"  ,  "sha1" : "6B22ABA09AAAB42B7D6BB4E68948EAEEB3CE4295"       } 
+		]
+}

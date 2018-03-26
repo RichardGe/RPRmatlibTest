@@ -1,0 +1,12 @@
+{
+	"name" : "Galvanized Steel" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Galvanized_Tile.jpg",      "type" : "texture"  ,  "sha1" : "DB7F917E4473DECBF1BCD454EDCB64F247E75710"       } ,   
+		{ "file" : "Metals/Galvanized-Steel/Galvanized-Steel.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "20279CC4220AD3B0B44E252E348625B62A76540E"       } ,   
+		{ "file" : "Metals/Galvanized-Steel/Galvanized-Steel_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "70AD662132A5D567EF5D791971E5CF1A3C256599"       } ,   
+		{ "file" : "Metals/Galvanized-Steel/Galvanized-Steel.xml",      "type" : "material_xml"  ,  "sha1" : "5AE424AB4E7AED0639FD9FE294292EC2D79183BB"       } 
+		]
+}

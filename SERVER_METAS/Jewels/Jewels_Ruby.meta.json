@@ -1,0 +1,11 @@
+{
+	"name" : "Jewels Ruby" ,
+	"description" : "  " ,
+	"category" : "Jewels" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Jewels/Jewels_Ruby/Jewels_Ruby.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "F0C38B65C23FBD07918AFC92D3FFD1DDB5CD9510"       } ,   
+		{ "file" : "Jewels/Jewels_Ruby/Jewels_Ruby_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "7913E06165EE6DEAB2D3E5600EC3C02BE35426E6"       } ,   
+		{ "file" : "Jewels/Jewels_Ruby/Jewels_Ruby.xml",      "type" : "material_xml"  ,  "sha1" : "D72E14B959386DBFFA360C03750AA092B0F57183"       } 
+		]
+}

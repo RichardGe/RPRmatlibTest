@@ -1,0 +1,11 @@
+{
+	"name" : "Car Paint Indy Yellow" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metallic_Paint/Car_Paint_Indy_Yellow/Car_Paint_Indy_Yellow.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "589EDA209462F036F9AFE1FC128355BD9DA15D31"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Indy_Yellow/Car_Paint_Indy_Yellow_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "106E0212E54BDA0F3C687D2C5F2BE800C163EC49"       } ,   
+		{ "file" : "Metallic_Paint/Car_Paint_Indy_Yellow/Car_Paint_Indy_Yellow.xml",      "type" : "material_xml"  ,  "sha1" : "51A63E82450A1489662470905A2D8733BC9C26AD"       } 
+		]
+}

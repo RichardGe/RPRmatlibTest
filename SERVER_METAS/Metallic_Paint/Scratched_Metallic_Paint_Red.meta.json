@@ -1,0 +1,12 @@
+{
+	"name" : "Scratched Metallic Paint Red" ,
+	"description" : "  " ,
+	"category" : "Metallic_Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Scratchs.jpg",      "type" : "texture"  ,  "sha1" : "D003B5B1325068F33533036C4BB91DBBE411BBAE"       } ,   
+		{ "file" : "Metallic_Paint/Scratched_Metallic_Paint_Red/Scratched_Metallic_Paint_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "ADD03F8D26C4547BAA43FF66C76801F3F0C11B27"       } ,   
+		{ "file" : "Metallic_Paint/Scratched_Metallic_Paint_Red/Scratched_Metallic_Paint_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "2CC4BAC7148B2B549A215578A62AF40FB17055E0"       } ,   
+		{ "file" : "Metallic_Paint/Scratched_Metallic_Paint_Red/Scratched_Metallic_Paint_Red.xml",      "type" : "material_xml"  ,  "sha1" : "B19A640704AB9D497196174FADD6FAAABDB9C3EB"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Glass Solid Tinted" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Glass/Glass_Solid_Tinted/Glass_Solid_Tinted.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "EC4B7FA8AA212FEF8A30C51D5157BAD63B7CAB83"       } ,   
+		{ "file" : "Glass/Glass_Solid_Tinted/Glass_Solid_Tinted_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D43A21624BB92B622A3B7B34B6FD181EA6D6FA93"       } ,   
+		{ "file" : "Glass/Glass_Solid_Tinted/Glass_Solid_Tinted.xml",      "type" : "material_xml"  ,  "sha1" : "C09EBF75A1347BC32850C4D0E0B059ECA871BABC"       } 
+		]
+}

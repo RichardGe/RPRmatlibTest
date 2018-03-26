@@ -1,0 +1,11 @@
+{
+	"name" : "Rat Rod Black Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/RatRodBlack_Solid/RatRodBlack_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "669CCD3B828796BF28FC68B92143693032513719"       } ,   
+		{ "file" : "Car_Paints/RatRodBlack_Solid/RatRodBlack_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "759CEFAD0C4DB887830F10E14A08257ED93747A8"       } ,   
+		{ "file" : "Car_Paints/RatRodBlack_Solid/RatRodBlack_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "2AE56175CFB83CC0916AB64C307F764B192F1584"       } 
+		]
+}

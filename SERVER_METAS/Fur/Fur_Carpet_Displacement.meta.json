@@ -1,0 +1,13 @@
+{
+	"name" : "Fur Carpet Displacement" ,
+	"description" : "  " ,
+	"category" : "Fur" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Fur/Fur_Carpet_Displacement/tex_0.png",      "type" : "texture"  ,  "sha1" : "FBA8C2A0EF6859B472BCD4A57AF4B9A9631C4DBF"       } ,   
+		{ "file" : "Fur/Fur_Carpet_Displacement/tex_1.png",      "type" : "texture"  ,  "sha1" : "FF52FA15465886658D6B1C641C3CDECF4B2164DA"       } ,   
+		{ "file" : "Fur/Fur_Carpet_Displacement/Fur_Carpet_Displacement.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "F0B5EEA5CEF275EA8D44F4428103B678625AFF46"       } ,   
+		{ "file" : "Fur/Fur_Carpet_Displacement/Fur_Carpet_Displacement_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "CC321A6D31D3469A34E9E073B247D6B0865F027F"       } ,   
+		{ "file" : "Fur/Fur_Carpet_Displacement/Fur_Carpet_Displacement.xml",      "type" : "material_xml"  ,  "sha1" : "7023F4FCB8C4991EBEF21BD56A49DE4FBB8B6A30"       } 
+		]
+}

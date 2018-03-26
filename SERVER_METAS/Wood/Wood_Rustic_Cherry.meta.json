@@ -1,0 +1,12 @@
+{
+	"name" : "Wood Rustic Cherry" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Wood_NormalMap.png",      "type" : "texture"  ,  "sha1" : "9FC8A5A9548334676F259B0537B1D85D9A9BA27E"       } ,   
+		{ "file" : "Wood/Wood_Rustic_Cherry/Wood_Rustic_Cherry.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "9E31E3512946A588F4DE6483CB8050444B7CC602"       } ,   
+		{ "file" : "Wood/Wood_Rustic_Cherry/Wood_Rustic_Cherry_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "863AD5476560DD4771125C8552DBDEB0005B1A72"       } ,   
+		{ "file" : "Wood/Wood_Rustic_Cherry/Wood_Rustic_Cherry.xml",      "type" : "material_xml"  ,  "sha1" : "E720FFD3481270E971B8EAC92735280559CC99B2"       } 
+		]
+}

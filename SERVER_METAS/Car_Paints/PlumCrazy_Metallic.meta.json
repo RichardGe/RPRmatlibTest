@@ -1,0 +1,12 @@
+{
+	"name" : "Plum Crazy Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/PlumCrazy_Metallic/PlumCrazy_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "B373D9B1EE2BE3F46A84F9339BFEB3F67FCE78DC"       } ,   
+		{ "file" : "Car_Paints/PlumCrazy_Metallic/PlumCrazy_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "5C83D4520E6D1CDC4DE3FE00EF86CF2BB7A3A4C8"       } ,   
+		{ "file" : "Car_Paints/PlumCrazy_Metallic/PlumCrazy_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "88A874D34EF07BA105B9E6E2985BAF7232E13829"       } 
+		]
+}

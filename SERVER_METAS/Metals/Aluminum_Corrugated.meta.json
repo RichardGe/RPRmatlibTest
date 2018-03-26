@@ -1,0 +1,12 @@
+{
+	"name" : "Aluminum Corrugated" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Aluminum_Corrugated.jpg",      "type" : "texture"  ,  "sha1" : "594F3EC01FEA798C11830D7E2FEB79BB9D4B1695"       } ,   
+		{ "file" : "Metals/Aluminum_Corrugated/Aluminum_Corrugated.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "C084DD4E5B9B07BBDAF3B70521EBF72AF48A5529"       } ,   
+		{ "file" : "Metals/Aluminum_Corrugated/Aluminum_Corrugated_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "41FA4590CA6773A7513E5F0E4F4F2DBBBEFC8ED4"       } ,   
+		{ "file" : "Metals/Aluminum_Corrugated/Aluminum_Corrugated.xml",      "type" : "material_xml"  ,  "sha1" : "E3296F71940BA8228C0581D564F384936DDB7DF6"       } 
+		]
+}

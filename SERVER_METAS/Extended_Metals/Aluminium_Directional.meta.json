@@ -1,0 +1,12 @@
+{
+	"name" : "Aluminium Directional" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/metal_scratches0010.png",      "type" : "texture"  ,  "sha1" : "13877211DB22E9BC7D898A767B8D634263C7794F"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Directional/Aluminium_Directional.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "5D7CA577F459E5DFCB7F27C0CC87AF566576ED57"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Directional/Aluminium_Directional_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "E0E5BA75D6567CFBA330E7EA76689568ECEF328B"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Directional/Aluminium_Directional.xml",      "type" : "material_xml"  ,  "sha1" : "31B4FB3DD21571A1A543B6F40B91E7F4F8A4645A"       } 
+		]
+}

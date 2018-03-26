@@ -1,0 +1,13 @@
+{
+	"name" : "Ground Grass Cut Displacement" ,
+	"description" : "  " ,
+	"category" : "Ground" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Ground/Ground_Grass_Cut_Displacement/tex_0.png",      "type" : "texture"  ,  "sha1" : "A28CC03E8F220EC8D87FFA6F6D914B417D31A9BC"       } ,   
+		{ "file" : "Ground/Ground_Grass_Cut_Displacement/tex_1.png",      "type" : "texture"  ,  "sha1" : "E6F37B3874148B35BB6F5348CA87A229AB2912A2"       } ,   
+		{ "file" : "Ground/Ground_Grass_Cut_Displacement/Ground_Grass_Cut_Displacement.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "350C69695AF4763B5C1DAC11C5373CA715AE540E"       } ,   
+		{ "file" : "Ground/Ground_Grass_Cut_Displacement/Ground_Grass_Cut_Displacement_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "CE6C907239D40D132291A9A72BC9F9AE962DF91A"       } ,   
+		{ "file" : "Ground/Ground_Grass_Cut_Displacement/Ground_Grass_Cut_Displacement.xml",      "type" : "material_xml"  ,  "sha1" : "33273D998CF5E87D84034726F185F32CE6EEA182"       } 
+		]
+}

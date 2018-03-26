@@ -1,0 +1,12 @@
+{
+	"name" : "Paint Eggshell Laser Lemon" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Noise_Bw.jpg",      "type" : "texture"  ,  "sha1" : "838CBC977AB07DF0F43C964DD2DB1413005A0127"       } ,   
+		{ "file" : "Paint/Paint_EggShell_LaserLemon/Paint_EggShell_LaserLemon.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "F486AFCB1B49ABDC7658E861F5596C88CBAE7D0D"       } ,   
+		{ "file" : "Paint/Paint_EggShell_LaserLemon/Paint_EggShell_LaserLemon_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "9101C79D705CB2863C22E5883DFD9EF314845DFE"       } ,   
+		{ "file" : "Paint/Paint_EggShell_LaserLemon/Paint_EggShell_LaserLemon.xml",      "type" : "material_xml"  ,  "sha1" : "7B5E0047003D94B69E549335253939FAB4399421"       } 
+		]
+}

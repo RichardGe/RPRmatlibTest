@@ -1,0 +1,13 @@
+{
+	"name" : "Brass Oxidized" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/oxidized0004.png",      "type" : "texture"  ,  "sha1" : "E71DD3438749C8F81EE337EFAA27465B57F47BB2"       } ,   
+		{ "file" : "Extended_Metals/Brass_Oxidized/tex_0.png",      "type" : "texture"  ,  "sha1" : "29FEB65343F1009C8E94FC8E5F1F23711DDBBAA1"       } ,   
+		{ "file" : "Extended_Metals/Brass_Oxidized/Brass_Oxidized.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "E227EC7081354C7516623FB31E223628B4E709C0"       } ,   
+		{ "file" : "Extended_Metals/Brass_Oxidized/Brass_Oxidized_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "8A05518E71418098533E050A2C69D85C1B16151C"       } ,   
+		{ "file" : "Extended_Metals/Brass_Oxidized/Brass_Oxidized.xml",      "type" : "material_xml"  ,  "sha1" : "830EF86824593F60EB099D9C35EF16668AA4AC87"       } 
+		]
+}

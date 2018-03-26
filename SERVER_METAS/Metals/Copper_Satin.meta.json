@@ -1,0 +1,11 @@
+{
+	"name" : "Copper Satin" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Metals/Copper_Satin/Copper_Satin.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "C68867F4E38C9D96F3BB16B124696BBF02016490"       } ,   
+		{ "file" : "Metals/Copper_Satin/Copper_Satin_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "EC2C88AFC4C9D2E663A5AC76473354A6DF82E140"       } ,   
+		{ "file" : "Metals/Copper_Satin/Copper_Satin.xml",      "type" : "material_xml"  ,  "sha1" : "AAA9036A34A06139448477C1E774521F5EB8F32C"       } 
+		]
+}

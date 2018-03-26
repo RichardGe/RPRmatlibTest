@@ -1,0 +1,12 @@
+{
+	"name" : "Gold Paint Cracked" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Gold_Paint_Cracked/tex_0.png",      "type" : "texture"  ,  "sha1" : "55773914EBCDF82EB288F4D41107C43777A08DF0"       } ,   
+		{ "file" : "Extended_Metals/Gold_Paint_Cracked/Gold_Paint_Cracked.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "776E318D859649950BB4431122814BA42854F489"       } ,   
+		{ "file" : "Extended_Metals/Gold_Paint_Cracked/Gold_Paint_Cracked_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "163481409B3C9B112D57C8988AF3242E7A3F2B4B"       } ,   
+		{ "file" : "Extended_Metals/Gold_Paint_Cracked/Gold_Paint_Cracked.xml",      "type" : "material_xml"  ,  "sha1" : "3F081139FF286DD0087C8172BC0F15149E2337E4"       } 
+		]
+}

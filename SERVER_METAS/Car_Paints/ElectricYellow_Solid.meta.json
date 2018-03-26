@@ -1,0 +1,11 @@
+{
+	"name" : "Electric Yellow Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/ElectricYellow_Solid/ElectricYellow_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "16A8455F726AA35C00491118ED27704470445A41"       } ,   
+		{ "file" : "Car_Paints/ElectricYellow_Solid/ElectricYellow_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "1F9AD5E6BDE9E3E4955E47755A33B8E4E1BA347A"       } ,   
+		{ "file" : "Car_Paints/ElectricYellow_Solid/ElectricYellow_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "2FA92E214285E4D109E361FDBCC54B97D88BBC4C"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Paint Flat Tart Orange" ,
+	"description" : "  " ,
+	"category" : "Paint" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Paint/Paint_Flat_TartOrange/Paint_Flat_TartOrange.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "84D0BB6C600B52E4E89C44CF6315330BDF1BAF73"       } ,   
+		{ "file" : "Paint/Paint_Flat_TartOrange/Paint_Flat_TartOrange_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "924E4E1A331C42BA5A93024982A228AB47BD79E3"       } ,   
+		{ "file" : "Paint/Paint_Flat_TartOrange/Paint_Flat_TartOrange.xml",      "type" : "material_xml"  ,  "sha1" : "E629EFAABFF164EFCD9A0E78C058BD67F0AF84C5"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Gold Brushed" ,
+	"description" : "  " ,
+	"category" : "Precious_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Precious_Metals/Gold_Brushed/Gold_Brushed.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "21E3EDAAB68C468E8E68A1A2ACF2B9915E57EF54"       } ,   
+		{ "file" : "Precious_Metals/Gold_Brushed/Gold_Brushed_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "919E256896387940CDA45D33C6A0786020CD79C5"       } ,   
+		{ "file" : "Precious_Metals/Gold_Brushed/Gold_Brushed.xml",      "type" : "material_xml"  ,  "sha1" : "06659C220478DB79DB9884A116405A26EFE0477D"       } 
+		]
+}

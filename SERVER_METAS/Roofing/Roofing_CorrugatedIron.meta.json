@@ -1,0 +1,14 @@
+{
+	"name" : "Roofing Corrugated Iron" ,
+	"description" : "  " ,
+	"category" : "Roofing" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Roofing_corugatedIron.jpg",      "type" : "texture"  ,  "sha1" : "4435E6D610AB49BBE23D4B2CAE2B650869F79F71"       } ,   
+		{ "file" : "RadeonProRMaps/Roofing_corugatedIron_normal.jpg",      "type" : "texture"  ,  "sha1" : "F93CA4632F891B20D70438E2B6723AA01BC5B85C"       } ,   
+		{ "file" : "RadeonProRMaps/Roofing_corugatedIron_specular.jpg",      "type" : "texture"  ,  "sha1" : "5B3C9740FBF70B6A522FAF44A3776CA645F5B3D4"       } ,   
+		{ "file" : "Roofing/Roofing_CorrugatedIron/Roofing_CorrugatedIron.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "1520EF38AF683625E242421B1CE30CFCDF3DE27B"       } ,   
+		{ "file" : "Roofing/Roofing_CorrugatedIron/Roofing_CorrugatedIron_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "9904CBAAD5A24DCA9B21B8BE9B686599AD4E5B0E"       } ,   
+		{ "file" : "Roofing/Roofing_CorrugatedIron/Roofing_CorrugatedIron.xml",      "type" : "material_xml"  ,  "sha1" : "7302E6D0FC114CE88851B412D6876150F4AD23F9"       } 
+		]
+}

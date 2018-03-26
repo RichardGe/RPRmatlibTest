@@ -1,0 +1,11 @@
+{
+	"name" : "Acrylic Refractive Matte Green" ,
+	"description" : "  " ,
+	"category" : "Transparent_Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Matte_Green/Acrylic_Refractive_Matte_Green.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "CDA9AD5527E41F3B922BB7322EA8639C431D07C5"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Matte_Green/Acrylic_Refractive_Matte_Green_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "C5648B6923D599D6F4335BEF3FF9347520BC02D0"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Refractive_Matte_Green/Acrylic_Refractive_Matte_Green.xml",      "type" : "material_xml"  ,  "sha1" : "F83EE9DCA249BFD33CB701E74C2537442487EA67"       } 
+		]
+}

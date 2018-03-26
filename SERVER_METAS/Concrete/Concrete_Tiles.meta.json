@@ -1,0 +1,13 @@
+{
+	"name" : "Concrete Tiles" ,
+	"description" : "  " ,
+	"category" : "Concrete" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/cement_Tiles.jpg",      "type" : "texture"  ,  "sha1" : "B6453BF8AA6D6DBEAB88E695D72EE9F374BABFE1"       } ,   
+		{ "file" : "RadeonProRMaps/cement_Tiles_normal.jpg",      "type" : "texture"  ,  "sha1" : "AD51FDB2C49DDC17DC3363583519C0C79AC867F0"       } ,   
+		{ "file" : "Concrete/Concrete_Tiles/Concrete_Tiles.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "32E9C7CC9892F09C250453CC6C80AC15876DCFF0"       } ,   
+		{ "file" : "Concrete/Concrete_Tiles/Concrete_Tiles_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "D9E26FCB5A4CBB9AC1484AD7D39FC13025BF70EB"       } ,   
+		{ "file" : "Concrete/Concrete_Tiles/Concrete_Tiles.xml",      "type" : "material_xml"  ,  "sha1" : "8AB8D755398ED3CB1623D7FE38BE8BB3E38712AD"       } 
+		]
+}

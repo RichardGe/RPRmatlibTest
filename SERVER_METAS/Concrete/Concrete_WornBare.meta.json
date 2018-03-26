@@ -1,0 +1,13 @@
+{
+	"name" : "Concrete Worn Bare" ,
+	"description" : "  " ,
+	"category" : "Concrete" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/cement_WornBare.jpg",      "type" : "texture"  ,  "sha1" : "A5D4A7B359FB8C0250BCE94D3576F7400FA63A58"       } ,   
+		{ "file" : "RadeonProRMaps/cement_WornBare_normal.jpg",      "type" : "texture"  ,  "sha1" : "731C72DB3FD74EBEAD38E5CC883FCF0FB83A1318"       } ,   
+		{ "file" : "Concrete/Concrete_WornBare/Concrete_WornBare.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "2536C17D86CB413DA3CB4911E558DAE8B8557511"       } ,   
+		{ "file" : "Concrete/Concrete_WornBare/Concrete_WornBare_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "E3C627221E938C996EB7F6DD0C10E115C54D4E9D"       } ,   
+		{ "file" : "Concrete/Concrete_WornBare/Concrete_WornBare.xml",      "type" : "material_xml"  ,  "sha1" : "F3A3BFE05F59D81760FB63A3FC3264754E157AB2"       } 
+		]
+}

@@ -1,0 +1,12 @@
+{
+	"name" : "Candy Pants Violet Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/CandyPantsViolet_Metallic/CandyPantsViolet_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "84FCAA235A73C6A522608CE00396233C836F43CE"       } ,   
+		{ "file" : "Car_Paints/CandyPantsViolet_Metallic/CandyPantsViolet_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "8DB7F96A6F175FA369333D7E5E4B99D5D35D93A6"       } ,   
+		{ "file" : "Car_Paints/CandyPantsViolet_Metallic/CandyPantsViolet_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "0EE98A395D7D81F47C07AFEBBF3F46021C9941F2"       } 
+		]
+}

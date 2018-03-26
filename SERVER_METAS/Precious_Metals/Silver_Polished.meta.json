@@ -1,0 +1,11 @@
+{
+	"name" : "Silver Polished" ,
+	"description" : "  " ,
+	"category" : "Precious_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Precious_Metals/Silver_Polished/Silver_Polished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "A63552BD2B793C9FCF5A333DED1F256AE50F11EE"       } ,   
+		{ "file" : "Precious_Metals/Silver_Polished/Silver_Polished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "74F09D99C1B6CB588271C08369912F55A2319717"       } ,   
+		{ "file" : "Precious_Metals/Silver_Polished/Silver_Polished.xml",      "type" : "material_xml"  ,  "sha1" : "02B50ED3EE2381F857E10E0522981367832CC62F"       } 
+		]
+}

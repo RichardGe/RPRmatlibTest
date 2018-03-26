@@ -1,0 +1,11 @@
+{
+	"name" : "Acrylic Transparent Glossy Red" ,
+	"description" : "  " ,
+	"category" : "Transparent_Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Transparent_Plastic/Acrylic_Transparent_Glossy_Red/Acrylic_Transparent_Glossy_Red.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "64CFDF0830925F3B9A8C7289A9CF15457D0EBB47"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Transparent_Glossy_Red/Acrylic_Transparent_Glossy_Red_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "8ED822C9963682DB30286CA4D5C32F1C883DDC9B"       } ,   
+		{ "file" : "Transparent_Plastic/Acrylic_Transparent_Glossy_Red/Acrylic_Transparent_Glossy_Red.xml",      "type" : "material_xml"  ,  "sha1" : "6932ACC2B0D2CC6BDABCA420ED1DF81FF9BC0157"       } 
+		]
+}

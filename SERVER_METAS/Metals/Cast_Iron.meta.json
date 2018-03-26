@@ -1,0 +1,12 @@
+{
+	"name" : "Cast Iron" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Noise_Bw.jpg",      "type" : "texture"  ,  "sha1" : "838CBC977AB07DF0F43C964DD2DB1413005A0127"       } ,   
+		{ "file" : "Metals/Cast_Iron/Cast_Iron.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "D258ED1DFE8C97FD4394606701845E1A0EB30328"       } ,   
+		{ "file" : "Metals/Cast_Iron/Cast_Iron_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "794A186E3391A135A3D55B0B737EA6A495C72910"       } ,   
+		{ "file" : "Metals/Cast_Iron/Cast_Iron.xml",      "type" : "material_xml"  ,  "sha1" : "BA124D026ADD98B22EEF6FFC0AC7635EF9704508"       } 
+		]
+}

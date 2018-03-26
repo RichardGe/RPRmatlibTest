@@ -1,0 +1,12 @@
+{
+	"name" : "Aluminium Sandblasted" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Aluminium_Sandblasted/tex_0.png",      "type" : "texture"  ,  "sha1" : "91D444740A7B4C432B0C958F2EA060BDEAAAF920"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Sandblasted/Aluminium_Sandblasted.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "CEC74679676AF0019B859590B4D702111D45FFDE"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Sandblasted/Aluminium_Sandblasted_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "B669F8FC3803A89700099B54DB84E24FFE636796"       } ,   
+		{ "file" : "Extended_Metals/Aluminium_Sandblasted/Aluminium_Sandblasted.xml",      "type" : "material_xml"  ,  "sha1" : "65B05728F0A24530C9FD5C9F2C6E8A5195E87B52"       } 
+		]
+}

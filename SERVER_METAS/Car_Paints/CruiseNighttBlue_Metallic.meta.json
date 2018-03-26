@@ -1,0 +1,12 @@
+{
+	"name" : "Cruise Night Blue Metallic" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/flakes.png",      "type" : "texture"  ,  "sha1" : "FAC887BFB8139D7EF4C1321167287FD824390286"       } ,   
+		{ "file" : "Car_Paints/CruiseNighttBlue_Metallic/CruiseNighttBlue_Metallic.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "C9A25D0EFEE78FA6E1C7A6862C18497C9AD2A1A4"       } ,   
+		{ "file" : "Car_Paints/CruiseNighttBlue_Metallic/CruiseNighttBlue_Metallic_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "6A2D9B5540EBB9AC40EB5B6363972169F38AA9BA"       } ,   
+		{ "file" : "Car_Paints/CruiseNighttBlue_Metallic/CruiseNighttBlue_Metallic.xml",      "type" : "material_xml"  ,  "sha1" : "E4D2558DDDB9D8476FDFB59EE1B9510521C9B4E0"       } 
+		]
+}

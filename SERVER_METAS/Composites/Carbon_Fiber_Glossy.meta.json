@@ -1,0 +1,12 @@
+{
+	"name" : "Carbon Fiber Glossy" ,
+	"description" : "  " ,
+	"category" : "Composites" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/CarbonFiber_N.jpg",      "type" : "texture"  ,  "sha1" : "1C58B576ED4E1E2DA58A9F812AB49D2890AB9207"       } ,   
+		{ "file" : "Composites/Carbon_Fiber_Glossy/Carbon_Fiber_Glossy.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "25D3F46AF147D19775466D5B9ADB508CC683CD32"       } ,   
+		{ "file" : "Composites/Carbon_Fiber_Glossy/Carbon_Fiber_Glossy_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "4F91573F967A3200B873AE7FC9F5FF9CAD7F2A50"       } ,   
+		{ "file" : "Composites/Carbon_Fiber_Glossy/Carbon_Fiber_Glossy.xml",      "type" : "material_xml"  ,  "sha1" : "FB9E2DC4B3CEA36688E89DC23DCBAE999283B915"       } 
+		]
+}

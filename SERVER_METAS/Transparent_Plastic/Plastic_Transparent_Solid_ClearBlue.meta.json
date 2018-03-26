@@ -1,0 +1,12 @@
+{
+	"name" : "Plastic Transparent Solid Clear Blue" ,
+	"description" : "  " ,
+	"category" : "Transparent_Plastic" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Transparent_Plastic/Plastic_Transparent_Solid_ClearBlue/tex_0.png",      "type" : "texture"  ,  "sha1" : "365CAA8E4895B2E6C2D98FB2B7B7D0A77DF01C0B"       } ,   
+		{ "file" : "Transparent_Plastic/Plastic_Transparent_Solid_ClearBlue/Plastic_Transparent_Solid_ClearBlue.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "A37B2696E957E60532D827A4647BC85B4486DBFD"       } ,   
+		{ "file" : "Transparent_Plastic/Plastic_Transparent_Solid_ClearBlue/Plastic_Transparent_Solid_ClearBlue_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "1954F7E7EF66C7A66660D1D63CC6A5A82B0C5792"       } ,   
+		{ "file" : "Transparent_Plastic/Plastic_Transparent_Solid_ClearBlue/Plastic_Transparent_Solid_ClearBlue.xml",      "type" : "material_xml"  ,  "sha1" : "DCA56F8B1F1C4ADA2253B139EEECBE1C91C233FC"       } 
+		]
+}

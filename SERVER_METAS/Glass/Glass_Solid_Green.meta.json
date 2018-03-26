@@ -1,0 +1,11 @@
+{
+	"name" : "Glass Solid Green" ,
+	"description" : "  " ,
+	"category" : "Glass" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Glass/Glass_Solid_Green/Glass_Solid_Green.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "24719D113CC2CF9C0D4B5153325BBFCE6D5DB9AE"       } ,   
+		{ "file" : "Glass/Glass_Solid_Green/Glass_Solid_Green_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "DE74C619858B4E7C29305C7D1E4D5CB96A040008"       } ,   
+		{ "file" : "Glass/Glass_Solid_Green/Glass_Solid_Green.xml",      "type" : "material_xml"  ,  "sha1" : "E3FB3F777225F3E1181C3D8D3F1D57A66B66C449"       } 
+		]
+}

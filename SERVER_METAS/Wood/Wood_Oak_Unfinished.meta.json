@@ -1,0 +1,13 @@
+{
+	"name" : "Wood Oak Unfinished" ,
+	"description" : "  " ,
+	"category" : "Wood" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/Oak_Tile.jpg",      "type" : "texture"  ,  "sha1" : "D08915CC00194EE1A95C1849C50573767AEE870C"       } ,   
+		{ "file" : "RadeonProRMaps/Oak_Tile_Bump.jpg",      "type" : "texture"  ,  "sha1" : "14E698B8F1176AC0CD51DA3B5A5CAAF7D8FBC19D"       } ,   
+		{ "file" : "Wood/Wood_Oak_Unfinished/Wood_Oak_Unfinished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "04343BBE98E4CF7AFF3A60C41EAD2BFA5192FF5B"       } ,   
+		{ "file" : "Wood/Wood_Oak_Unfinished/Wood_Oak_Unfinished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "380585D1591AD31D1D919A3656C57516CB974838"       } ,   
+		{ "file" : "Wood/Wood_Oak_Unfinished/Wood_Oak_Unfinished.xml",      "type" : "material_xml"  ,  "sha1" : "880DB887EA0DE0FECDD2E461C326DFB0CF5E9A8E"       } 
+		]
+}

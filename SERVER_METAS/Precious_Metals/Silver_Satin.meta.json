@@ -1,0 +1,11 @@
+{
+	"name" : "Silver Satin" ,
+	"description" : "  " ,
+	"category" : "Precious_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Precious_Metals/Silver_Satin/Silver_Satin.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "085F8622F8E58E08415145338D7893A006FC0671"       } ,   
+		{ "file" : "Precious_Metals/Silver_Satin/Silver_Satin_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "04E9E9A6AE6AC1F79E941D454FA7E02007AC4F25"       } ,   
+		{ "file" : "Precious_Metals/Silver_Satin/Silver_Satin.xml",      "type" : "material_xml"  ,  "sha1" : "46A82BD2F3D1561565A8A2B01B234B49DC26B496"       } 
+		]
+}

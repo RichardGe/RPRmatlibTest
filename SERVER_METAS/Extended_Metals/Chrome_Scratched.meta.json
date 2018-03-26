@@ -1,0 +1,12 @@
+{
+	"name" : "Chrome Scratched" ,
+	"description" : "  " ,
+	"category" : "Extended_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Extended_Metals/Chrome_Scratched/tex_0.png",      "type" : "texture"  ,  "sha1" : "11DB192DE33208C6649E2ECA9CEEE2E68A916CCA"       } ,   
+		{ "file" : "Extended_Metals/Chrome_Scratched/Chrome_Scratched.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "338266E322B6061E3E8B3316FD8BBD10E28AA734"       } ,   
+		{ "file" : "Extended_Metals/Chrome_Scratched/Chrome_Scratched_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "700C72A589B548038810F8FD7EC80093B058E13C"       } ,   
+		{ "file" : "Extended_Metals/Chrome_Scratched/Chrome_Scratched.xml",      "type" : "material_xml"  ,  "sha1" : "E7F9B9031EA4896336B77EBD1EBBCFF7F520A307"       } 
+		]
+}

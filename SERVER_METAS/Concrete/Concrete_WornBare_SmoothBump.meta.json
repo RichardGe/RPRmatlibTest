@@ -1,0 +1,14 @@
+{
+	"name" : "Concrete Worn Bare Smooth Bump" ,
+	"description" : "  " ,
+	"category" : "Concrete" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/cement_WornBare.jpg",      "type" : "texture"  ,  "sha1" : "A5D4A7B359FB8C0250BCE94D3576F7400FA63A58"       } ,   
+		{ "file" : "RadeonProRMaps/cement_WornBare_normal.jpg",      "type" : "texture"  ,  "sha1" : "731C72DB3FD74EBEAD38E5CC883FCF0FB83A1318"       } ,   
+		{ "file" : "RadeonProRMaps/cement_WornBare_specular.jpg",      "type" : "texture"  ,  "sha1" : "F8C619621E096ABA45A5D1BC8FEDA57E02A8A853"       } ,   
+		{ "file" : "Concrete/Concrete_WornBare_SmoothBump/Concrete_WornBare_SmoothBump.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "018AB7B4203B8E5FCF6723815F1BFAD4AD7599B0"       } ,   
+		{ "file" : "Concrete/Concrete_WornBare_SmoothBump/Concrete_WornBare_SmoothBump_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "2645858FABD469550305F0DC49B1FB89BEA8BD30"       } ,   
+		{ "file" : "Concrete/Concrete_WornBare_SmoothBump/Concrete_WornBare_SmoothBump.xml",      "type" : "material_xml"  ,  "sha1" : "BC3FB4D767AB9FBE91A1C5FCF2A456B9A26AC23D"       } 
+		]
+}

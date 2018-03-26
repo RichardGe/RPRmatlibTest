@@ -1,0 +1,12 @@
+{
+	"name" : "Brass Brushed" ,
+	"description" : "  " ,
+	"category" : "Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "RadeonProRMaps/BigNoise.jpg",      "type" : "texture"  ,  "sha1" : "988495FE144055814D705D5FB7EEC4C9B7C2D3C0"       } ,   
+		{ "file" : "Metals/Brass_Brushed/Brass_Brushed.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "675549021227399F02BBC562E8BDFA4200183B31"       } ,   
+		{ "file" : "Metals/Brass_Brushed/Brass_Brushed_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "78D6AE403FBD950AC7B39D1C27FD6B88AD181C41"       } ,   
+		{ "file" : "Metals/Brass_Brushed/Brass_Brushed.xml",      "type" : "material_xml"  ,  "sha1" : "59A68CC8B25C0FA4FFF10ED8E159C6B39E5FE4ED"       } 
+		]
+}

@@ -1,0 +1,11 @@
+{
+	"name" : "Bronze Polished" ,
+	"description" : "  " ,
+	"category" : "Precious_Metals" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Precious_Metals/Bronze_Polished/Bronze_Polished.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "03B7C1B6B56CFC75FFD50BD4326BE954C4F0FDA7"       } ,   
+		{ "file" : "Precious_Metals/Bronze_Polished/Bronze_Polished_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "AAEA4C634C9903906DF31ED36631630A30E8689A"       } ,   
+		{ "file" : "Precious_Metals/Bronze_Polished/Bronze_Polished.xml",      "type" : "material_xml"  ,  "sha1" : "EB59F2533CDC98E5A994C0F7CE3CB01004AA7AD2"       } 
+		]
+}

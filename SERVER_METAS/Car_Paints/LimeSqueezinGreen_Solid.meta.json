@@ -1,0 +1,11 @@
+{
+	"name" : "Lime Squeezin Green Solid" ,
+	"description" : "  " ,
+	"category" : "Car_Paints" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Car_Paints/LimeSqueezinGreen_Solid/LimeSqueezinGreen_Solid.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "40245482AFD7D6548D0A7581FBF713E85C6CE026"       } ,   
+		{ "file" : "Car_Paints/LimeSqueezinGreen_Solid/LimeSqueezinGreen_Solid_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "A19AD8BEEA4C37CA71D0F92085629C8E3F7FA79E"       } ,   
+		{ "file" : "Car_Paints/LimeSqueezinGreen_Solid/LimeSqueezinGreen_Solid.xml",      "type" : "material_xml"  ,  "sha1" : "42A4FFDE6426824559E0427B3704862AB46CEA29"       } 
+		]
+}

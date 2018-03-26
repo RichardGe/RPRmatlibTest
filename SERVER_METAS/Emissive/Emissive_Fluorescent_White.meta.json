@@ -1,0 +1,11 @@
+{
+	"name" : "Emissive Fluorescent White" ,
+	"description" : "  " ,
+	"category" : "Emissive" ,
+	"keywords" : [ "tree", "nature" ] ,
+	"dependencies" : [ 
+		{ "file" : "Emissive/Emissive_Fluorescent_White/Emissive_Fluorescent_White.jpg",      "type" : "thumbnail_large"  ,  "sha1" : "F50646BA8911B6B170B39D57F2EAF75F1CCE6F40"       } ,   
+		{ "file" : "Emissive/Emissive_Fluorescent_White/Emissive_Fluorescent_White_Icon.jpg",      "type" : "thumbnail_small"  ,  "sha1" : "E6404926D9034C40DB256B5FEBDB107B6F320503"       } ,   
+		{ "file" : "Emissive/Emissive_Fluorescent_White/Emissive_Fluorescent_White.xml",      "type" : "material_xml"  ,  "sha1" : "ABBE0C01270087AF20B54B8244787E11DCF235F0"       } 
+		]
+}
